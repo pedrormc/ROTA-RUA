@@ -1,41 +1,44 @@
 # CLN 712 Norte — Prospecção
 
-**Data da análise:** 2026-04-16
-**Modo:** análise pontual (empresa única)
-**Empresas analisadas:** 1
+**Data da última análise:** 2026-04-16
+**Modo:** análises pontuais (empresa por empresa, sob demanda)
+**Empresas analisadas até agora:** 2
 
 ---
 
 ## Ranking
 
-### 🟢 OK — baixa urgência (alto valor potencial)
+### 🟡 Melhoráveis (alta urgência / alta oportunidade)
 
 | # | Empresa | GMB | WPP | Site | IG | Nota |
 |---|---------|-----|-----|------|----|----|
-| 1 | [Lima Lasers](./lima-lasers/relatorio.md) | 9 | 7 | 9 | 7 | Maduro. Regressão GMB nos últimos 2 meses é o gancho. |
+| 1 | [Slim Brasília](./slim-brasilia/relatorio.md) | 7 | 3 | 4 | 8 | 12.7k seguidores IG vs site quebrado. Assimetria é o pitch. |
+
+### 🟢 OK (baixa urgência / alto valor)
+
+| # | Empresa | GMB | WPP | Site | IG | Nota |
+|---|---------|-----|-----|------|----|----|
+| 2 | [Lima Lasers](./lima-lasers/relatorio.md) | 9 | 7 | 9 | 7 | Maduro. Regressão GMB nos últimos 2 meses é o gancho. |
 
 ---
 
 ## Resumo
 
 - **Críticos 🔴:** 0
-- **Melhoráveis 🟡:** 0
-- **OK 🟢:** 1
+- **Melhoráveis 🟡:** 1 (Slim Brasília — **venda mais quente da quadra até agora**)
+- **OK 🟢:** 1 (Lima Lasers — venda consultiva de longo prazo)
+
+## Rota Sugerida (visitar nesta ordem)
+
+1. **Slim Brasília** (loja 41, Bloco D) — PRIMEIRA VISITA. Site quebrado + 87% reviews sem resposta + 12.7k IG = venda mais madura. Procurar Dra. Érica Coutinho ou recepção (Bruna, Élida, Gláucia).
+2. **Lima Lasers** (loja 23, Bloco D-7) — SEGUNDA VISITA. Venda consultiva, pacote GMB. Procurar Sr. Lima ou recepcionista Ana.
+
+**Observação sobre o Bloco D:** Slim Brasília está na loja 41, Lima Lasers na loja 23. Ambas no mesmo Bloco D da SCLRN 712 — pode fazer as duas visitas na mesma ida.
 
 ## Observações da quadra
 
-A CLN 712 Norte não foi varrida integralmente — esta análise foi disparada pontualmente para **Lima Lasers** por pedido do Robertin. Uma varredura completa da quadra deve ser agendada separadamente via `/prospect 712 norte` (sem nome de empresa) para mapear todos os comércios do bloco.
-
-## Rota Sugerida
-
-**Passagem única — Lima Lasers:**
-- Abordagem consultiva B2B
-- Foco em GMB (regressão + completude) como ticket de entrada
-- Upsell pra base WhatsApp B2B no 2º-3º mês
-- Não oferecer landing page nem refactor de site (já são bons)
-
----
+A CLN 712 Norte **não foi varrida integralmente**. Essas análises foram pontuais por pedido específico. Uma varredura completa (`/prospect 712 norte` sem nome de empresa) deve ser agendada pra mapear o resto dos comércios e identificar mais 🔴 críticos.
 
 ## Próxima Iteração Recomendada
 
-Rodar `/prospect 712 norte` completo para descobrir todos os comércios da quadra e priorizar os 🔴 críticos antes de investir tempo em Lima Lasers (que é 🟢 OK).
+Rodar `/prospect 712 norte` completo para cobrir as demais lojas do Bloco D e dos outros blocos da quadra.

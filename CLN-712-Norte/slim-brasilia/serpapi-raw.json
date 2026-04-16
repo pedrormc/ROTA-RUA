@@ -1,0 +1,39 @@
+{
+  "title": "Slim Brasília - Estética Corporal e Facial",
+  "place_id": "ChIJ_8lN_CQ6WpMRzpQuqnXAjJ0",
+  "data_id": "0x935a3a24fc4dc9ff:0x9d8cc075aa2e94ce",
+  "data_cid": "11352660372293063886",
+  "gps_coordinates": {"latitude": -15.7527328, "longitude": -47.8947758},
+  "rating": 4.7,
+  "reviews": 33,
+  "type": ["Centro de saúde e beleza", "Clínica de cirurgia plástica"],
+  "type_ids": ["health_and_beauty_shop", "plastic_surgery_clinic"],
+  "address": "Condomínio do Bloco D da SCLRN 712 Entradas 08 e 2, Loja 41 - Asa Norte, Brasília - DF, 70760-514",
+  "website": "https://www.slimbrasilia.com.br/",
+  "phone": "(61) 98269-9222",
+  "open_state": "Aberto · Fecha 20:00",
+  "plus_code": "64W4+X2 Asa Norte, Brasília - DF",
+  "hours": {
+    "segunda": "08:00-20:00",
+    "terca": "08:00-20:00",
+    "quarta": "08:00-20:00",
+    "quinta": "08:00-20:00",
+    "sexta": "08:00-20:00",
+    "sabado": "08:00-14:00",
+    "domingo": "Fechado"
+  },
+  "extensions": {
+    "from_the_business": ["Se identifica como uma empresa de empreendedoras"],
+    "accessibility": ["Entrada com acessibilidade para pessoas em cadeira de rodas", "Estacionamento com acessibilidade para pessoas em cadeira de rodas"],
+    "payments": ["Cartão de crédito", "Cartão de débito", "Pagamentos por dispositivo móvel via NFC"]
+  },
+  "instagram": "https://www.instagram.com/slimbrasilia/",
+  "instagram_handle": "@slimbrasilia",
+  "instagram_followers": 12779,
+  "ceo": "Dra. Erica Coutinho",
+  "ceo_instagram": "@dra.ericacoutinho",
+  "ceo_gmb_separate": "ChIJl8I_xV07WpMRSu5pFUtK1Gg (mesma loja 41, GMB separado da Dra)",
+  "topics_reviews": ["clínica", "equipe", "organizado", "gratidão", "simpáticas", "massagem", "ambiente"],
+  "coletado_em": "2026-04-16",
+  "fonte": "SerpAPI google_maps + google_maps_reviews + google"
+}
