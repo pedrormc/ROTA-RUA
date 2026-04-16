@@ -1,0 +1,27 @@
+{
+  "place_info": {
+    "title": "Arcoworking",
+    "rating": 4.8,
+    "reviews_total": 39
+  },
+  "reviews_analysis": {
+    "sample_size": 8,
+    "latest_review_date": "2026-04-14T21:17:14Z",
+    "days_since_last_review": 2,
+    "avg_rating_recent": 4.375,
+    "owner_response_rate": 0.0,
+    "responses_count": 0,
+    "notes": "Nenhum dos 8 reviews mais recentes tem resposta do dono. Review negativo de 1 estrela (Priscila Santos, nov/2025) sobre barulho/festa NÃO foi respondido."
+  },
+  "recent_reviews_sample": [
+    {"date": "2026-04-14", "rating": 5, "user": "Projvale eventos Edimar", "has_response": false},
+    {"date": "2026-03-05", "rating": 5, "user": "Leandro Ferreira", "snippet": "Ambiente confortável, extremamente bem equipado, Wi-Fi de qualidade, copa completa.", "has_response": false},
+    {"date": "2026-03-04", "rating": 4, "user": "Marcelo Marques", "snippet": "Bom lugar para reuniões de trabalho. Bem localizado.", "has_response": false},
+    {"date": "2026-02-10", "rating": 5, "user": "Anderson Sousa", "has_response": false},
+    {"date": "2026-02-03", "rating": 5, "user": "Marco Fonseca", "snippet": "Muito bom. Tudo bem organizado", "has_response": false},
+    {"date": "2025-11-08", "rating": 1, "user": "Priscila Santos", "snippet": "Péssimo!!!!!!!!! Musica alto e barulho!! Nao tem coworking! Alugaram para baderna!! Festa particular!!", "has_response": false, "flag": "CRITICAL - review negativo sem resposta"},
+    {"date": "2025-09-23", "rating": 5, "user": "Rafael Procaci", "snippet": "Excelentes instalações para reunião. Atendimento profissional", "has_response": false},
+    {"date": "2025-08-21", "rating": 5, "user": "john john", "snippet": "Ótimo lugar, indicado por Rebeca !!!", "has_response": false}
+  ],
+  "fetched_at": "2026-04-16T15:15:00"
+}

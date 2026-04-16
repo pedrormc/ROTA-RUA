@@ -1,0 +1,65 @@
+{
+  "title": "Arcoworking",
+  "place_id": "ChIJ6TIROLU5WpMRTyId0YRS7e0",
+  "data_id": "0x935a39b5381132e9:0xeded5284d11d224f",
+  "data_cid": "17144450086866854479",
+  "gps_coordinates": {
+    "latitude": -15.7452009,
+    "longitude": -47.8980273
+  },
+  "rating": 4.8,
+  "reviews": 39,
+  "rating_summary": [
+    {"stars": 1, "amount": 1},
+    {"stars": 2, "amount": 0},
+    {"stars": 3, "amount": 0},
+    {"stars": 4, "amount": 3},
+    {"stars": 5, "amount": 35}
+  ],
+  "type": ["Espaço de coworking"],
+  "type_ids": ["coworking_space"],
+  "extensions": [
+    {
+      "from_the_business": [
+        "Se identifica como uma empresa de empreendedoras"
+      ]
+    },
+    {
+      "accessibility": [
+        "Entrada com acessibilidade para pessoas em cadeira de rodas",
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+      ]
+    }
+  ],
+  "address": "St. de Habitações Coletivas e Geminadas Norte Scrn 714/715 Bloco B Ent lj 28 - Asa Norte, Brasília - DF, 70761-620",
+  "website": "https://www.arcoworking.com.br/",
+  "phone": "(61) 99998-2726",
+  "open_state": "Aberto · Fecha 22:00",
+  "plus_code": "7432+WQ Asa Norte, Brasília - DF",
+  "hours": [
+    {"quinta_feira": "08:00–22:00"},
+    {"sexta_feira": "08:00–22:00"},
+    {"sábado": "08:00–18:00"},
+    {"domingo": "Fechado"},
+    {"segunda_feira": "08:00–22:00"},
+    {"terça_feira": "08:00–22:00"},
+    {"quarta_feira": "08:00–22:00"}
+  ],
+  "user_reviews_topics": [
+    {"keyword": "ambiente", "mentions": 3},
+    {"keyword": "café", "mentions": 3},
+    {"keyword": "estrutura", "mentions": 2},
+    {"keyword": "reunião", "mentions": 2},
+    {"keyword": "experiência", "mentions": 2}
+  ],
+  "at_this_place": [
+    {
+      "title": "Arte em Curso",
+      "type": "Centro cultural",
+      "rating": 4.5,
+      "reviews": 21
+    }
+  ],
+  "fetched_at": "2026-04-16T15:14:00",
+  "source": "SerpAPI google_maps engine"
+}
