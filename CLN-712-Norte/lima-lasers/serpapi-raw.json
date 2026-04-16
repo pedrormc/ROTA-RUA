@@ -1,0 +1,34 @@
+{
+  "title": "Lima Lasers - Manutenção em equipamentos de estética, médicos e lasers em geral",
+  "place_id": "ChIJ1SQhE0g6WpMRz1NbG64xQ4A",
+  "data_id": "0x935a3a48132124d5:0x804331ae1b5b53cf",
+  "data_cid": "9242285484147430351",
+  "gps_coordinates": {"latitude": -15.7525534, "longitude": -47.8949095},
+  "rating": 4.8,
+  "reviews": 32,
+  "type": ["Serviço de manutenção de máquinas", "Escritório da empresa"],
+  "type_ids": ["machine_maintenance", "corporate_office"],
+  "extensions": [
+    {"accessibility": ["Entrada com acessibilidade para pessoas em cadeira de rodas", "Estacionamento com acessibilidade para pessoas em cadeira de rodas"]}
+  ],
+  "address": "St. de Habitações Coletivas e Geminadas Norte 712 Comércio Local Loja 23 Bloco D-7 - Asa Norte, Brasília - DF, 70760-514",
+  "website": "http://www.limalasers.com.br/",
+  "phone": "(61) 98272-7127",
+  "phone_fixed_from_site": "(61) 3034-6233",
+  "email_from_site": "lima@limalasers.com.br",
+  "open_state": "Aberto · Fecha 17:00",
+  "plus_code": "64W4+X2 Asa Norte, Brasília - DF",
+  "hours": {
+    "segunda": "08:00-17:00",
+    "terca": "08:00-17:00",
+    "quarta": "08:00-17:00",
+    "quinta": "08:00-17:00",
+    "sexta": "08:00-17:00",
+    "sabado": "Fechado",
+    "domingo": "Fechado"
+  },
+  "instagram": "https://www.instagram.com/limalasers/",
+  "instagram_followers": 1800,
+  "coletado_em": "2026-04-16",
+  "fonte": "SerpAPI google_maps + google_maps_reviews + google"
+}
