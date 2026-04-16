@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carne de Sol 712 — Tradição Nordestina em Brasília desde 1982</title>
+<meta name="description" content="Restaurante tradicional de carne de sol nordestina na 712 Norte, Brasília. Carnes no braseiro, marmita, delivery e reserva. 44 anos servindo a capital.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --red: #8b1e18;
+  --red-dark: #5f140f;
+  --red-light: #c43a2f;
+  --cream: #faf3e8;
+  --cream-dark: #f0e6d2;
+  --sand: #e8d5ad;
+  --ink: #1f1612;
+  --ink-soft: #5a4a40;
+  --gold: #c4a15a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  line-height: 1.6;
+  font-weight: 400;
+}
+h1, h2, h3 { font-family: 'Playfair Display', serif; font-weight: 700; line-height: 1.15; letter-spacing: -0.01em; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+/* NAV */
+nav {
+  position: fixed; top: 0; left: 0; right: 0;
+  padding: 18px 24px;
+  background: rgba(31,22,18,.96);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+nav .inner { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+nav .logo { font-family: 'Playfair Display', serif; font-size: 22px; font-weight: 900; color: var(--cream); letter-spacing: .02em; }
+nav .logo em { color: var(--gold); font-style: normal; }
+nav .links { display: flex; gap: 28px; }
+nav .links a { color: var(--cream); text-decoration: none; font-size: 14px; font-weight: 500; opacity: .85; transition: opacity .2s; }
+nav .links a:hover { opacity: 1; }
+nav a.cta {
+  background: #25d366; color: white;
+  padding: 10px 22px; border-radius: 999px;
+  text-decoration: none; font-size: 14px; font-weight: 600;
+}
+
+/* HERO */
+header.hero {
+  min-height: 90vh;
+  padding: 120px 24px 80px;
+  background:
+    linear-gradient(135deg, rgba(31,22,18,.85), rgba(139,30,24,.75)),
+    radial-gradient(circle at 70% 30%, #8b1e18 0%, #5f140f 60%, #1f1612 100%);
+  color: var(--cream);
+  display: flex; align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+header.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23c4a15a' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  opacity: .4;
+}
+header.hero .content { position: relative; z-index: 2; text-align: center; width: 100%; }
+.hero-badge {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: rgba(196,161,90,.15);
+  border: 1px solid var(--gold);
+  color: var(--gold);
+  padding: 8px 20px; border-radius: 999px;
+  font-size: 12px; font-weight: 500; letter-spacing: .15em; text-transform: uppercase;
+  margin-bottom: 32px;
+}
+header.hero h1 { font-size: clamp(48px, 7vw, 88px); margin-bottom: 24px; font-weight: 900; }
+header.hero h1 em { color: var(--gold); font-style: italic; font-weight: 700; }
+header.hero p.lede {
+  font-size: clamp(18px, 2vw, 22px);
+  max-width: 720px; margin: 0 auto 48px;
+  color: rgba(250,243,232,.9);
+  font-weight: 300;
+}
+.btn-row { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+.btn {
+  padding: 18px 36px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 16px; font-weight: 600;
+  display: inline-flex; align-items: center; gap: 10px;
+  transition: all .2s;
+}
+.btn-wpp { background: #25d366; color: white; box-shadow: 0 8px 24px rgba(37,211,102,.35); }
+.btn-wpp:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(37,211,102,.45); }
+.btn-ghost { background: transparent; color: var(--cream); border: 2px solid var(--gold); }
+.btn-ghost:hover { background: var(--gold); color: var(--ink); }
+
+.hero-stats {
+  display: flex; justify-content: center; gap: 60px; margin-top: 72px; flex-wrap: wrap;
+}
+.stat .num { font-family: 'Playfair Display', serif; font-size: 52px; color: var(--gold); font-weight: 900; line-height: 1; }
+.stat .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: .15em; color: rgba(250,243,232,.7); margin-top: 8px; }
+
+/* SECTION BASE */
+section { padding: 100px 24px; }
+.section-head { text-align: center; max-width: 720px; margin: 0 auto 64px; }
+.section-head .eyebrow { font-size: 12px; letter-spacing: .2em; color: var(--red); text-transform: uppercase; margin-bottom: 16px; font-weight: 600; }
+.section-head h2 { font-size: clamp(36px, 4.5vw, 56px); margin-bottom: 20px; color: var(--ink); }
+.section-head p { color: var(--ink-soft); font-size: 18px; }
+
+/* HISTORIA */
+.historia { background: var(--cream-dark); }
+.historia-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+.historia-img {
+  aspect-ratio: 4/5;
+  background:
+    linear-gradient(135deg, rgba(139,30,24,.8), rgba(31,22,18,.9)),
+    radial-gradient(circle at center, var(--red-light), var(--red-dark));
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 30px 60px rgba(31,22,18,.2);
+}
+.historia-img::after {
+  content: '1982';
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(80px, 16vw, 180px); color: var(--gold); font-weight: 900;
+  opacity: .3;
+}
+.historia-text .eyebrow { font-size: 12px; letter-spacing: .2em; color: var(--red); text-transform: uppercase; margin-bottom: 16px; font-weight: 600; }
+.historia-text h2 { font-size: clamp(32px, 4vw, 48px); margin-bottom: 24px; }
+.historia-text h2 em { color: var(--red); font-style: italic; }
+.historia-text p { color: var(--ink-soft); margin-bottom: 18px; font-size: 17px; }
+
+/* MENU */
+.menu { background: var(--cream); }
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+.dish-card {
+  background: white;
+  border: 1px solid var(--cream-dark);
+  padding: 36px 28px;
+  border-radius: 6px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+.dish-card::before {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--red), var(--gold));
+  transform: scaleX(0); transform-origin: left;
+  transition: transform .3s;
+}
+.dish-card:hover { transform: translateY(-6px); box-shadow: 0 24px 48px rgba(31,22,18,.1); }
+.dish-card:hover::before { transform: scaleX(1); }
+.dish-card .tag { font-size: 11px; letter-spacing: .15em; color: var(--gold); text-transform: uppercase; font-weight: 600; margin-bottom: 12px; display: block; }
+.dish-card h3 { font-size: 26px; margin-bottom: 10px; }
+.dish-card p { color: var(--ink-soft); font-size: 15px; margin-bottom: 16px; }
+.dish-card .price { font-family: 'Playfair Display', serif; font-size: 22px; color: var(--red); font-weight: 700; }
+
+/* SOCIAL PROOF */
+.social { background: var(--ink); color: var(--cream); }
+.social .section-head h2 { color: var(--cream); }
+.social .section-head p { color: rgba(250,243,232,.75); }
+.social .section-head .eyebrow { color: var(--gold); }
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+.review-card {
+  background: rgba(250,243,232,.06);
+  border: 1px solid rgba(250,243,232,.1);
+  padding: 32px;
+  border-radius: 6px;
+}
+.review-card .stars { color: var(--gold); font-size: 18px; letter-spacing: 2px; margin-bottom: 16px; }
+.review-card p { color: rgba(250,243,232,.9); margin-bottom: 16px; font-style: italic; font-size: 15px; }
+.review-card .author { font-size: 13px; color: rgba(250,243,232,.6); font-weight: 600; letter-spacing: .05em; }
+
+/* VISIT */
+.visit { background: var(--cream-dark); }
+.visit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
+.visit-card {
+  background: white;
+  padding: 40px;
+  border-radius: 6px;
+  border-top: 3px solid var(--red);
+}
+.visit-card h3 { font-size: 28px; margin-bottom: 20px; }
+.visit-card .info-row { display: flex; gap: 16px; margin-bottom: 18px; align-items: start; }
+.visit-card .info-row .icon { font-size: 20px; margin-top: 2px; }
+.visit-card .info-row .txt strong { display: block; font-size: 13px; text-transform: uppercase; letter-spacing: .1em; color: var(--red); margin-bottom: 4px; }
+.visit-card .info-row .txt span { color: var(--ink-soft); font-size: 15px; line-height: 1.5; }
+
+/* CTA BAND */
+.cta-band {
+  background:
+    linear-gradient(135deg, rgba(139,30,24,.92), rgba(31,22,18,.96)),
+    radial-gradient(circle at 30% 50%, var(--red-light), var(--red-dark));
+  color: var(--cream);
+  text-align: center;
+  padding: 120px 24px;
+}
+.cta-band h2 { font-size: clamp(36px, 5vw, 56px); margin-bottom: 24px; }
+.cta-band h2 em { color: var(--gold); font-style: italic; }
+.cta-band p { color: rgba(250,243,232,.85); font-size: 18px; max-width: 620px; margin: 0 auto 40px; }
+
+/* FOOTER */
+footer {
+  background: var(--ink);
+  color: rgba(250,243,232,.7);
+  padding: 60px 24px 30px;
+}
+.footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto; }
+.footer-grid h4 { font-family: 'Inter', sans-serif; font-size: 12px; letter-spacing: .15em; text-transform: uppercase; color: var(--gold); margin-bottom: 16px; font-weight: 600; }
+.footer-grid p, .footer-grid a { color: rgba(250,243,232,.7); font-size: 14px; text-decoration: none; display: block; margin-bottom: 8px; }
+.footer-grid a:hover { color: var(--gold); }
+.footer-bottom { text-align: center; padding-top: 40px; margin-top: 40px; border-top: 1px solid rgba(250,243,232,.1); font-size: 12px; color: rgba(250,243,232,.5); }
+
+/* FLOATING WHATSAPP */
+.wpp-float {
+  position: fixed; bottom: 24px; right: 24px;
+  background: #25d366; color: white;
+  width: 64px; height: 64px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 10px 28px rgba(37,211,102,.45);
+  text-decoration: none;
+  z-index: 99;
+  transition: transform .2s;
+}
+.wpp-float:hover { transform: scale(1.08); }
+
+@media (max-width: 768px) {
+  .historia-grid, .visit-grid { grid-template-columns: 1fr; gap: 40px; }
+  nav .links { display: none; }
+  header.hero { padding: 100px 20px 60px; min-height: 80vh; }
+  .hero-stats { gap: 32px; margin-top: 48px; }
+  section { padding: 70px 20px; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <div class="logo">Carne de Sol <em>712</em></div>
+    <div class="links">
+      <a href="#historia">História</a>
+      <a href="#cardapio">Cardápio</a>
+      <a href="#visita">Onde nos visitar</a>
+    </div>
+    <a href="https://wa.me/5561983162602?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido" class="cta">Pedir</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="content container">
+    <span class="hero-badge">⭐ Desde 1982 · 44 anos de tradição</span>
+    <h1>O sabor do <em>sertão</em><br>no coração de Brasília</h1>
+    <p class="lede">Carnes assadas no braseiro, marmitas generosas e o verdadeiro feijão tropeiro. Uma casa de família servindo o melhor da cozinha nordestina na 712 Norte desde 1982.</p>
+    <div class="btn-row">
+      <a href="https://wa.me/5561983162602?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido%20ou%20reserva" class="btn btn-wpp">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2s-.8 1-1 1.2c-.2.2-.4.2-.7 0-.8-.3-1.6-.8-2.3-1.4-.6-.6-1-1.2-1.4-1.9-.2-.3 0-.5.1-.7l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.6-1.6-.9-2.2-.2-.5-.5-.5-.7-.5H7c-.2 0-.5.1-.7.4-.3.3-1 1-1 2.3 0 1.4 1 2.7 1.2 2.9.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5 0-.1-.2-.2-.5-.4zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.2-1.4c1.4.8 3 1.2 4.8 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg>
+        Pedir no WhatsApp
+      </a>
+      <a href="#cardapio" class="btn btn-ghost">Ver cardápio</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><div class="num">44</div><div class="lbl">Anos de história</div></div>
+      <div class="stat"><div class="num">4.3★</div><div class="lbl">2.263 avaliações</div></div>
+      <div class="stat"><div class="num">8.1K</div><div class="lbl">Seguidores no Instagram</div></div>
+    </div>
+  </div>
+</header>
+
+<section id="historia" class="historia">
+  <div class="container">
+    <div class="historia-grid">
+      <div class="historia-img"></div>
+      <div class="historia-text">
+        <div class="eyebrow">Nossa História</div>
+        <h2>Uma casa de família,<br><em>44 anos no mesmo lugar</em></h2>
+        <p>Em 1982, abrimos as portas na 712 Norte com uma ideia simples: trazer o sabor autêntico da cozinha nordestina pra mesa do brasiliense. Quatro décadas depois, continuamos no mesmo endereço, servindo as mesmas receitas que conquistaram gerações de clientes.</p>
+        <p>Carne de sol grelhada no braseiro na medida certa. Mandioca cremosa. Manteiga de garrafa feita como se fazia no sertão. Feijão tropeiro que já virou meme no Instagram.</p>
+        <p>Aqui a comida é de verdade, o atendimento é de gente que te conhece e o tempero é da família. Seja bem-vindo à Carne de Sol 712.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="cardapio" class="menu">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Nosso Cardápio</div>
+      <h2>Os clássicos da casa</h2>
+      <p>Pratos generosos pensados pra compartilhar. Porções individuais e família. Marmitas pra levar ou receber em casa.</p>
+    </div>
+    <div class="menu-grid">
+      <div class="dish-card">
+        <span class="tag">Prato mais pedido</span>
+        <h3>Carne de Sol Completa</h3>
+        <p>A clássica carne de sol grelhada no braseiro com mandioca, manteiga de garrafa, arroz, feijão tropeiro e salada. Serve 4 pessoas.</p>
+        <div class="price">R$ 174,00</div>
+      </div>
+      <div class="dish-card">
+        <span class="tag">Pra dividir</span>
+        <h3>Porção de Carne de Sol</h3>
+        <p>Carne de sol bem grelhada servida com manteiga de garrafa. A melhor pedida pra happy hour com a turma.</p>
+        <div class="price">R$ 74,00</div>
+      </div>
+      <div class="dish-card">
+        <span class="tag">Delivery</span>
+        <h3>Marmita Individual</h3>
+        <p>Marmita generosa com carne de sol, mandioca, arroz, feijão e salada. O custo-benefício mais citado pelos clientes.</p>
+        <div class="price">consulte</div>
+      </div>
+      <div class="dish-card">
+        <span class="tag">Especialidade</span>
+        <h3>Escondidinho de Carne Seca</h3>
+        <p>Purê cremoso de mandioca gratinado com carne seca desfiada. Para até 3 pessoas.</p>
+        <div class="price">consulte</div>
+      </div>
+      <div class="dish-card">
+        <span class="tag">Nordeste de verdade</span>
+        <h3>Baião de Dois</h3>
+        <p>Arroz e feijão-de-corda cozidos juntos com queijo coalho, carne seca e tempero da casa.</p>
+        <div class="price">consulte</div>
+      </div>
+      <div class="dish-card">
+        <span class="tag">Para happy hour</span>
+        <h3>Picanha do Braseiro</h3>
+        <p>Picanha fatiada na brasa com batata frita crocante e molho da casa. Acompanhamentos à parte.</p>
+        <div class="price">consulte</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="social">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">O que dizem por aí</div>
+      <h2>4.3★ em 2.263 avaliações no Google</h2>
+      <p>Quatro décadas servindo famílias de Brasília. A melhor propaganda é o cliente que volta.</p>
+    </div>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Pra quem curte carne de sol no estilo nordestino, é o lugar! Preços interessantes, porções bem servidas. Carne de sol completa pra 4 pessoas R$ 174. O cardápio é variado. A comida é saborosa!"</p>
+        <div class="author">— Filipe Valença · Google Review</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Pedimos uma porção de carne de sol. Bem saborosa, bem grelhada, tempero saboroso. A entrega foi rápida, a carne estava quentinha. Vale muito a pena!!"</p>
+        <div class="author">— Gabriella Boato · Google Review</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Tradicional restaurante de carne de sol, já conhecia, e o atendimento do Raimundo Nonato sempre excelente."</p>
+        <div class="author">— Wagner Luiz · Google Review</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="visita" class="visit">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Venha nos visitar</div>
+      <h2>Estamos te esperando</h2>
+      <p>No salão ou em casa, o sabor é o mesmo.</p>
+    </div>
+    <div class="visit-grid">
+      <div class="visit-card">
+        <h3>No salão</h3>
+        <div class="info-row">
+          <div class="icon">📍</div>
+          <div class="txt">
+            <strong>Endereço</strong>
+            <span>SHCGN 712 Bloco D Loja 9<br>Asa Norte · Brasília-DF<br>CEP 70840-000</span>
+          </div>
+        </div>
+        <div class="info-row">
+          <div class="icon">🕐</div>
+          <div class="txt">
+            <strong>Horário</strong>
+            <span>Segunda a Sábado · 10:30 às 23:30<br>Domingo · 10:30 às 18:00</span>
+          </div>
+        </div>
+        <div class="info-row">
+          <div class="icon">🚗</div>
+          <div class="txt">
+            <strong>Estacionamento</strong>
+            <span>Estacionamento gratuito · muitas vagas · acessível</span>
+          </div>
+        </div>
+        <div class="info-row">
+          <div class="icon">☎️</div>
+          <div class="txt">
+            <strong>Telefone</strong>
+            <span>(61) 3272-3135 · (61) 3349-7020</span>
+          </div>
+        </div>
+      </div>
+      <div class="visit-card">
+        <h3>Em casa</h3>
+        <div class="info-row">
+          <div class="icon">💬</div>
+          <div class="txt">
+            <strong>WhatsApp direto</strong>
+            <span>(61) 98316-2602 · peça sem taxa de app</span>
+          </div>
+        </div>
+        <div class="info-row">
+          <div class="icon">🛵</div>
+          <div class="txt">
+            <strong>Delivery próprio</strong>
+            <span>Entregamos em toda Asa Norte e regiões próximas. Marmitas prontas, porções, refeições completas.</span>
+          </div>
+        </div>
+        <div class="info-row">
+          <div class="icon">📱</div>
+          <div class="txt">
+            <strong>Cardápio online</strong>
+            <span>Peça pelo nosso cardápio digital — ou pelos apps parceiros.</span>
+          </div>
+        </div>
+        <div style="margin-top:28px;">
+          <a href="https://wa.me/5561983162602?text=Olá!%20Quero%20pedir%20delivery" class="btn btn-wpp" style="width:100%; justify-content:center;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2s-.8 1-1 1.2c-.2.2-.4.2-.7 0-.8-.3-1.6-.8-2.3-1.4-.6-.6-1-1.2-1.4-1.9-.2-.3 0-.5.1-.7l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.6-1.6-.9-2.2-.2-.5-.5-.5-.7-.5H7c-.2 0-.5.1-.7.4-.3.3-1 1-1 2.3 0 1.4 1 2.7 1.2 2.9.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5 0-.1-.2-.2-.5-.4zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.2-1.4c1.4.8 3 1.2 4.8 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg>
+            Pedir pelo WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="container">
+    <h2>Faz <em>44 anos</em> que esperamos por você</h2>
+    <p>Reserve sua mesa, peça pelo WhatsApp ou venha descobrir por que tantas famílias de Brasília chamam a 712 de casa.</p>
+    <a href="https://wa.me/5561983162602?text=Olá!%20Gostaria%20de%20reservar%20uma%20mesa" class="btn btn-wpp">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2s-.8 1-1 1.2c-.2.2-.4.2-.7 0-.8-.3-1.6-.8-2.3-1.4-.6-.6-1-1.2-1.4-1.9-.2-.3 0-.5.1-.7l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.6-1.6-.9-2.2-.2-.5-.5-.5-.7-.5H7c-.2 0-.5.1-.7.4-.3.3-1 1-1 2.3 0 1.4 1 2.7 1.2 2.9.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5 0-.1-.2-.2-.5-.4zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.2-1.4c1.4.8 3 1.2 4.8 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg>
+      Falar conosco no WhatsApp
+    </a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-grid">
+    <div>
+      <div style="font-family:'Playfair Display',serif;font-size:24px;font-weight:900;color:var(--cream);margin-bottom:8px;">Carne de Sol <span style="color:var(--gold)">712</span></div>
+      <p style="font-size:13px;">Cozinha nordestina tradicional<br>na 712 Norte desde 1982.</p>
+    </div>
+    <div>
+      <h4>Contato</h4>
+      <a href="https://wa.me/5561983162602">WhatsApp (61) 98316-2602</a>
+      <a href="tel:+556132723135">Telefone (61) 3272-3135</a>
+      <a href="tel:+556133497020">Telefone (61) 3349-7020</a>
+    </div>
+    <div>
+      <h4>Endereço</h4>
+      <p>SHCGN 712 Bloco D Loja 9</p>
+      <p>Asa Norte · Brasília-DF</p>
+      <p>Seg-Sáb · 10:30 às 23:30</p>
+      <p>Domingo · 10:30 às 18:00</p>
+    </div>
+    <div>
+      <h4>Redes</h4>
+      <a href="https://instagram.com/carnedesol712" target="_blank" rel="noopener">Instagram @carnedesol712</a>
+      <a href="https://beacons.ai/carnedesol712" target="_blank" rel="noopener">Reservas & Links</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    © 2026 Carne de Sol 712 · 44 anos de tradição nordestina em Brasília
+  </div>
+</footer>
+
+<a href="https://wa.me/5561983162602?text=Olá!" class="wpp-float" aria-label="WhatsApp">
+  <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2s-.8 1-1 1.2c-.2.2-.4.2-.7 0-.8-.3-1.6-.8-2.3-1.4-.6-.6-1-1.2-1.4-1.9-.2-.3 0-.5.1-.7l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.6-1.6-.9-2.2-.2-.5-.5-.5-.7-.5H7c-.2 0-.5.1-.7.4-.3.3-1 1-1 2.3 0 1.4 1 2.7 1.2 2.9.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5 0-.1-.2-.2-.5-.4zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.2-1.4c1.4.8 3 1.2 4.8 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg>
+</a>
+
+</body>
+</html>
