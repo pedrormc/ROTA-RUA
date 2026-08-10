@@ -1,0 +1,5187 @@
+[
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "Superchance",
+    "slug": "superchance",
+    "nicho": "Casa lotérica",
+    "endereco": "Asa Norte Comércio Local Norte 313, BL E - Plano Piloto, Brasília - DF, 70766-550",
+    "telefone": null,
+    "site": null,
+    "rating": 4.3,
+    "reviews": 29,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": "Lotérica - permissionário local (exceção da blacklist)",
+    "cnpj": "02.840.845/0001-10",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJPQxIwyU6WpMR_5ukogwAnkc",
+    "data_id": "0x935a3a25c3480c3d:0x479e000ca2a49bff",
+    "gps": {
+      "latitude": -15.7502897,
+      "longitude": -47.893654999999995
+    },
+    "origem_raw": "q313-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "02.840.845/0001-10",
+        "razao_social": "R & M LOTERIAS LTDA",
+        "nome_fantasia": "LOTERIA SUPERCHANCE",
+        "cep": "70766550",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "8299706",
+        "abertura": "1998-11-13",
+        "capital_social": "760000,00",
+        "score": 9,
+        "tokens_em_comum": [
+          "superchance"
+        ],
+        "cep_bate_quadra": true
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–18:00"
+      },
+      {
+        "terça_feira": "08:00–18:00"
+      },
+      {
+        "quarta_feira": "08:00–18:00"
+      },
+      {
+        "quinta_feira": "08:00–18:00"
+      },
+      {
+        "sexta_feira": "08:00–18:00"
+      },
+      {
+        "sábado": "08:00–14:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "entrega": false
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": false,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 2,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2022-07-27T13:57:26Z",
+    "reviews_recentes": [
+      {
+        "autor": "Wanice Fortkamp",
+        "nota": 1.0,
+        "data": "2022-07-27T13:57:26Z",
+        "texto": "Não avisam o valor total antes de finalizar o atendimento e depois o cliente fica sem conseguir cancelar, dizem que não conseguem extornar e fazem chantagem dizendo que o prejuízo ficará para a atendente.",
+        "respondido": false
+      },
+      {
+        "autor": "Ednaldo Dr",
+        "nota": 5.0,
+        "data": "2022-09-24T19:04:14Z",
+        "texto": "O lugar prefeito fazer às suas apostas!\nAlém do bom atendimento.",
+        "respondido": false
+      },
+      {
+        "autor": "Fabio Mesquita",
+        "nota": 4.0,
+        "data": "2020-12-17T20:53:23Z",
+        "texto": "Sempre rápido o atendimento, muito bom mesmo.",
+        "respondido": false
+      },
+      {
+        "autor": "Francisco Araújo",
+        "nota": 5.0,
+        "data": "2020-06-03T12:14:15Z",
+        "texto": "Excelente atendimento",
+        "respondido": false
+      },
+      {
+        "autor": "Amo Riio Inn",
+        "nota": 4.0,
+        "data": "2017-08-12T23:47:14Z",
+        "texto": "A sorte é de quem for escolhido.",
+        "respondido": false
+      },
+      {
+        "autor": "Katia Regina",
+        "nota": 5.0,
+        "data": "2021-03-04T12:58:59Z",
+        "texto": "Atendimento rápido.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 78,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Sem telefone no perfil (+10)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 1475 dias (+18)",
+      "Nota 4.3 entre 4,0 e 4,5 (+5)",
+      "Só 2 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "BELLA DONNA 313 NORTE",
+    "slug": "bella-donna-313-norte",
+    "nicho": "Salão de Beleza",
+    "endereco": "Asa Norte Comércio Local Norte 313 - Asa Norte, Brasília - DF, 70766-550",
+    "telefone": "(61) 3340-4456",
+    "site": null,
+    "rating": 4.1,
+    "reviews": 23,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "64.166.246/0001-10",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca media)",
+    "place_id": "ChIJ__8v2yU6WpMR89VSBJ2cRSE",
+    "data_id": "0x935a3a25db2fffff:0x21459c9d0452d5f3",
+    "gps": {
+      "latitude": -15.7502607,
+      "longitude": -47.8938086
+    },
+    "origem_raw": "q313-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "15.001.313/0001-31",
+        "razao_social": "LA BELLA DONNA PIZZARIA LTDA",
+        "nome_fantasia": "PIZZARIA LA BELLA DONNA",
+        "cep": "35700092",
+        "municipio": "SETE LAGOAS",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "5611201",
+        "abertura": "2012-02-06",
+        "capital_social": "10000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "bella",
+          "donna"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "62.173.620/0131-68",
+        "razao_social": "SERASA S.A.",
+        "nome_fantasia": "",
+        "cep": "70302911",
+        "municipio": "BRASILIA",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Ativa",
+        "cnae": "6202300",
+        "abertura": "2021-06-02",
+        "capital_social": "1628949042,67",
+        "score": 3,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "03.073.675/0001-59",
+        "razao_social": "MARIA DE FATIMA ALVIM GOMES CAMPOS",
+        "nome_fantasia": "BELLA - DONNA DEPOSITO DE LINGERIE",
+        "cep": "70765040",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Inapta",
+        "cnae": "4781400",
+        "abertura": "1999-03-31",
+        "capital_social": "0,00",
+        "score": 6,
+        "tokens_em_comum": [
+          "bella",
+          "donna"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "64.166.246/0001-10",
+        "razao_social": "BELLA DONNA COSMETICOS E PERFUMARIA LTDA",
+        "nome_fantasia": "BELLA DONA",
+        "cep": "72016045",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4772500",
+        "abertura": "2025-12-26",
+        "capital_social": "100000,00",
+        "score": 7,
+        "tokens_em_comum": [
+          "bella",
+          "donna"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "34.371.495/0001-87",
+        "razao_social": "34.371.495 JANAINA BATISTA DE SOUZA CAMPOS",
+        "nome_fantasia": "",
+        "cep": "70750732",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "S",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2019-07-30",
+        "capital_social": "10000,00",
+        "score": 3,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "media",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–18:00"
+      },
+      {
+        "terça_feira": "08:00–18:00"
+      },
+      {
+        "quarta_feira": "08:00–18:00"
+      },
+      {
+        "quinta_feira": "08:00–18:00"
+      },
+      {
+        "sexta_feira": "08:30–18:30"
+      },
+      {
+        "sábado": "08:00–18:00"
+      },
+      {
+        "domingo": "08:00–18:00"
+      }
+    ],
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro",
+          "Banheiro de gênero neutro",
+          "Wi-Fi gratuito"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Cheques",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 3,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2019-11-11T16:02:00Z",
+    "reviews_recentes": [
+      {
+        "autor": "Amerissis Lima",
+        "nota": 4.0,
+        "data": "2019-11-11T16:02:00Z",
+        "texto": "O atendimento é excelente! me senti muito confortável no espaço, porém a manicure que me atendeu poderia ser mais capacitada, me arrancou um bife e não botou produto algum para cessar o sangue, meu dedo está inflamado.",
+        "respondido": false
+      },
+      {
+        "autor": "Marcelino Gomes",
+        "nota": 2.0,
+        "data": "2021-01-13T17:55:23Z",
+        "texto": "Boa tarde ! Poxa apesar de eu fazer alguns comentarios construtivos, sobre o salao , fico chateado com o atendimento feito por telefone acredito que nao fui atendito pela propietaria ,apesar que a intençao era so servir  . muito obrigado.",
+        "respondido": false
+      },
+      {
+        "autor": "Camila Moura",
+        "nota": 5.0,
+        "data": "2019-08-03T16:56:48Z",
+        "texto": "A Dona do Salão é a rainha das Sobrancelhas! Sempre disposta a atender, sempre saímos de lá satisfeitos.\nAmbiente lindo e organizado!",
+        "respondido": false
+      },
+      {
+        "autor": "Carla Mercia",
+        "nota": 5.0,
+        "data": "2019-06-13T14:30:11Z",
+        "texto": "Muitos anos que frequento! Faz toda a diferença vc ser atendida pela proprietária! Ela é muito atenciosa e competente em tudo que faz!",
+        "respondido": false
+      },
+      {
+        "autor": "Ruth Martins",
+        "nota": 5.0,
+        "data": "2020-01-20T20:39:03Z",
+        "texto": "A proprietária merece nota 10. Faz sobrancelhas com as técnicas mais modernas \"como ninguém \"... maravilhosamente bem!!!",
+        "respondido": false
+      },
+      {
+        "autor": "Rachel Porfirio",
+        "nota": 5.0,
+        "data": "2017-05-28T21:14:14Z",
+        "texto": "Frequento há dez anos. Serviços de qualidade. Preço justo e excelente atendimento.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 78,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 2464 dias (+18)",
+      "Nota 4.1 entre 4,0 e 4,5 (+5)",
+      "Só 3 fotos no perfil (+10)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Lígia Dantas Salão e Estética",
+    "slug": "ligia-dantas-salao-e-estetica",
+    "nicho": "Salão de Beleza",
+    "endereco": "Asa Norte Comércio Local Norte 312, BL E 312 Lj 61 - Asa Norte, Brasília - DF, 70765-550",
+    "telefone": "(61) 3349-3321",
+    "site": null,
+    "rating": 4.8,
+    "reviews": 25,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJZ4umQfE7WpMRjsBNgh_nDJg",
+    "data_id": "0x935a3bf141a68b67:0x980ce71f824dc08e",
+    "gps": {
+      "latitude": -15.7506557,
+      "longitude": -47.8935724
+    },
+    "origem_raw": "q312-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "07:30–19:00"
+      },
+      {
+        "terça_feira": "07:30–19:00"
+      },
+      {
+        "quarta_feira": "07:30–19:00"
+      },
+      {
+        "quinta_feira": "07:30–19:00"
+      },
+      {
+        "sexta_feira": "07:30–19:00"
+      },
+      {
+        "sábado": "07:30–19:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 3,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2020-03-11T13:02:42Z",
+    "reviews_recentes": [
+      {
+        "autor": "Marcela Tomaz",
+        "nota": 5.0,
+        "data": "2020-03-11T13:02:42Z",
+        "texto": "O salão está sempre organizado, as profissionais são atenciosas e o serviço é excelente. Ótimo custo benefício. Recomendo fortemente o acabamento das unhas com top coat feito na cabine de luz. As unhas saem prontas, secas e perfeitas, além de durarem o dobro do tempo. Também indico a avaliação e cui",
+        "respondido": false
+      },
+      {
+        "autor": "Dra. Pamela Martinez",
+        "nota": 5.0,
+        "data": "2022-04-19T14:33:30Z",
+        "texto": "Excelente lugar, faço minhas unhas a anos, sempre muito bem-feita e com muito capricho. Parabéns pelo serviço diferenciado. Tudo ótimo. Profissional dedicada e atenciosa. Muito sucesso a empresa. 🤩",
+        "respondido": false
+      },
+      {
+        "autor": "Sinara Rodrigues",
+        "nota": 5.0,
+        "data": "2022-10-29T22:33:02Z",
+        "texto": "Não abandono nunca mais! Unhas bem feitas, duram bastante tempo perfeitas e as profissionais são muito pontuais. Super indico o Salão da Lígia!",
+        "respondido": false
+      },
+      {
+        "autor": "Luiza Velloso",
+        "nota": 5.0,
+        "data": "2020-03-04T17:45:42Z",
+        "texto": "Adoro o salão! As meninas são super atenciosas e cuidadosas!",
+        "respondido": false
+      },
+      {
+        "autor": "Cinara Machado",
+        "nota": 1.0,
+        "data": "2020-03-05T12:44:27Z",
+        "texto": "Super indico ótimas profissonais uma bênção em nossas vidas parabéns ta lindo",
+        "respondido": false
+      },
+      {
+        "autor": "Bianca Sampaio",
+        "nota": 5.0,
+        "data": "2020-03-05T12:42:41Z",
+        "texto": "Ótimo salão, excelente atendimento!",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 73,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 2343 dias (+18)",
+      "Só 3 fotos no perfil (+10)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Frutaria 312 Norte",
+    "slug": "frutaria-312-norte",
+    "nicho": "Mercado",
+    "endereco": "SHCN CLN 312, BL D - Plano Piloto, Brasília - DF, 70765-500",
+    "telefone": "(61) 3710-3333",
+    "site": null,
+    "rating": 4.3,
+    "reviews": 30,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "49.997.342/0001-17",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJC38tHCk7WpMRligpYW7ipiA",
+    "data_id": "0x935a3b291c2d7f0b:0x20a6e26e61292896",
+    "gps": {
+      "latitude": -15.750364,
+      "longitude": -47.893027499999995
+    },
+    "origem_raw": "q312-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "49.997.342/0001-17",
+        "razao_social": "FRUTARIA 312 NORTE - PRODUTOS ALIMENTICIOS LTDA",
+        "nome_fantasia": "FRUTARIA 312 NORTE",
+        "cep": "70765530",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Inapta",
+        "cnae": "4724500",
+        "abertura": "2023-03-20",
+        "capital_social": "50000,00",
+        "score": 8,
+        "tokens_em_comum": [
+          "frutaria"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "33.706.288/0001-73",
+        "razao_social": "DAMIAO A. DE OLIVEIRA PRODUTOS ALIMENTICIOS",
+        "nome_fantasia": "FRUTARIA 312 NORTE",
+        "cep": "70765530",
+        "municipio": "BRASILIA",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Inapta",
+        "cnae": "4724500",
+        "abertura": "2019-05-23",
+        "capital_social": "30000,00",
+        "score": 8,
+        "tokens_em_comum": [
+          "frutaria"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "49.875.661/0001-50",
+        "razao_social": "EXPONENCIAL ESQUADRIAS LTDA",
+        "nome_fantasia": "",
+        "cep": "70765530",
+        "municipio": "BRASILIA",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4744005",
+        "abertura": "2023-03-09",
+        "capital_social": "50000,00",
+        "score": 7,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "49.692.713/0001-52",
+        "razao_social": "49.692.713 LAYANNE OLIVEIRA DOS SANTOS",
+        "nome_fantasia": "",
+        "cep": "70765530",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "S",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "1096100",
+        "abertura": "2023-02-23",
+        "capital_social": "10000,00",
+        "score": 7,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "28.014.846/0001-08",
+        "razao_social": "POLICE SURVIVAL LLC",
+        "nome_fantasia": "POLICE SURVIVAL LLC",
+        "cep": "",
+        "municipio": "EXTERIOR",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Ativa",
+        "cnae": "4693100",
+        "abertura": "2016-02-26",
+        "capital_social": "0,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–20:00"
+      },
+      {
+        "terça_feira": "08:00–20:00"
+      },
+      {
+        "quarta_feira": "08:00–20:00"
+      },
+      {
+        "quinta_feira": "08:00–20:00"
+      },
+      {
+        "sexta_feira": "08:00–20:00"
+      },
+      {
+        "sábado": "08:00–20:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 4,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2025-06-23T22:07:51Z",
+    "reviews_recentes": [
+      {
+        "autor": "Helena RORIZ TAVEIRA",
+        "nota": 5.0,
+        "data": "2025-06-23T22:07:51Z",
+        "texto": "Excelente entrega em domicílio.\nVale conferir",
+        "respondido": false
+      },
+      {
+        "autor": "Dmitri Carvalho",
+        "nota": 5.0,
+        "data": "2019-01-30T21:18:38Z",
+        "texto": "É semçre prazeroso ser bem atendido por pessoas que tem um carinho incrível com todos os clientes. E os produtos tem otima qualidade!",
+        "respondido": false
+      },
+      {
+        "autor": "Beth De Brasília",
+        "nota": 4.0,
+        "data": "2019-04-01T09:24:12Z",
+        "texto": "Está em crise com certeza, diminuiu a quantidade de frutas e verduras, mas ainda assim tem qualidade nos produtos. Que possam voltar a ser grande. Sucesso",
+        "respondido": false
+      },
+      {
+        "autor": "Alaôra Vieira",
+        "nota": 5.0,
+        "data": "2019-03-05T18:22:35Z",
+        "texto": "Pessoal super atencioso, diversos produtos de ótima qualidade. Eles picam as frutas se quiser e tem um bom preço.",
+        "respondido": false
+      },
+      {
+        "autor": "Patricia Lima",
+        "nota": 5.0,
+        "data": "2023-07-04T18:03:39Z",
+        "texto": "Produtos orgânicos, exelente atendimento, ampla variedade de congelados, vegetais e grãos.. tudo fresquinho... exelente atendimento!",
+        "respondido": false
+      },
+      {
+        "autor": "Dagma Andrade",
+        "nota": 5.0,
+        "data": "2023-02-21T14:12:18Z",
+        "texto": "Produtos excelentes e atendimento muito atencioso.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 68,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 413 dias (+18)",
+      "Nota 4.3 entre 4,0 e 4,5 (+5)",
+      "Só 4 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "314",
+    "par": "314/315",
+    "quadra_por_cep": "314",
+    "titulo": "Studio Elaine Express",
+    "slug": "studio-elaine-express",
+    "nicho": "Salão de Beleza",
+    "endereco": "SHCN CLN 314, LOJA 15 Lj 15 - Asa Norte, Brasília - DF, 70767-530",
+    "telefone": "(61) 99103-0222",
+    "site": null,
+    "rating": 4.1,
+    "reviews": 39,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "17.907.606/0001-08",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJ99TDxok5WpMR1-QR2FNzQJE",
+    "data_id": "0x935a3989c6c3d4f7:0x91407353d811e4d7",
+    "gps": {
+      "latitude": -15.7441512,
+      "longitude": -47.8949545
+    },
+    "origem_raw": "q314-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "52.169.765/0001-53",
+        "razao_social": "STUDIO ELAINE XAVIER LTDA",
+        "nome_fantasia": "STUDIO ELAINE XAVIER",
+        "cep": "03220200",
+        "municipio": "SAO PAULO",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2023-09-13",
+        "capital_social": "35000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "elaine",
+          "studio"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "42.361.540/0001-40",
+        "razao_social": "STUDIO ELAINE DIAS LTDA",
+        "nome_fantasia": "STUDIO ELAINE DIAS",
+        "cep": "31270400",
+        "municipio": "BELO HORIZONTE",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "9602501",
+        "abertura": "2021-06-17",
+        "capital_social": "20000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "elaine",
+          "studio"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "36.889.249/0001-47",
+        "razao_social": "STUDIO ELAINE SOUZA LTDA",
+        "nome_fantasia": "STIDIO ELAINE SOUZA",
+        "cep": "68920000",
+        "municipio": "LARANJAL DO JARI",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4781400",
+        "abertura": "2020-04-07",
+        "capital_social": "100000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "elaine",
+          "studio"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "17.907.606/0001-08",
+        "razao_social": "ELAINE INSTITUTO DE BELEZA E UTILIDADE DO LAR LTDA",
+        "nome_fantasia": "ELAINE INSTITUTO DE BELEZA E UTILIDADE DO LAR",
+        "cep": "70767530",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4759899",
+        "abertura": "2013-03-26",
+        "capital_social": "10000,00",
+        "score": 8,
+        "tokens_em_comum": [
+          "elaine"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "48.304.123/0001-42",
+        "razao_social": "STUDIO ELAINE CORREA LTDA",
+        "nome_fantasia": "ELAINE CORREA CABELO & BELEZA",
+        "cep": "19053360",
+        "municipio": "PRESIDENTE PRUDENTE",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2022-10-17",
+        "capital_social": "30000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "elaine",
+          "studio"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "07:30–18:00"
+      },
+      {
+        "terça_feira": "07:30–18:00"
+      },
+      {
+        "quarta_feira": "07:30–18:00"
+      },
+      {
+        "quinta_feira": "07:30–18:00"
+      },
+      {
+        "sexta_feira": "07:30–18:00"
+      },
+      {
+        "sábado": "07:30–18:00"
+      },
+      {
+        "domingo": "08:00–12:00"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 7,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2019-07-02T13:10:36Z",
+    "reviews_recentes": [
+      {
+        "autor": "Leticia Amorim",
+        "nota": 1.0,
+        "data": "2019-07-02T13:10:36Z",
+        "texto": "O progressiva saiu em uma semana.  A dona é super grossa assim como a filha ! Quando voltei para conversar sobre a progressiva mal feita ela foi super grossa ! E nem consegue  mantar uma conversa com educação ela consegue !nunca mais volta lá ! E não recomendo nem pras minhas inimigas !",
+        "respondido": false
+      },
+      {
+        "autor": "Gabriela Carvalho",
+        "nota": 2.0,
+        "data": "2018-11-30T19:59:24Z",
+        "texto": "O atendimento não foi ruim, mas a qualidade do serviço foi péssima! A manicure totalmente inexperiênte, cortou minhas unhas de qualquer jeito, não soube nem lixar as unhas! Se for tentar a sorte, escolha bem a manicure porque a que me atendeu foi lamentável....",
+        "respondido": false
+      },
+      {
+        "autor": "Dra Andrea Resende",
+        "nota": 5.0,
+        "data": "2022-03-25T15:38:15Z",
+        "texto": "Excelente atendimento! Bem localizado, local arejado e agradável. Todos os funcionários são maravilhosas e a dona do salão e ótima profissional, adorei o corte de cabelo e o atendimento. Indico o salão !",
+        "respondido": false
+      },
+      {
+        "autor": "MARCELO M. S.",
+        "nota": 1.0,
+        "data": "2023-03-31T03:48:58Z",
+        "texto": "Sai com o cabelo cortado, porém não gostei. O ambiente estava sujo, com cabelo pra todo lado, o cabeleireiro estava tossindo sem máscara, parou o corte para ir cuspir na calçada e todo desorganizado.",
+        "respondido": false
+      },
+      {
+        "autor": "Luanna Moreira",
+        "nota": 1.0,
+        "data": "2021-02-26T22:50:15Z",
+        "texto": "E um salão que não iria mais. A Eliane que fez o meu pé deixou as minhas unhas tortas, os cantos ficou tudo sem pintar. Nem tirou a cutícula direito.",
+        "respondido": false
+      },
+      {
+        "autor": "Ricardo Broges",
+        "nota": 5.0,
+        "data": "2026-06-09T20:08:51Z",
+        "texto": "muito bom",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 68,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 2596 dias (+18)",
+      "Nota 4.1 entre 4,0 e 4,5 (+5)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "311",
+    "par": "310/311",
+    "quadra_por_cep": "311",
+    "titulo": "Bijoux Mix",
+    "slug": "bijoux-mix",
+    "nicho": "Joalheria especializada em itens personalizados",
+    "endereco": "SHCN Comércio Local Norte 311 - Plano Piloto, Brasília - DF, 70757-500",
+    "telefone": "3963-3921",
+    "site": null,
+    "rating": 4.5,
+    "reviews": 29,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "19.063.546/0001-10",
+    "porte": "Empresa de Pequeno Porte (EPP)",
+    "mei": "N",
+    "gate_mei": "INCONCLUSIVO - confianca baixa, conferir na porta",
+    "place_id": "ChIJGRCaizA6WpMR2JQUfrdvjAQ",
+    "data_id": "0x935a3a308b9a1019:0x48c6fb77e1494d8",
+    "gps": {
+      "latitude": -15.756345099999999,
+      "longitude": -47.8911023
+    },
+    "origem_raw": "q311-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "19.063.546/0001-10",
+        "razao_social": "EDI BIJOUX LTDA",
+        "nome_fantasia": "EDI BIJOUX",
+        "cep": "03009030",
+        "municipio": "SAO PAULO",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4649410",
+        "abertura": "2013-10-14",
+        "capital_social": "20000,00",
+        "score": 3,
+        "tokens_em_comum": [
+          "bijoux"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "baixa",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–18:00"
+      },
+      {
+        "terça_feira": "09:00–18:00"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–18:00"
+      },
+      {
+        "sábado": "09:00–14:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 3,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2024-01-25T21:21:30Z",
+    "reviews_recentes": [
+      {
+        "autor": "Danilo Ferreira",
+        "nota": 5.0,
+        "data": "2024-01-25T21:21:30Z",
+        "texto": "Ótimo atendimento, muita variedade e preço justo.\nÉ o tipo de loja que não costuma ter na Asa Norte, então é uma boa opção.",
+        "respondido": false
+      },
+      {
+        "autor": "Silvana Petrizzi",
+        "nota": 5.0,
+        "data": "2026-02-15T21:46:56Z",
+        "texto": "Tem de tudo um pouco..",
+        "respondido": false
+      },
+      {
+        "autor": "Sophia Portela",
+        "nota": 4.0,
+        "data": "2020-07-18T18:52:40Z",
+        "texto": "la tem varias coisas legais, mas fiquei bem chateada, pois quando cheguei em casa nao estava com tudo que eu comprei, agora eu tenho que esperar até domingo para ir lá...",
+        "respondido": false
+      },
+      {
+        "autor": "SC Silva",
+        "nota": 4.0,
+        "data": "2019-05-13T23:01:35Z",
+        "texto": "Lojinha bem legal, que tem várias opções de lembrancinhas e presentes e também acessórios de vestuário e cabelo para o dia a dia, com preços bem acessíveis.",
+        "respondido": false
+      },
+      {
+        "autor": "Alice Mello",
+        "nota": 1.0,
+        "data": "2023-07-08T14:42:59Z",
+        "texto": "Tem um furo mas não tem o outro, acho que deveria ver isso. Vou na loja para trocar",
+        "respondido": false
+      },
+      {
+        "autor": "larissa castro alves",
+        "nota": 5.0,
+        "data": "2020-08-07T13:24:27Z",
+        "texto": "Gostei, bastante coisa e pedras avulsas mais baratas ,achei que só ia ter pela internet.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 63,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 928 dias (+18)",
+      "Só 3 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "Studio Vogue",
+    "slug": "studio-vogue",
+    "nicho": "Salão de Beleza",
+    "endereco": "Loja 30 Bloco C, Cln 315 - Asa Norte, Brasília - DF, 70774-530",
+    "telefone": "(61) 3274-1565",
+    "site": null,
+    "rating": 4.7,
+    "reviews": 28,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "32.804.358/0001-63",
+    "porte": "Demais",
+    "mei": "",
+    "gate_mei": "INCONCLUSIVO - confianca baixa, conferir na porta",
+    "place_id": "ChIJkdDjs4k5WpMRfjbSTfirPo0",
+    "data_id": "0x935a3989b3e3d091:0x8d3eabf84dd2367e",
+    "gps": {
+      "latitude": -15.743774,
+      "longitude": -47.8949387
+    },
+    "origem_raw": "q315-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "32.804.358/0001-63",
+        "razao_social": "STUDIO VOGUE CONDOMINIO RESIDENCIAL - EMPREENDIMENTO IMOBILIARIO SPE LTDA",
+        "nome_fantasia": "",
+        "cep": "85010230",
+        "municipio": "GUARAPUAVA",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Ativa",
+        "cnae": "4110700",
+        "abertura": "2019-02-18",
+        "capital_social": "5000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "studio",
+          "vogue"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "27.059.627/0001-74",
+        "razao_social": "TOTAL PASS PARTICIPACOES LTDA",
+        "nome_fantasia": "",
+        "cep": "01310200",
+        "municipio": "SAO PAULO",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Ativa",
+        "cnae": "7490104",
+        "abertura": "2017-02-08",
+        "capital_social": "17631265,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "40.730.782/0001-39",
+        "razao_social": "40.730.782 KATIA CILENE DOS SANTOS SILVA",
+        "nome_fantasia": "",
+        "cep": "23591170",
+        "municipio": "RIO DE JANEIRO",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "S",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2021-02-05",
+        "capital_social": "100,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "23.652.966/0001-09",
+        "razao_social": "THAMIRES CRISTINA VENANCIO",
+        "nome_fantasia": "STUDIO VOGUE",
+        "cep": "13843200",
+        "municipio": "MOGI GUACU",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Inapta",
+        "cnae": "7420001",
+        "abertura": "2015-11-10",
+        "capital_social": "20000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "studio",
+          "vogue"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "14.774.653/0001-32",
+        "razao_social": "STUDIO VOGUE CABELEIREIROS LTDA",
+        "nome_fantasia": "STUDIO VOGUE",
+        "cep": "22793082",
+        "municipio": "RIO DE JANEIRO",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2011-12-14",
+        "capital_social": "50000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "studio",
+          "vogue"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "baixa",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–18:00"
+      },
+      {
+        "terça_feira": "Fechado"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–19:00"
+      },
+      {
+        "sábado": "09:00–19:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2022-04-04T19:41:44Z",
+    "reviews_recentes": [
+      {
+        "autor": "João Paulo Moreira",
+        "nota": 5.0,
+        "data": "2022-04-04T19:41:44Z",
+        "texto": "Corto no Studio Vogue há muitos anos e posso dizer que o Ney é um dos melhores cabeleireiros da cidade! Pessoa simpática, amigável, e extremamente profissional. Recomendo de olhos fechados!",
+        "respondido": false
+      },
+      {
+        "autor": "Giulia Grossi",
+        "nota": 5.0,
+        "data": "2021-03-26T15:02:22Z",
+        "texto": "Sou cliente há 7 anos, e tanto o Ney quanto a Nelma são excelentes profissionais, meu cabelo sempre fica lindo. Super recomendo!",
+        "respondido": false
+      },
+      {
+        "autor": "ANA CRISTINA ABREU SILVA",
+        "nota": 5.0,
+        "data": "2018-12-06T18:49:05Z",
+        "texto": "Ótimo salão,  fui sem marcar e tive a sorte de ser atendida. Fiz cabelo,  unha e sobrancelhas.  Super bem atendida. Principalmente a Nelma que é bem humorada,  calma e te dá toda atenção de que você  necessita.",
+        "respondido": false
+      },
+      {
+        "autor": "João Pedro Vilarinho",
+        "nota": 5.0,
+        "data": "2022-10-14T21:44:38Z",
+        "texto": "O Studio Vogue é um ótimo salão/barbearia para homens e mulheres. O Ney e a Neuma prestam um serviço de excelente qualidade e confiança sem igual, recomendo demais!",
+        "respondido": false
+      },
+      {
+        "autor": "Juliana Rosa",
+        "nota": 5.0,
+        "data": "2020-10-09T20:05:54Z",
+        "texto": "Minha cabeleireira mais de 10 anos, ela é simplesmente única. Uma profissional que não está alí pra ganhar apenas dinheiro. Mas p deixar suas clientes satisfeitas.",
+        "respondido": false
+      },
+      {
+        "autor": "Leila Lima",
+        "nota": 5.0,
+        "data": "2020-11-18T21:01:19Z",
+        "texto": "Super recomendo!! A Nelma é super atenciosa e competente. Já são mais de 15 anos de parceria!!",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 63,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 1589 dias (+18)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "Lavaggio Lavanderia - 313 Norte",
+    "slug": "lavaggio-lavanderia-313-norte",
+    "nicho": "Lavanderia",
+    "endereco": "Asa Norte CLN 313 Lj 04 - Asa Norte, Brasília - DF, 70766-510",
+    "telefone": "(61) 3034-7431",
+    "site": null,
+    "rating": 4.3,
+    "reviews": 38,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "52.187.690/0001-33",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJM7RKlpU7WpMRyjaQbEfWsSA",
+    "data_id": "0x935a3b95964ab433:0x20b1d6476c9036ca",
+    "gps": {
+      "latitude": -15.7499164,
+      "longitude": -47.8923859
+    },
+    "origem_raw": "q313-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "52.187.690/0001-33",
+        "razao_social": "LAVANDERIA 313 NORTE LTDA",
+        "nome_fantasia": "LAVAGGIO",
+        "cep": "70766510",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9601701",
+        "abertura": "2023-09-14",
+        "capital_social": "40000,00",
+        "score": 11,
+        "tokens_em_comum": [
+          "lavaggio",
+          "lavanderia"
+        ],
+        "cep_bate_quadra": true
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–12:30, 13:30–18:00"
+      },
+      {
+        "terça_feira": "08:00–12:30, 13:30–18:00"
+      },
+      {
+        "quarta_feira": "08:00–12:30, 13:30–18:00"
+      },
+      {
+        "quinta_feira": "08:00–12:30, 13:30–18:00"
+      },
+      {
+        "sexta_feira": "08:00–12:30, 13:30–18:00"
+      },
+      {
+        "sábado": "08:00–13:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 3,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.12,
+    "ultimo_review": "2026-05-12T10:54:42Z",
+    "reviews_recentes": [
+      {
+        "autor": "Sofia L. Hoffmeister de Azevedo",
+        "nota": 5.0,
+        "data": "2026-05-12T10:54:42Z",
+        "texto": "O atendimento da funcionária desta unidade é EXCELENTE! Obrigada pelo dinamismo desta jovem!\n\nFui buscar algumas camisas do meu filho. Quando cheguei lá,  descobri que eram muitas!!!!!\nA funcionária foi cheia de iniciativa para me atender,  para solicitar que o motorista de aplicativo estacionamento",
+        "respondido": false
+      },
+      {
+        "autor": "Marcelo Faccenda",
+        "nota": 2.0,
+        "data": "2026-07-21T12:44:20Z",
+        "texto": "O atendimento foi bom e o preço não é absurdo, mas o serviço não ficou bom e não entregaram no prazo prometido.",
+        "respondido": false
+      },
+      {
+        "autor": "Alaôra Vieira",
+        "nota": 2.0,
+        "data": "2026-03-17T17:25:31Z",
+        "texto": "Infelizmente as roupas vieram muito mal passadas, mandei mensagem pedindo resolução do problema e a resposta não foi muito amistosa. Me disseram que teria dois dias para levar para refazerem e expliquei que era uma viagem a trabalho e isso seria impossível, expliquei que tive que repassar as roupas ",
+        "respondido": false
+      },
+      {
+        "autor": "Manuela Roriz",
+        "nota": 1.0,
+        "data": "2025-04-03T14:56:09Z",
+        "texto": "Pessima experiencia. Deixei roupas de frio e tênis no dia 17/03 pra uma viagem que seria dia 01/04 com entrega pro dia 27 por conta dos tênis. Todas as roupas eram novas nunca usadas. Fui retirar dia 29 e tinham peças faltando, outras com fio puxado e os tênis estavam sujos ainda. Mandei lavar novam",
+        "respondido": false
+      },
+      {
+        "autor": "Isaura vieira",
+        "nota": 1.0,
+        "data": "2025-07-07T18:37:31Z",
+        "texto": "Bem ruim! Atendimento péssimo e o serviço beeemmmm demorado. Eu quem tive que ir atrás depois de quase 15 dias esperando me ligarem para avisar que estava pronto. Se eu não tivesse ido buscar, até hoje estaria esperando. A moça que atende é super desligada e não tá nem aí para o cliente. Vocês não e",
+        "respondido": false
+      },
+      {
+        "autor": "Marcelo Vieira",
+        "nota": 1.0,
+        "data": "2025-12-19T12:46:34Z",
+        "texto": "Atrasam muito a entrega de peças e constantemente “perdem” os itens, que também são entregues com atrasos.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 59,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (12%) (+15)",
+      "Nota 4.3 entre 4,0 e 4,5 (+5)",
+      "Só 3 fotos no perfil (+10)",
+      "Nicho quente: Lavanderia (+9)"
+    ]
+  },
+  {
+    "quadra": "310",
+    "par": "310/311",
+    "quadra_por_cep": "310",
+    "titulo": "Refrigeração Querobino",
+    "slug": "refrigeracao-querobino",
+    "nicho": "Serviço de conserto de refrigeradores",
+    "endereco": "Asa Norte Comércio Local Norte 310 37 SUBSOLO - Plano Piloto, Brasília - DF, 70756-540",
+    "telefone": "(61) 99425-6280",
+    "site": null,
+    "rating": 4.2,
+    "reviews": 39,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJPZQq7TA6WpMRhxudc9fdMks",
+    "data_id": "0x935a3a30ed2a943d:0x4b32ddd7739d1b87",
+    "gps": {
+      "latitude": -15.7566723,
+      "longitude": -47.8912695
+    },
+    "origem_raw": "q310-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–17:00"
+      },
+      {
+        "terça_feira": "08:00–17:00"
+      },
+      {
+        "quarta_feira": "08:00–17:00"
+      },
+      {
+        "quinta_feira": "08:00–17:00"
+      },
+      {
+        "sexta_feira": "08:00–17:00"
+      },
+      {
+        "sábado": "Fechado"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "offerings": [
+          "Serviços de reparos"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 4,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.62,
+    "ultimo_review": "2025-06-11T03:02:42Z",
+    "reviews_recentes": [
+      {
+        "autor": "Valeria Fajardo",
+        "nota": 4.0,
+        "data": "2025-06-11T03:02:42Z",
+        "texto": "Fui bem atendida.\nO serviço foi bem realizado.",
+        "respondido": false
+      },
+      {
+        "autor": "Samuel Cunha",
+        "nota": 4.0,
+        "data": "2022-11-23T02:56:34Z",
+        "texto": "Boa variedade de serviços e marcas atendidas. Preço poderia ser um pouco melhor.",
+        "respondido": true
+      },
+      {
+        "autor": "Marcio lemes (NGO)",
+        "nota": 5.0,
+        "data": "2019-03-25T13:11:25Z",
+        "texto": "So precisa aparecer mais na quadra. Fui bem atendido e encontrei a peça que procurava e ninguem tinha so aki. Recomendo.",
+        "respondido": true
+      },
+      {
+        "autor": "Cláudia Guimarães Pedro Godoy",
+        "nota": 5.0,
+        "data": "2021-12-11T16:36:07Z",
+        "texto": "Serviço  rápido,  preço  bom. Fiquei muito satisfeita",
+        "respondido": true
+      },
+      {
+        "autor": "giselda araujo",
+        "nota": 1.0,
+        "data": "2022-09-26T13:59:05Z",
+        "texto": "Atendem mal e cobram muito caro pela assistência técnica. Desisti do conserto.",
+        "respondido": true
+      },
+      {
+        "autor": "marilia jacomini",
+        "nota": 1.0,
+        "data": "2022-03-19T14:36:16Z",
+        "texto": "Péssima experiência, trocaram o motor da geladeira por um motor estragado, foram super arrogantes quando liguei pra reclamar, serviço de péssima qualidade profissionalismo 0.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 53,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Última avaliação há 425 dias (+18)",
+      "Nota 4.2 entre 4,0 e 4,5 (+5)",
+      "Só 4 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "311",
+    "par": "310/311",
+    "quadra_por_cep": "311",
+    "titulo": "S.O.S Makeup - Loja de Maquiagem",
+    "slug": "s-o-s-makeup-loja-de-maquiagem",
+    "nicho": "Loja de produtos de beleza",
+    "endereco": "Asa Norte CLN 311 Lj 18 - Asa Norte, Brasília - DF, 70757-530",
+    "telefone": "(61) 98202-9506",
+    "site": null,
+    "rating": 4.5,
+    "reviews": 26,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJ3_MgRXU7WpMRY-TOXMYCzp4",
+    "data_id": "0x935a3b754520f3df:0x9ece02c65ccee463",
+    "gps": {
+      "latitude": -15.7562149,
+      "longitude": -47.8911048
+    },
+    "origem_raw": "q311-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:30–18:30"
+      },
+      {
+        "terça_feira": "09:30–18:30"
+      },
+      {
+        "quarta_feira": "09:30–18:30"
+      },
+      {
+        "quinta_feira": "09:30–18:30"
+      },
+      {
+        "sexta_feira": "09:30–18:30"
+      },
+      {
+        "sábado": "09:00–15:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Entrega",
+          "Compras na loja",
+          "Serviços no local"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "crowd": [
+          "Empresa que acolhe a comunidade LGBTQ+",
+          "Espaço seguro para pessoas transgênero"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "compras_na_loja": true,
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 4,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2026-02-27T20:59:05Z",
+    "reviews_recentes": [
+      {
+        "autor": "Izaline Cavazzana",
+        "nota": 5.0,
+        "data": "2026-02-27T20:59:05Z",
+        "texto": "Simplesmente perfeita! Comecei a entrar nessa vida de maquiagem agora…tenho a pele madura, e Moisés acertou os produtos para minha pele só de olhar! Uma loja com muitas variedades, preços excelentes! Virei fã! Agora só vou comprar lá !",
+        "respondido": false
+      },
+      {
+        "autor": "Nathália Henriques",
+        "nota": 1.0,
+        "data": "2025-12-04T12:04:51Z",
+        "texto": "fui lá a semana inteira e estava fechada em qualquer horário.",
+        "respondido": false
+      },
+      {
+        "autor": "Sandra Neres Gallo",
+        "nota": 5.0,
+        "data": "2025-08-30T17:33:31Z",
+        "texto": "Amo essa loja, o Moisés sempre um querido com um atendimento maravilhoso, ele altas dicas!!!! Parada obrigatória!",
+        "respondido": false
+      },
+      {
+        "autor": "Barbara Lopes",
+        "nota": 5.0,
+        "data": "2024-11-30T15:49:20Z",
+        "texto": "Esta loja é maravilhosa !!! Vc pode até achar destas maquiagens em outra loja, MAS UM ATENDIMENTO IGUAL , IMPOSSÍVEL ACHAR EM OUTRA LOJA...I-M-P-O-S-S-í-V-E-L !!!\nHoje ,quando pessimamente atendida em uma loja de maquiagem da 306 Norte, procurei outra loja no Google, e tive a sorte de achar a S.O S ",
+        "respondido": false
+      },
+      {
+        "autor": "Fabiana Araújo",
+        "nota": 5.0,
+        "data": "2025-05-25T01:38:55Z",
+        "texto": "Atendimento excelente! Produtos de ótima qualidade e preço acessível! Alem disso , lá tem ótimas maquiadoras . Voltarei mais vezes",
+        "respondido": false
+      },
+      {
+        "autor": "Víctor Sanches",
+        "nota": 5.0,
+        "data": "2025-05-19T00:40:53Z",
+        "texto": "Excelentes produtos, preços e atendimento. Tinha exatamente o produto que minha namorada estava precisando.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 51,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 164 dias (+6)",
+      "Só 4 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "314",
+    "par": "314/315",
+    "quadra_por_cep": "314",
+    "titulo": "Vison ll Coiffeur",
+    "slug": "vison-ll-coiffeur",
+    "nicho": "Salão de Beleza",
+    "endereco": "Asa Norte CLN 314 Lj 21 - Asa Norte, Brasília - DF, 70767-530",
+    "telefone": "(61) 3272-4164",
+    "site": null,
+    "rating": 4.4,
+    "reviews": 25,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "13.433.476/0001-68",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJVb5Utok5WpMRxUYaElDKEdE",
+    "data_id": "0x935a3989b654be55:0xd111ca50121a46c5",
+    "gps": {
+      "latitude": -15.7442164,
+      "longitude": -47.8948902
+    },
+    "origem_raw": "q314-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "13.433.476/0001-68",
+        "razao_social": "VISON II COIFFEUR CABELEIREIROS LTDA",
+        "nome_fantasia": "VISON II COIFFEUR",
+        "cep": "70767530",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2011-03-24",
+        "capital_social": "15000,00",
+        "score": 11,
+        "tokens_em_comum": [
+          "coiffeur",
+          "vison"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "32.915.449/0001-76",
+        "razao_social": "CAR VAN CABELEIREIROS LTDA",
+        "nome_fantasia": "VISON-VISU COIFFEUR",
+        "cep": "71015018",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "1989-04-14",
+        "capital_social": "0,00",
+        "score": 7,
+        "tokens_em_comum": [
+          "coiffeur",
+          "vison"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "08.528.212/0001-58",
+        "razao_social": "VISION HAIR FASHION CABELEIREIROS LTDA",
+        "nome_fantasia": "",
+        "cep": "04662001",
+        "municipio": "SAO PAULO",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2006-11-29",
+        "capital_social": "4500,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "07.686.414/0001-65",
+        "razao_social": "SUPER VISAO PERICIAS E VISTORIAS LTDA",
+        "nome_fantasia": "SUPER VISAO",
+        "cep": "12246870",
+        "municipio": "SAO JOSE DOS CAMPOS",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Ativa",
+        "cnae": "7740300",
+        "abertura": "2005-09-02",
+        "capital_social": "1000000,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–19:00"
+      },
+      {
+        "terça_feira": "08:00–19:00"
+      },
+      {
+        "quarta_feira": "08:00–19:00"
+      },
+      {
+        "quinta_feira": "08:00–19:00"
+      },
+      {
+        "sexta_feira": "08:00–19:00"
+      },
+      {
+        "sábado": "08:00–19:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 7,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 1.0,
+    "ultimo_review": "2026-01-24T10:26:05Z",
+    "reviews_recentes": [
+      {
+        "autor": "Maurício Figueiroa",
+        "nota": 4.0,
+        "data": "2026-01-24T10:26:05Z",
+        "texto": "Bom ambiente, profissionais prestativos e simpáticos, bom serviço. Conseguiram acalmar meu filho pra cortar o cabelo dele, quando a primeira vez.",
+        "respondido": true
+      },
+      {
+        "autor": "sofia morgado",
+        "nota": 1.0,
+        "data": "2024-03-18T14:54:35Z",
+        "texto": "Profissionalismo Zero!!\nPessoa insistente, sem profissionalismo algum! Além de não respeitar e ficar dando em cima pelo whatsapp o qual foi entregue pelo profissional para poder ser agendado o trabalho no cabelo!\nNão aceitando não! E sendo completamente sem noção!\nNão recomendo nem um pouco!",
+        "respondido": true
+      },
+      {
+        "autor": "Ronaldo",
+        "nota": 4.0,
+        "data": "2022-01-18T10:40:07Z",
+        "texto": "Local simples, com preço justo! Sem fila de espera ou marcação de horário.\nSó conheço a parte de corte masculino.",
+        "respondido": true
+      },
+      {
+        "autor": "Marlla Mendes de Sousa",
+        "nota": 5.0,
+        "data": "2018-07-12T23:48:35Z",
+        "texto": "Lugar simples, porém com atendimento diferenciado! Me sinto em casa!",
+        "respondido": true
+      },
+      {
+        "autor": "fernanda",
+        "nota": 5.0,
+        "data": "2022-01-17T21:54:29Z",
+        "texto": "Maravilhoso vivo indo aí parabéns 😘",
+        "respondido": true
+      },
+      {
+        "autor": "Alexandre Pinto de Paiva Nasser",
+        "nota": 5.0,
+        "data": "2019-10-06T07:42:03Z",
+        "texto": "Meu amigo. Corto há anos.",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 47,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Última avaliação há 198 dias (+12)",
+      "Nota 4.4 entre 4,0 e 4,5 (+5)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "Leda Zulmira - Beleza & Estética",
+    "slug": "leda-zulmira-beleza-estetica",
+    "nicho": "Salão de Beleza",
+    "endereco": "Loja 44 Bloco D - Cln 315, Asa Norte, Brasília - DF, 70774-540",
+    "telefone": "(61) 3556-9516",
+    "site": null,
+    "rating": 4.7,
+    "reviews": 46,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "10.842.132/0001-14",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJm8Lxuok5WpMRZ-nyPs-J8ss",
+    "data_id": "0x935a3989baf1c29b:0xcbf289cf3ef2e967",
+    "gps": {
+      "latitude": -15.7437439,
+      "longitude": -47.8953531
+    },
+    "origem_raw": "q315-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "10.842.132/0001-14",
+        "razao_social": "LEDA INSTITUTO DE BELEZA E PODOLOGIA LTDA",
+        "nome_fantasia": "LEDA ZULMIRA CABELO E ESTETICA",
+        "cep": "70774540",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2009-05-12",
+        "capital_social": "20000,00",
+        "score": 13,
+        "tokens_em_comum": [
+          "beleza",
+          "leda",
+          "zulmira"
+        ],
+        "cep_bate_quadra": true
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "07:00–20:00"
+      },
+      {
+        "terça_feira": "07:00–20:00"
+      },
+      {
+        "quarta_feira": "07:00–20:00"
+      },
+      {
+        "quinta_feira": "07:00–20:00"
+      },
+      {
+        "sexta_feira": "07:00–20:00"
+      },
+      {
+        "sábado": "07:00–20:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro",
+          "Banheiro de gênero neutro",
+          "Wi-Fi gratuito"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Cheques",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2026-06-12T15:16:32Z",
+    "reviews_recentes": [
+      {
+        "autor": "Gabriel Fernandes Paixão e Sousa",
+        "nota": 2.0,
+        "data": "2026-06-12T15:16:32Z",
+        "texto": "Fui fazer uma limpeza de pele na terça-feira pq tem um preço promocional de 140 reais de segunda até quarta-feira. Primeiro chegando no local a sujeira era visível em todo o salão tanto no primeiro andar quanto no andar de baixo, lixos transbordando, sujeiras visíveis, fios de cabelo pendurados na l",
+        "respondido": false
+      },
+      {
+        "autor": "Sheyla Ramos",
+        "nota": 5.0,
+        "data": "2023-09-06T12:04:01Z",
+        "texto": "Amo estar neste salão!  Todos os tratamentos e, em especial,  a escova da Eulânia são maravilhosos! As manicures também são excelentes! Destaque para Mirelly e Samara. Vou uma ou duas vezes na semana! Recomendo!",
+        "respondido": false
+      },
+      {
+        "autor": "Mírtala Carvalho Delmondez",
+        "nota": 5.0,
+        "data": "2024-02-26T14:34:16Z",
+        "texto": "Há 7 anos estou presente  no salão,   amo os serviço prestados:  cabelo, unha, podologia e maquiagem. Nota 1.0000.\n\nParabéns!!",
+        "respondido": false
+      },
+      {
+        "autor": "Julia Brito",
+        "nota": 3.0,
+        "data": "2023-09-05T11:32:35Z",
+        "texto": "Sempre gostei do serviço! Mas cada vez que você vai cobram um preço diferente pelos mesmos serviços de sempre. Não sei qual é o critério, mas ai desisti de ir.",
+        "respondido": false
+      },
+      {
+        "autor": "Graça Assunção",
+        "nota": 5.0,
+        "data": "2020-11-02T03:45:29Z",
+        "texto": "Esse salão só tem gente que entende são maravilhosos são pessoas que fazem com amor e por gostam do que fazem amam eu vou contar pra vcs façam uma  visita vão por min",
+        "respondido": false
+      },
+      {
+        "autor": "Laisa Campos",
+        "nota": 5.0,
+        "data": "2021-09-06T15:11:21Z",
+        "texto": "Manicures ágeis, produto de progressiva de boa qualidade, profissionais disponíveis! Amo o atendimento e agilidade",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 45,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "Podologia Feet & Cia",
+    "slug": "podologia-feet-cia",
+    "nicho": "Podólogo",
+    "endereco": "Asa Norte CLN 315, BL C Lj 48 - Subsolo - Asa Norte, Brasília - DF, 70774-530",
+    "telefone": "(61) 98420-0601",
+    "site": "https://juanmoura.wixsite.com/podologiafeetecia",
+    "rating": 5,
+    "reviews": 21,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJCzXfVo85WpMRHxAGD-GJ8n4",
+    "data_id": "0x935a398f56df350b:0x7ef289e10f06101f",
+    "gps": {
+      "latitude": -15.7437401,
+      "longitude": -47.8950447
+    },
+    "origem_raw": "q315-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–18:00"
+      },
+      {
+        "terça_feira": "08:00–18:00"
+      },
+      {
+        "quarta_feira": "08:00–18:00"
+      },
+      {
+        "quinta_feira": "08:00–18:00"
+      },
+      {
+        "sexta_feira": "08:00–18:00"
+      },
+      {
+        "sábado": "08:00–18:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "Necessário fazer agendamento",
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 2,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2025-10-23T14:44:17Z",
+    "reviews_recentes": [
+      {
+        "autor": "Wyslane Melo",
+        "nota": 5.0,
+        "data": "2025-10-23T14:44:17Z",
+        "texto": "Atendimento excepcional, sem falar no trabalho impecável! Profissionais maravilhosas, fiz meu atendimento com a Tatiane profissional qualificada, tudo esterilizado, com certeza voltarei em breve.",
+        "respondido": false
+      },
+      {
+        "autor": "Alex Cleber",
+        "nota": 5.0,
+        "data": "2025-10-23T17:02:41Z",
+        "texto": "Ótimo atendimento, excelentes profissionais muito educadas e ambiente muito agradável",
+        "respondido": false
+      },
+      {
+        "autor": "Ana Karolina De Melo",
+        "nota": 5.0,
+        "data": "2025-10-25T16:51:47Z",
+        "texto": "Amei o local , fui super bem atendida e queria deixar os parabéns especialmente para a podóloga Tatiane , fui atendida por ela e fui super bem tratada e o serviço dela é impecável sai de lá com a autoestima gritando pois meu pé ficou uma ceda !\nParabéns a todas 👏🏼👏🏼👏🏼👏🏼",
+        "respondido": false
+      },
+      {
+        "autor": "Lorrany Samara",
+        "nota": 5.0,
+        "data": "2025-10-23T15:41:55Z",
+        "texto": "Uma experiência incrível, fui atendida muito bem e o meu problema resolvido com muito cuidado!! Super indico",
+        "respondido": false
+      },
+      {
+        "autor": "Eliane Andrade",
+        "nota": 5.0,
+        "data": "2021-01-22T16:42:53Z",
+        "texto": "Adoreiiii o atendimento. As atendentes são gentis e solícitas. Fiz podologia e amei o serviço.\nAtendimento na hora marcada, sem atrasos e materiais esterelizados.\nVoltarei com certeza.",
+        "respondido": false
+      },
+      {
+        "autor": "Witney Ferreira",
+        "nota": 5.0,
+        "data": "2025-10-23T16:06:04Z",
+        "texto": "Atendimento maravilhoso , excelente profissionais . 👏🏽👏🏽",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 45,
+    "score_porque": [
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 291 dias (+12)",
+      "Só 2 fotos no perfil (+10)",
+      "Nicho quente: Podólogo (+8)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Drogaria Fátima",
+    "slug": "drogaria-fatima",
+    "nicho": "Farmácia",
+    "endereco": "Asa Norte CLN 312 Lj 23 - Asa Norte, Brasília - DF, 70765-520",
+    "telefone": "(61) 3447-4000",
+    "site": null,
+    "rating": 4.5,
+    "reviews": 28,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "28.532.647/0001-83",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJx2qF_E47WpMRx4fBGKCTYvI",
+    "data_id": "0x935a3b4efc856ac7:0xf26293a018c187c7",
+    "gps": {
+      "latitude": -15.7502386,
+      "longitude": -47.892604899999995
+    },
+    "origem_raw": "q312-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "27.809.374/0001-09",
+        "razao_social": "DROGARIA FATIMA & FERREIRA LTDA",
+        "nome_fantasia": "DROGARIA E PERFUMARIA BRASIL",
+        "cep": "39560000",
+        "municipio": "SALINAS",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4771703",
+        "abertura": "2017-05-24",
+        "capital_social": "40000,00",
+        "score": 2,
+        "tokens_em_comum": [
+          "drogaria"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "28.532.647/0001-83",
+        "razao_social": "DROGARIA DAVI VAZ LTDA",
+        "nome_fantasia": "DROGARIA FATIMA",
+        "cep": "70765520",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Ativa",
+        "cnae": "4771701",
+        "abertura": "2017-08-29",
+        "capital_social": "10000,00",
+        "score": 9,
+        "tokens_em_comum": [
+          "drogaria"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "29.774.191/0001-20",
+        "razao_social": "DROGARIA DAVI & FELIX LTDA",
+        "nome_fantasia": "DROGARIA FATIMA",
+        "cep": "72220188",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Ativa",
+        "cnae": "4771701",
+        "abertura": "2018-02-26",
+        "capital_social": "95400,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "drogaria"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "01.562.023/0001-52",
+        "razao_social": "DROGARIA FATIMA DO LAGUNA LTDA",
+        "nome_fantasia": "DROGARIA FATIMA DO LAGUNA",
+        "cep": "06795000",
+        "municipio": "TABOAO DA SERRA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4771701",
+        "abertura": "1996-11-21",
+        "capital_social": "0,00",
+        "score": 3,
+        "tokens_em_comum": [
+          "drogaria"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "00.076.091/0001-49",
+        "razao_social": "DROGARIA FATIMA LTDA",
+        "nome_fantasia": "DROGARIA SANTA PAULA",
+        "cep": "74255490",
+        "municipio": "GOIANIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4771701",
+        "abertura": "1982-05-25",
+        "capital_social": "3000,00",
+        "score": 3,
+        "tokens_em_comum": [
+          "drogaria"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "07:00–22:00"
+      },
+      {
+        "terça_feira": "07:00–22:00"
+      },
+      {
+        "quarta_feira": "07:00–22:00"
+      },
+      {
+        "quinta_feira": "07:00–22:00"
+      },
+      {
+        "sexta_feira": "07:00–22:00"
+      },
+      {
+        "sábado": "07:00–22:00"
+      },
+      {
+        "domingo": "07:00–21:00"
+      }
+    ],
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "service_options": [
+          "Entrega",
+          "Retirada na loja",
+          "Compras na loja",
+          "Serviços no local"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Wi-Fi gratuito"
+        ]
+      },
+      {
+        "crowd": [
+          "Espaço seguro para pessoas transgênero"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento gratuito na rua",
+          "Estacionamento no local"
+        ]
+      }
+    ],
+    "serv_options": {
+      "compras_na_loja": true,
+      "retirada_na_porta": true,
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 4,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.25,
+    "ultimo_review": "2026-04-17T12:01:00Z",
+    "reviews_recentes": [
+      {
+        "autor": "Pedro Vieira",
+        "nota": 5.0,
+        "data": "2026-04-17T12:01:00Z",
+        "texto": "Atendimento bom, moças simpáticas e que ao entrar já te dão atenção. Único adendo é que não encontrei o número do WhatsApp, e hoje em dia é essencial. Com certeza voltarei a comprar.",
+        "respondido": false
+      },
+      {
+        "autor": "janaina de oliveira lima",
+        "nota": 5.0,
+        "data": "2026-04-12T23:20:19Z",
+        "texto": "Gostaria de deixar um agradescimento ao funcionário Vicente que me atendeu ao telefone, tirou minhas dúvidas... foi de grande valia pra mim.",
+        "respondido": false
+      },
+      {
+        "autor": "Matheus Bernardi da Silva",
+        "nota": 5.0,
+        "data": "2025-07-23T14:36:31Z",
+        "texto": "Minha namorada passou mal e comprei um medicamento nessa farmácia. Pedi para entregarem o quanto antes no local de trabalho dela. Foram rápidos no processo de compra: paguei via Pix, enviei o comprovante no Whats e em poucos minutos o entregador saiu com o produto. Trinta minutos depois do contato i",
+        "respondido": true
+      },
+      {
+        "autor": "Luciana Xavier",
+        "nota": 2.0,
+        "data": "2024-07-20T15:52:23Z",
+        "texto": "No dia 19/07/2024 efetuei uma compra na drogaria Fátima da 312 norte. Antes de usar os produtos percebi que em vez de um shampoo e um condicionador me foram vendidos 2 shampoos.Dentro da embalagem que informava o condicionador havia um shampoo.Voltei à loja e expliquei a situação , prontamente a gen",
+        "respondido": false
+      },
+      {
+        "autor": "Alcena C V C",
+        "nota": 5.0,
+        "data": "2024-11-02T15:10:09Z",
+        "texto": "Gosto muito do atendimento da turma da Farmácia Fátima da 312 norte. Preço justo e sempre encontro o que preciso. Obrigada 🙏",
+        "respondido": true
+      },
+      {
+        "autor": "Francisco de Assis Barros de Menezes",
+        "nota": 5.0,
+        "data": "2020-03-21T13:54:27Z",
+        "texto": "Atendimento excelente. Os pedidos podem ser feitos pelo Whatsapp 99819-9645. O endereço no Google Maps está errado, a Drogaria fica na CLN 312 Bloco B Loja 23 Asa Norte, mas o pin está no local correto.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 44,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Responde pouco (25%) (+8)",
+      "Última avaliação há 115 dias (+6)",
+      "Só 4 fotos no perfil (+10)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "Mais Corpo Pilates",
+    "slug": "mais-corpo-pilates",
+    "nicho": "Estúdio de pilates",
+    "endereco": "SHCN CLN 315 BL B Lj 11/12 - Asa Norte, Brasília - DF, 70774-520",
+    "telefone": "(61) 99157-2615",
+    "site": "http://www.maispilatesstudio.com.br/",
+    "rating": 4.8,
+    "reviews": 25,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJ3dJTsok5WpMRhG3qT22Tcxk",
+    "data_id": "0x935a3989b253d2dd:0x1973936d4fea6d84",
+    "gps": {
+      "latitude": -15.743654,
+      "longitude": -47.894767599999994
+    },
+    "origem_raw": "q315-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "07:00–21:00"
+      },
+      {
+        "terça_feira": "07:00–21:00"
+      },
+      {
+        "quarta_feira": "07:00–21:00"
+      },
+      {
+        "quinta_feira": "07:00–21:00"
+      },
+      {
+        "sexta_feira": "07:00–21:00"
+      },
+      {
+        "sábado": "Fechado"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Banheiro com acessibilidade para pessoas em cadeira de rodas",
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "É recomendado marcar hora"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 3,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2026-04-16T21:02:21Z",
+    "reviews_recentes": [
+      {
+        "autor": "Helosman Ribeiro",
+        "nota": 1.0,
+        "data": "2026-04-16T21:02:21Z",
+        "texto": "Procurei a clínica em razão de dor lombar e, desde o início, informei que minha necessidade principal era uma avaliação com ortopedista. No entanto, o atendimento insistiu algumas vezes no agendamento de aula experimental de pilates, o que não estava alinhado com a minha demanda naquele momento.\nApó",
+        "respondido": false
+      },
+      {
+        "autor": "JOSÉ JÚLIO",
+        "nota": 5.0,
+        "data": "2026-04-20T11:40:12Z",
+        "texto": "Dono, professores,  funcionários educados. Professores competentes, pacientes com os alunos, respeitando e ajudando a encontrar o limite dos alunos. Recomendo!",
+        "respondido": false
+      },
+      {
+        "autor": "DaRee Renata Xavier",
+        "nota": 5.0,
+        "data": "2022-08-26T00:58:52Z",
+        "texto": "Gosto muito desse studio de pilates. Os profissionais são fantásticos, possuem muita técnica mesmo, e sabem exatamente a forma de abordar seu problema, seja ele qual for! Eles têm feito milagres pelo meu joelho... A diferença é inacreditável!\nO studio fica no subsolo do prédio da Drogaria Pacheco da",
+        "respondido": false
+      },
+      {
+        "autor": "pier re",
+        "nota": 5.0,
+        "data": "2025-07-19T17:19:53Z",
+        "texto": "Local espaçoso e a Geovana é uma excelente fisioterapeuta. Todos atendem muito bem",
+        "respondido": false
+      },
+      {
+        "autor": "Gleise Botelho",
+        "nota": 5.0,
+        "data": "2021-05-12T02:16:42Z",
+        "texto": "Excelente! O espaço é ótimo, os profissionais são muito  atenciosos e preparados. Aula incrível especialmente pra mim que nunca havia feito antes.",
+        "respondido": false
+      },
+      {
+        "autor": "Luciana Carmo",
+        "nota": 5.0,
+        "data": "2023-01-24T01:01:40Z",
+        "texto": "Os melhores profissionais. Atendimento individualizado, com muita simpatia e profissionalismo, ambiente limpo, organizado, excelentes aparelhos e equipamentos.",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 40,
+    "score_porque": [
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 116 dias (+6)",
+      "Só 3 fotos no perfil (+10)",
+      "Nicho quente: Estúdio de pilates (+9)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "Chaveiro 315 Norte",
+    "slug": "chaveiro-315-norte",
+    "nicho": "Chaveiro(a)",
+    "endereco": "Asa Norte CLN 315 BL C - Asa Norte, Brasília - DF, 70774-000",
+    "telefone": "(61) 98166-9819",
+    "site": null,
+    "rating": 4.7,
+    "reviews": 20,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "65.008.706/0001-45",
+    "porte": "Microempresa (ME)",
+    "mei": "S",
+    "gate_mei": "INCONCLUSIVO - confianca baixa, conferir na porta",
+    "place_id": "ChIJyX68O5c5WpMRHUraEDHiy_M",
+    "data_id": "0x935a39973bbc7ec9:0xf3cbe23110da4a1d",
+    "gps": {
+      "latitude": -15.7436397,
+      "longitude": -47.894774299999995
+    },
+    "origem_raw": "q315-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "65.008.706/0001-45",
+        "razao_social": "65.008.706 ENRICO DE OLIVEIRA RODRIGUES",
+        "nome_fantasia": "",
+        "cep": "01310200",
+        "municipio": "SAO PAULO",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "S",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "7319002",
+        "abertura": "2026-02-09",
+        "capital_social": "500,00",
+        "score": 1,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "baixa",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–18:00"
+      },
+      {
+        "terça_feira": "08:00–18:00"
+      },
+      {
+        "quarta_feira": "08:00–18:00"
+      },
+      {
+        "quinta_feira": "08:00–18:00"
+      },
+      {
+        "sexta_feira": "08:00–18:00"
+      },
+      {
+        "sábado": "08:00–18:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": null,
+    "serv_options": null,
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.38,
+    "ultimo_review": "2025-08-21T21:45:39Z",
+    "reviews_recentes": [
+      {
+        "autor": "TT Mugarte",
+        "nota": 5.0,
+        "data": "2025-08-21T21:45:39Z",
+        "texto": "Amei o atendimento. Excelentes.🙌🙌‼️.Agora, precisando de trocar baterias de controle remoto, será na 315 mesmo✨️✨️",
+        "respondido": false
+      },
+      {
+        "autor": "Priscilla Garcia",
+        "nota": 1.0,
+        "data": "2023-05-11T11:43:59Z",
+        "texto": "O horário de atendimento não é o informado no Google. Fui as 8.45 e ainda estava fechado.",
+        "respondido": true
+      },
+      {
+        "autor": "Laura Nakamura",
+        "nota": 5.0,
+        "data": "2025-02-21T23:57:23Z",
+        "texto": "Top, Sr João foi muito prestativo e de pronto atendimento. Recomendo o serviço",
+        "respondido": false
+      },
+      {
+        "autor": "Nattan soares sousa",
+        "nota": 5.0,
+        "data": "2023-03-15T17:55:38Z",
+        "texto": "Melhor chaveiro da região.\nPrecisei fazer uma cópia da chave do meu carro e fui muito bem atendido.\nServiço profissional, rápido e com preço justo.\nRecomendo demais.",
+        "respondido": true
+      },
+      {
+        "autor": "Marco Vinicius",
+        "nota": 5.0,
+        "data": "2023-01-12T17:27:46Z",
+        "texto": "Profissional de excelência! Quem procura um profissional de qualidade, atencioso, caprichoso é ainda por cima possui o melhor preço da asa norte!\nRecomendo fortemente.\nDaqui pra frente só faço serviço com eles.",
+        "respondido": false
+      },
+      {
+        "autor": "Iúri Araújo",
+        "nota": 5.0,
+        "data": "2025-01-18T16:31:57Z",
+        "texto": "Rapaz atencioso, prestativo e extremamente competente. Além de praticar um preço justo, recomendo!",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 40,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Responde pouco (38%) (+8)",
+      "Última avaliação há 354 dias (+12)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Só Frango",
+    "slug": "so-frango",
+    "nicho": "Açougue",
+    "endereco": "Asa Norte Comércio Local Norte 312, BL C Lj 13 - Asa Norte, Brasília - DF, 70765-530",
+    "telefone": "(61) 3272-2147",
+    "site": null,
+    "rating": 4.5,
+    "reviews": 41,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "00.122.192/0001-09",
+    "porte": "Demais",
+    "mei": "",
+    "gate_mei": "INCONCLUSIVO - confianca baixa, conferir na porta",
+    "place_id": "ChIJUWpbmC06WpMROTfoDwQCyd4",
+    "data_id": "0x935a3a2d985b6a51:0xdec902040fe83739",
+    "gps": {
+      "latitude": -15.750340699999999,
+      "longitude": -47.892982499999995
+    },
+    "origem_raw": "q312-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "72.596.992/0001-72",
+        "erro": "falha"
+      },
+      {
+        "cnpj": "00.122.192/0001-09",
+        "razao_social": "SO FRANGO ALIMENTOS LTDA",
+        "nome_fantasia": "SO FRANGO",
+        "cep": "70381510",
+        "municipio": "BRASILIA",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Baixada",
+        "cnae": "0155504",
+        "abertura": "1972-12-29",
+        "capital_social": "22042,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "frango"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "00.048.215/0013-16",
+        "razao_social": "SO FRANGO INDUSTRIA E COMERCIO LTDA",
+        "nome_fantasia": "SO FRANGO",
+        "cep": "70310500",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Baixada",
+        "cnae": "4634601",
+        "abertura": "1974-07-31",
+        "capital_social": "0,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "frango"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "00.122.192/0052-59",
+        "razao_social": "SO FRANGO ALIMENTOS LTDA",
+        "nome_fantasia": "SO FRANGO",
+        "cep": "71920540",
+        "municipio": "BRASILIA",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Baixada",
+        "cnae": "0155501",
+        "abertura": "1987-05-25",
+        "capital_social": "22042,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "frango"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "11.773.346/0001-49",
+        "razao_social": "DANIZETE DE SOUSA ASSUNCAO",
+        "nome_fantasia": "FRANGO ASSADO SO FRANGO",
+        "cep": "70764500",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4722901",
+        "abertura": "2010-04-05",
+        "capital_social": "3000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "frango"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "baixa",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–18:00"
+      },
+      {
+        "terça_feira": "09:00–18:00"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–18:00"
+      },
+      {
+        "sábado": "09:00–14:00"
+      },
+      {
+        "domingo": "09:00–14:00"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Entrega"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento descoberto gratuito",
+          "Estacionamento gratuito na rua"
+        ]
+      }
+    ],
+    "serv_options": {
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2026-06-07T16:26:14Z",
+    "reviews_recentes": [
+      {
+        "autor": "Yuriana Ilgenfritz",
+        "nota": 5.0,
+        "data": "2026-06-07T16:26:14Z",
+        "texto": "Franguinho saboroso!! Vale o preço! Atendimento rápido e atencioso.",
+        "respondido": false
+      },
+      {
+        "autor": "Ediane Correia",
+        "nota": 5.0,
+        "data": "2023-05-06T16:11:36Z",
+        "texto": "Melhor frango! E olha que morava em Gna e lá tem muitos estabelecimento com essa máquina de assar frango.\nA maionese é muito saborosa e a atendente super simpática.\nCaso queira pode ligar e já encomendar o frango assado p não correr risco de ficar sem.\nParabéns!!’",
+        "respondido": false
+      },
+      {
+        "autor": "MARCUS VINICIUS",
+        "nota": 1.0,
+        "data": "2022-02-12T16:45:15Z",
+        "texto": "Na manhã de sábado dia 12 2 2022 estive no estabelecimento para comprar um frango assado e observei que tinha a maionese também me foi oferecido comprei a maionese quando cheguei em casa abre as duas maioneses estavam estragadas por eu morar um pouco distante não compensaria eu voltar no estabelecim",
+        "respondido": false
+      },
+      {
+        "autor": "juninho monteiro",
+        "nota": 3.0,
+        "data": "2025-09-07T23:00:33Z",
+        "texto": "O frango é bom, mas 57 reais está muito fora do padrão.",
+        "respondido": false
+      },
+      {
+        "autor": "Januza Brito.",
+        "nota": 5.0,
+        "data": "2024-08-25T14:56:21Z",
+        "texto": "O frango assado mais bem temperado da cidade. O melhor que já comi.\nRecomendo!",
+        "respondido": false
+      },
+      {
+        "autor": "Flávio Carvalho",
+        "nota": 5.0,
+        "data": "2023-02-09T20:26:51Z",
+        "texto": "Atendimento ágil. Frango tradicional na \"televisão de cachorro\". Impossível passar pelo estabelecimento, sentir o cheiro e não salivar!!",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 35,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Quase não responde avaliação (0%) (+15)"
+    ]
+  },
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "D' Mulher Confecções",
+    "slug": "d-mulher-confeccoes",
+    "nicho": "Loja de Roupa",
+    "endereco": "Bloco B - Loja 16, CLN 313 - Asa Norte, Brasília - DF, 70766-520",
+    "telefone": "(61) 3347-3660",
+    "site": "http://instagram.com/dmulher",
+    "rating": 4.6,
+    "reviews": 29,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "03.858.655/0001-93",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJU1VV5SU6WpMR75lIt5mTrbQ",
+    "data_id": "0x935a3a25e5555553:0xb4ad9399b74899ef",
+    "gps": {
+      "latitude": -15.7499206,
+      "longitude": -47.8926825
+    },
+    "origem_raw": "q313-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "03.858.655/0002-74",
+        "razao_social": "D' MULHER CONFECCOES LTDA",
+        "nome_fantasia": "D' MULHER",
+        "cep": "70737520",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Baixada",
+        "cnae": "4781400",
+        "abertura": "2010-05-18",
+        "capital_social": "0,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "mulher"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "03.858.655/0001-93",
+        "razao_social": "D' MULHER CONFECCOES LTDA",
+        "nome_fantasia": "D' MULHER",
+        "cep": "70766520",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4781400",
+        "abertura": "2000-06-08",
+        "capital_social": "0,00",
+        "score": 9,
+        "tokens_em_comum": [
+          "mulher"
+        ],
+        "cep_bate_quadra": true
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:30–19:00"
+      },
+      {
+        "terça_feira": "09:30–19:00"
+      },
+      {
+        "quarta_feira": "09:30–19:00"
+      },
+      {
+        "quinta_feira": "09:30–19:00"
+      },
+      {
+        "sexta_feira": "09:30–19:00"
+      },
+      {
+        "sábado": "09:30–19:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Entrega"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.38,
+    "ultimo_review": "2021-01-02T23:24:02Z",
+    "reviews_recentes": [
+      {
+        "autor": "Tamires F. M. Mascarenhas",
+        "nota": 5.0,
+        "data": "2021-01-02T23:24:02Z",
+        "texto": "Ótimo atendimento, roupas muito bonitas e de qualidade. Tem opções para todos os gostos. 👏👏👏",
+        "respondido": true
+      },
+      {
+        "autor": "Julinha Lopes",
+        "nota": 5.0,
+        "data": "2020-11-05T15:43:18Z",
+        "texto": "Roupas e acessórios de boa qualidade e bonitos, e fui sempre bem atendida, recomendo",
+        "respondido": false
+      },
+      {
+        "autor": "Ro Farias",
+        "nota": 5.0,
+        "data": "2022-08-11T13:22:28Z",
+        "texto": "Excelente atendimento,  variedade de roupas lindas, como calçados tb.",
+        "respondido": true
+      },
+      {
+        "autor": "David Passos",
+        "nota": 5.0,
+        "data": "2019-06-08T21:38:21Z",
+        "texto": "Ótimo lugar para compras femininas. Aproveite a seção de outlet que tem os melhores preços.",
+        "respondido": false
+      },
+      {
+        "autor": "Vivi Tex",
+        "nota": 4.0,
+        "data": "2017-06-14T20:14:49Z",
+        "texto": "Roupas bonitas e de qualidade em vários tamanhos, inclusive GG.",
+        "respondido": false
+      },
+      {
+        "autor": "RAYSSA CASTRO",
+        "nota": 5.0,
+        "data": "2020-02-14T20:51:47Z",
+        "texto": "Atendimento Vip roupas Plus size de ótima qualidade",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 33,
+    "score_porque": [
+      "Responde pouco (38%) (+8)",
+      "Última avaliação há 2046 dias (+18)",
+      "Nicho quente: Loja de Roupa (+7)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "EVS 315 Norte :: Herbalife",
+    "slug": "evs-315-norte-herbalife",
+    "nicho": "Restaurante de comida natural",
+    "endereco": "Asa Norte Comércio Local Norte 315 Sl 102 - Asa Norte, Brasília - DF, 70774-550",
+    "telefone": "(61) 98222-6851",
+    "site": "http://www.facebook.com/franvilmavidal",
+    "rating": 4.8,
+    "reviews": 43,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": "Marca Herbalife, mas operação local independente",
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJMQwDTIg5WpMRP5BBd98889U",
+    "data_id": "0x935a39884c030c31:0xd5f33cdf7741903f",
+    "gps": {
+      "latitude": -15.743650899999999,
+      "longitude": -47.8943242
+    },
+    "origem_raw": "q315-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–14:00, 16:00–20:00"
+      },
+      {
+        "terça_feira": "08:00–14:00, 16:00–20:00"
+      },
+      {
+        "quarta_feira": "08:00–14:00, 16:00–20:00"
+      },
+      {
+        "quinta_feira": "08:00–14:00, 16:00–20:00"
+      },
+      {
+        "sexta_feira": "08:00–14:00, 16:00–20:00"
+      },
+      {
+        "sábado": "09:00–14:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Refeição no local"
+        ]
+      },
+      {
+        "highlights": [
+          "Ótima seleção de chás"
+        ]
+      },
+      {
+        "popular_for": [
+          "Café da manhã",
+          "Almoço",
+          "Comer a sós"
+        ]
+      },
+      {
+        "offerings": [
+          "Opções veganas",
+          "Opções vegetarianas",
+          "Refeição rápida"
+        ]
+      },
+      {
+        "dining_options": [
+          "Café da manhã",
+          "Almoço",
+          "Sobremesa"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Tendência",
+          "Tranquilo"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento gratuito na rua"
+        ]
+      }
+    ],
+    "serv_options": {
+      "refeição_no_local": true
+    },
+    "posts": null,
+    "price": "R$ 20–40",
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": true,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.0,
+    "ultimo_review": "2025-04-27T13:51:37Z",
+    "reviews_recentes": [
+      {
+        "autor": "Eva Regina Miraglia",
+        "nota": 5.0,
+        "data": "2025-04-27T13:51:37Z",
+        "texto": "Lugar super agradável, com pessoas leves, e um bom papo. Fran sempre com energia boa!!! Além de fazer o melhor shake cremoso do DF",
+        "respondido": false
+      },
+      {
+        "autor": "Cristiane Resende Silva",
+        "nota": 5.0,
+        "data": "2026-04-30T16:32:13Z",
+        "texto": "Excelente! Amoooo o melhor shake de Brasília ❤️ e o ambiente é muito bom !",
+        "respondido": false
+      },
+      {
+        "autor": "Vanessa de Lima",
+        "nota": 5.0,
+        "data": "2026-03-27T22:28:21Z",
+        "texto": "Espaço e shake maravilhosos. Galera alto astral e energia lá em cima.",
+        "respondido": false
+      },
+      {
+        "autor": "Adriani Rodrigues",
+        "nota": 5.0,
+        "data": "2022-04-11T17:02:46Z",
+        "texto": "Melhor  EVS do planeta! Vale a pena conhecer! TENHO CERTEZA que vai amar os Shakes, Top de linha feito pela Fran, criatura linda de viver!",
+        "respondido": false
+      },
+      {
+        "autor": "Marina Malta",
+        "nota": 5.0,
+        "data": "2025-08-27T18:29:05Z",
+        "texto": "Espaço aconchegante da Fran, excelente local para uma boa nutrição e um atendimento de uma pessoa muito querida.",
+        "respondido": false
+      },
+      {
+        "autor": "cristiletiao",
+        "nota": 5.0,
+        "data": "2023-05-01T12:46:47Z",
+        "texto": "O melhor shake e atendimento de Brasília!\nAmooo muito tudo isso hahaha",
+        "respondido": false
+      }
+    ],
+    "score_oportunidade": 33,
+    "score_porque": [
+      "Quase não responde avaliação (0%) (+15)",
+      "Última avaliação há 470 dias (+18)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Usadão Brasília Brechó",
+    "slug": "usadao-brasilia-brecho",
+    "nicho": "Brechó",
+    "endereco": "Asa Norte CLN 312 Lj 23 - Asa Norte, Brasília - DF, 70765-530",
+    "telefone": "(61) 98582-8638",
+    "site": null,
+    "rating": 4.5,
+    "reviews": 48,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJAQAw7CU6WpMRFvjOUq6tXgw",
+    "data_id": "0x935a3a25ec300001:0xc5eadae52cef816",
+    "gps": {
+      "latitude": -15.750426299999999,
+      "longitude": -47.892958799999995
+    },
+    "origem_raw": "q312-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–18:00"
+      },
+      {
+        "terça_feira": "08:00–18:00"
+      },
+      {
+        "quarta_feira": "08:00–18:00"
+      },
+      {
+        "quinta_feira": "08:00–18:00"
+      },
+      {
+        "sexta_feira": "08:00–18:00"
+      },
+      {
+        "sábado": "08:00–15:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Retirada na loja",
+          "Compras na loja",
+          "Serviços no local"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "offerings": [
+          "Compra produtos usados",
+          "Produtos usados"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "recycling": [
+          "Roupas"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "compras_na_loja": true,
+      "retirada_na_loja": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 1.0,
+    "ultimo_review": "2026-04-24T17:07:21Z",
+    "reviews_recentes": [
+      {
+        "autor": "José Pedro Pradera",
+        "nota": 5.0,
+        "data": "2026-04-24T17:07:21Z",
+        "texto": "Humildes, atenciosos e prestativos! Excelente atendimento e ofertas. Gostei muito de conhecer e vou voltar mais vezes! Muitos coisa mesmo!",
+        "respondido": true
+      },
+      {
+        "autor": "Ph Ph",
+        "nota": 5.0,
+        "data": "2026-04-28T11:27:51Z",
+        "texto": "Ela e muito ótima super recomendo as coisas dela e uma maravilha pra quem procura acessórios com preço bem acessíveis e de qualidade sou cliente a 3 anos e muito satisfeita todo dia uma novidade 👏👏👏",
+        "respondido": true
+      },
+      {
+        "autor": "Maria Lourdes",
+        "nota": 5.0,
+        "data": "2026-04-28T20:33:05Z",
+        "texto": "Recomendo muito este brecho, está no local desde 2000,com muitas variedades de produtos e roupas,sempre renovando o estoque com preços justos e acessíveis, atendimento de primeira com a dona Nice",
+        "respondido": true
+      },
+      {
+        "autor": "Sharonvalladares",
+        "nota": 5.0,
+        "data": "2026-05-05T11:22:04Z",
+        "texto": "nice e maravillosa mujer linda lá atención és muito diferenciado  as coisas de brecho estan bem curadas tanto en roupa como en coisas para casa",
+        "respondido": true
+      },
+      {
+        "autor": "Iná Oliveira",
+        "nota": 5.0,
+        "data": "2026-04-24T19:50:41Z",
+        "texto": "Amei o lugar!!!\nTem muita coisa com preço justo!\nSe prepare para ficar muito tempo olhando as coisas, porque tem de tudo!❤️",
+        "respondido": true
+      },
+      {
+        "autor": "caio lyra",
+        "nota": 5.0,
+        "data": "2026-04-24T17:36:13Z",
+        "texto": "Sou cliente da Alice a mais de dois anos! Ela sempre tem peças novas e de qualidade 😁! Além de ser uma Fofa! Hoje mesmo eu saí com um jaco da Nike sinistro 🥳",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 32,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Última avaliação há 108 dias (+6)",
+      "Nicho quente: Brechó (+6)"
+    ]
+  },
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "Musa Bsb - Asa Norte",
+    "slug": "musa-bsb-asa-norte",
+    "nicho": "Loja de Roupa",
+    "endereco": "Asa Norte Comércio Local Norte 313 - Asa Norte, Brasília - DF, 70766-540",
+    "telefone": "(61) 3447-7000",
+    "site": null,
+    "rating": 4.9,
+    "reviews": 25,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "10.397.043/0001-06",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJ9cSIwiU6WpMRI1bW5z0SUaY",
+    "data_id": "0x935a3a25c288c4f5:0xa651123de7d65623",
+    "gps": {
+      "latitude": -15.750226699999999,
+      "longitude": -47.893419599999994
+    },
+    "origem_raw": "q313-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "10.397.043/0001-06",
+        "razao_social": "MUSA CONFECCOES LTDA",
+        "nome_fantasia": "MUSA BSB",
+        "cep": "70766540",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4781400",
+        "abertura": "2008-10-06",
+        "capital_social": "105000,00",
+        "score": 11,
+        "tokens_em_comum": [
+          "bsb",
+          "musa"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "55.096.215/0001-40",
+        "razao_social": "MUSA BRASIL LTDA",
+        "nome_fantasia": "MUSA BRASIL",
+        "cep": "76980075",
+        "municipio": "VILHENA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4781400",
+        "abertura": "2024-05-12",
+        "capital_social": "50000,00",
+        "score": 2,
+        "tokens_em_comum": [
+          "musa"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "67.040.147/0001-86",
+        "razao_social": "MUSA BRASIL MODA FEMININA LTDA",
+        "nome_fantasia": "",
+        "cep": "15090000",
+        "municipio": "SAO JOSE DO RIO PRETO",
+        "porte": "Demais",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4781400",
+        "abertura": "1991-10-18",
+        "capital_social": "150000,00",
+        "score": 3,
+        "tokens_em_comum": [
+          "musa"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "28.152.454/0001-05",
+        "razao_social": "POTENCIA CONFECCOES LTDA",
+        "nome_fantasia": "QG UNIFORMES",
+        "cep": "70746540",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "1413402",
+        "abertura": "2017-07-11",
+        "capital_social": "93700,00",
+        "score": 3,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "15.211.266/0001-50",
+        "razao_social": "MUSA FASHION CONFECCOES LTDA",
+        "nome_fantasia": "",
+        "cep": "14401363",
+        "municipio": "FRANCA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4781400",
+        "abertura": "2012-03-14",
+        "capital_social": "60000,00",
+        "score": 2,
+        "tokens_em_comum": [
+          "musa"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–18:00"
+      },
+      {
+        "terça_feira": "09:00–18:00"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–18:00"
+      },
+      {
+        "sábado": "09:00–16:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro",
+          "Banheiro de gênero neutro",
+          "Wi-Fi",
+          "Wi-Fi gratuito"
+        ]
+      },
+      {
+        "crowd": [
+          "Empresa que acolhe a comunidade LGBTQ+",
+          "Espaço seguro para pessoas transgênero"
+        ]
+      },
+      {
+        "planning": [
+          "Necessário fazer agendamento",
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Cheques",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento gratuito na rua"
+        ]
+      }
+    ],
+    "serv_options": null,
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipM0243by9S2epzGifuqvXz5OQe3A3jf-O4Ei7u8=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEIeSmeHHh-3YjQE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Ao longo de 17 anos de história, aprendemos que cada cliente possui uma identidade única, e\nnosso papel é valorizar isso através das roupas. Conheça o que oferecemos: \n⭐️ Atendimento Altamente Personalizado e Atencioso \n⭐️ Descontos Especiais em Peças Selecionadas \n⭐️ Variedade em Vestuário, Calçados e Muito Mais \n⭐️ Opções Confortáveis para Crianças e\nAdultos Venha viver uma experiência de moda descomplicada e acolhedora na @musa_bsb,\nlocalizada na Asa Norte! \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "há 4 dias"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPzfIHwrBRcqA_V_9_5e7MAybEyYwRflXDU7vnb=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEMHytLy6_tlW&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Vestir quem você ama com carinho, estilo e variedade é o compromisso que assumimos\ndiariamente na nossa loja. Venha conferir o que preparamos para esta semana: \n⭐️ Setores Masculino, Feminino e Infantil Completos \n⭐️ Atendimento Customizado para uma Compra sem Erros \n⭐️ Promoções Imperdíveis que Você Precisa Ver \n⭐️ Experiência e Tradição Familiar de\n17 Anos Garanta roupas e complementos incríveis na @musa_bsb e renove o visual de toda a casa em um só lugar. \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "há 5 dias"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMZ6w6rHoZCUzq-2eUVYRSCl7KvhjhlvmTQEMDR=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEIuk4M_zgLqSzQE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Os acessórios certos e um sapato confortável transformam qualquer produção básica em algo\nsurpreendente. Encontre o match ideal para o seu guarda-roupa aqui. Veja nossos destaques:\n⭐️ Grande Variedade de Bolsas, Cintos e Calçados \n⭐️ Roupas Casuais e Alinhadas para Toda a Família \n⭐️ Equipe Pronta para Te Ajudar com Dicas de Estilo \n⭐️ 17 Anos de História e Sucesso na Asa Norte.\nA @musa_bsb te ajuda a criar produções completas com facilidade e rapidez. Venha nos fazer uma visita! . \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados\n#acessorios #atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia\n#asanorte #asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "3 de ago. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipP2bvZ07kWKS9CBQQFnZ9LthwUJfhtspOPWx21_=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEJDb0a7enLH9Xg&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Deseja economizar sem abrir mão de tecidos de qualidade e modelagens modernas? Nossa\nseção promocional foi feita sob medida para as suas necessidades. Conheça nossos diferenciais: \n⭐️ Promoções Incríveis em Diversos Setores \n⭐️ Guarda-Roupa Completo com\nCalçados e Acessórios \n⭐️ Atendimento Humanizado e Consultivo \n⭐️ Tradição de 17 Anos Vestindo Brasília\n Aproveite o melhor da moda para você e sua família na @musa_bsb, sua loja completa na Asa Norte! \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "29 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNI6y1Kxug1ZCKmcEPTwZYsCiQT8gkjSdRsKStJ=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEJ23oLSIg77S8QE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Comprar roupas para os filhos, para o parceiro ou parceira e para você em uma única visita, economiza tempo e garante a satisfação de todos. Veja o que torna nossa loja o lugar ideal: \n⭐️Opções Versáteis para Toda a Família \n⭐️ Atendimento Customizado e Paciente \n⭐️ Modelos Atuais de Roupas e Sapatos \n⭐️ Credibilidade de uma Loja com 17 Anos de Mercado \nVenha para a @musa_bsb e aproveite a nossa curadoria completa de moda e acessórios na Asa Norte! \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "21 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNpIHvwYNDo14Wu5s2eegAcaxMf1BWwNS_SBb-h=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEKH08rWwm9vlNw&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Comprar roupas para os filhos, para o parceiro ou parceira e para você em uma única visita economiza tempo e garante a satisfação de todos. Veja o que torna nossa loja o lugar ideal: \n⭐️Opções Versáteis para Toda a Família \n⭐️ Atendimento Customizado e Paciente \n⭐️ Modelos Atuais de Roupas e Sapatos \n⭐️ Credibilidade de uma Loja com 17 Anos de Mercado. \nVenha para a @musa_bsb e aproveite a nossa curadoria completa de moda e acessórios na Asa Norte! \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "10 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOcz4V3UPf_p7gQ4stpL2MV8Z2HubbFJdgmj0ny=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEJaMk9_i7YPU1AE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "A moda passa, mas o estilo e o bom atendimento permanecem. É por isso que nos dedicamos\nhá tanto tempo a entender e atender as reais necessidades dos nossos clientes. Conheça nossos pilares: \n⭐️ 17 Anos de História e Confiança ⭐️ Atendimento Personalizado e Atencioso\n⭐️ Curadoria de Acessórios e Roupas Diversas \n⭐️ Condições Especiais de Pagamento e Promoções. \nA @musa_bsb é o destino certo na Asa Norte para quem busca vestir a família inteira com qualidade e economia. \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados\n#acessorios #atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia\n#asanorte #asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "8 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMlQcSnrm-GNvmo87AowYvpdw3RkqWdHOLeRrUE=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEPvxrYTBxqDN8QE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "A moda passa, mas o estilo e o bom atendimento permanecem. É por isso que nos dedicamos há tanto tempo a entender e atender as reais necessidades dos nossos clientes. Conheça nossos pilares: \n⭐️ 17 Anos de História e Confiança ⭐️ Atendimento Personalizado e Atencioso\n⭐️ Curadoria de Acessórios e Roupas Diversas \n⭐️ Condições Especiais de Pagamento e\nPromoções A @musa_bsb é o destino certo na Asa Norte para quem busca vestir a família inteira com qualidade e economia. \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados\n#acessorios #atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia\n#asanorte #asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "30 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNaL6c1xF5KvNNYiUaqY1aB7dLXf3_2rNZIglmK=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEPWHx9L3o5HzXg&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Encontrar o sapato ideal que combine perfeitamente com a roupa nova faz toda a diferença.\nEconomize tempo e resolva o visual inteiro em um só endereço. Veja o que oferecemos para você: \n⭐️ Variedade em Calçados e Roupas no Mesmo Lugar \n⭐️ Opções Estilosas para Adultos\ne Crianças \n⭐️ Ofertas Especiais e Descontos Imperdíveis \n⭐️ Equipe Pronta para um Atendimento Customizado Com 17 anos de estrada, a @musa_bsb sabe como entregar a qualidade que sua família merece. Venha conferir! \n. \n. \n. \n. \n#musabsb #modafamilia\n#lookscompletos #calcados #acessorios #atendimentopersonalizado #promocao#17anosdetradicao #modabrasilia #asanorte #asanortebrasilia #lojaderoupasdf #modabsb\n#lojaasanorte #comercioasanorte #lookdodiaasanorte #asanortebsb",
+        "date": "25 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPKvd9ho7wPMAv7nNlg934t0u1UPRMtsr9Gl0s8=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Musa+Bsb+-+Asa+Norte&ludocid=11984380140501489187&lpsid=CIHM0ogKEJqNrZvQ9YO70wE&source=sh/x/loc/post&lsig=AB86z5VwyXpofHDj1uT5Jd-9csG9",
+        "description": "Vestir-se é um ato de cuidado diário com você mesmo. Por isso, oferecemos um atendimento\nconsultivo para te ajudar a escolher o look que mais combina com a sua rotina. Venha conferir nossos destaques: \n⭐️ Looks Completos com Calçados e Acessórios \n⭐️ Setores para Toda a\nFamília \n⭐️ Preços Competitivos e Promoções Atuais \n⭐️ Tradição e Atendimento Diferenciado na Capital Na @musa_bsb, o foco é você. \nVenha nos visitar na Asa Norte e conheça nossa curadoria de perto! \n. \n. \n. \n. \n#musabsb #modafamilia #lookscompletos #calcados #acessorios\n#atendimentopersonalizado #promocao #17anosdetradicao #modabrasilia #asanorte\n#asanortebrasilia #lojaderoupasdf #modabsb #lojaasanorte #comercioasanorte\n#lookdodiaasanorte #asanortebsb",
+        "date": "23 de jun. de 2026"
+      }
+    ],
+    "price": null,
+    "botoes": {
+      "site": false,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 1.0,
+    "ultimo_review": "2026-06-16T15:51:56Z",
+    "reviews_recentes": [
+      {
+        "autor": "Simone Bispo Consultoria",
+        "nota": 5.0,
+        "data": "2026-06-16T15:51:56Z",
+        "texto": "Eu sou muito bem atendida nessa loja e a qualidade das roupas é excelente!",
+        "respondido": true
+      },
+      {
+        "autor": "Edson Costa",
+        "nota": 5.0,
+        "data": "2026-06-09T17:53:14Z",
+        "texto": "Loja agradavel, e bem distribuida entre itens de vestúario que vai de 1 ano de idade até as senhoras da melhor idade, tem acessorios também e roupa de homens, o atendimente é pessonalizado.\nVale a visita na loja não vai se arreper a Fran e a Cris vão fazer  você se sentir bem a vontade e acolhidas.",
+        "respondido": true
+      },
+      {
+        "autor": "Romeu Fortes",
+        "nota": 5.0,
+        "data": "2026-05-26T20:28:39Z",
+        "texto": "A loja tem um ótimo atendimento e conta com várias opções do infantil ao adulto.\nRecomendo.",
+        "respondido": true
+      },
+      {
+        "autor": "Paula Lopes",
+        "nota": 5.0,
+        "data": "2026-05-30T13:13:59Z",
+        "texto": "Lindas roupas, super confortáveis e ótimo atendimento! Sucesso!",
+        "respondido": true
+      },
+      {
+        "autor": "Luciane Amorim",
+        "nota": 5.0,
+        "data": "2026-06-01T14:21:19Z",
+        "texto": "Eu amo essa loja. Roupas maravilhosas e o atendimento ótimo",
+        "respondido": true
+      },
+      {
+        "autor": "Ana Maria Monteiro",
+        "nota": 5.0,
+        "data": "2026-06-11T20:04:39Z",
+        "texto": "Ótima loja. Tamanhos grandes e atendimento muito bom..",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 27,
+    "score_porque": [
+      "Sem site no perfil (+20)",
+      "Nicho quente: Loja de Roupa (+7)"
+    ]
+  },
+  {
+    "quadra": "311",
+    "par": "310/311",
+    "quadra_por_cep": "311",
+    "titulo": "VIA FLORA",
+    "slug": "via-flora",
+    "nicho": "Loja de moda feminina",
+    "endereco": "BL B, Comércio Local Norte, 311 - Loja 14 - Asa Norte, Brasília - DF, 70757-520",
+    "telefone": "(61) 3256-7129",
+    "site": "http://www.lojasviaflora.com.br/",
+    "rating": 4.7,
+    "reviews": 37,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "17.172.323/0001-65",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJBaSPtlMuWpMRkYg5c5nADpY",
+    "data_id": "0x935a2e53b68fa405:0x960ec09973398891",
+    "gps": {
+      "latitude": -15.756206599999999,
+      "longitude": -47.890648299999995
+    },
+    "origem_raw": "q311-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "17.172.323/0001-65",
+        "razao_social": "VIA FLORA - INDUSTRIA E COMERCIO DE VESTUARIO E ACESSORIOS LTDA",
+        "nome_fantasia": "VIA FLORA CONFECCOES",
+        "cep": "70757520",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4781400",
+        "abertura": "2012-11-14",
+        "capital_social": "30000,00",
+        "score": 11,
+        "tokens_em_comum": [
+          "flora",
+          "via"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "17.819.298/0001-69",
+        "razao_social": "VIA FLORA FOR GIRLS LTDA",
+        "nome_fantasia": "VIA FLORA",
+        "cep": "74290190",
+        "municipio": "GOIANIA",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Ativa",
+        "cnae": "1412601",
+        "abertura": "2013-03-25",
+        "capital_social": "30000,00",
+        "score": 5,
+        "tokens_em_comum": [
+          "flora",
+          "via"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "04.941.493/0001-15",
+        "razao_social": "VIA FLORA COSMETICOS LTDA",
+        "nome_fantasia": "",
+        "cep": "13416218",
+        "municipio": "PIRACICABA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4646002",
+        "abertura": "2002-02-26",
+        "capital_social": "55000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "flora",
+          "via"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "09.604.921/0001-38",
+        "razao_social": "VIA FLORA COMERCIO DE ROUPAS LTDA",
+        "nome_fantasia": "VIA FLORA",
+        "cep": "74180040",
+        "municipio": "GOIANIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "1412601",
+        "abertura": "2008-06-06",
+        "capital_social": "30000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "flora",
+          "via"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "09.452.842/0001-59",
+        "razao_social": "CASA FLORA COMERCIO DE PRODUTOS ARTESANAIS E ACESSORIOS LTDA",
+        "nome_fantasia": "VIA FLORA",
+        "cep": "71710515",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4781400",
+        "abertura": "2008-03-26",
+        "capital_social": "30000,00",
+        "score": 6,
+        "tokens_em_comum": [
+          "flora",
+          "via"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–19:00"
+      },
+      {
+        "terça_feira": "09:00–19:00"
+      },
+      {
+        "quarta_feira": "09:00–19:00"
+      },
+      {
+        "quinta_feira": "09:00–19:00"
+      },
+      {
+        "sexta_feira": "09:00–19:00"
+      },
+      {
+        "sábado": "09:00–18:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Compras na loja"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "offerings": [
+          "Roupas femininas"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro",
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "compras_na_loja": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.75,
+    "ultimo_review": "2023-08-30T14:37:18Z",
+    "reviews_recentes": [
+      {
+        "autor": "Anna Novais",
+        "nota": 1.0,
+        "data": "2023-08-30T14:37:18Z",
+        "texto": "Há tempos compro roupas nessa loja por ter um preço um pouco mais acessível e peças bonitas. Primeira reclamação é que as funcionárias, destreinadas, por inúmeras vezes ficaram me perguntando se eu estava grávida e ficaram me oferecendo roupas para gestante (Não estou gestante!).\n\nComprei três vesti",
+        "respondido": true
+      },
+      {
+        "autor": "André Gurgel",
+        "nota": 1.0,
+        "data": "2023-08-30T14:12:27Z",
+        "texto": "HORRÍVEL!!!! Atendimento PÉSSIMO!!! Primeiro que várias atendentes, em dias diferentes, ficaram perguntando se minha esposa estava grávida, sendo que não estava. Criando um constrangimento desnecessário e terrível. Segundo, que comprei um vestido lá, que cheirava a enxofre e não saía de jeito nenhum",
+        "respondido": true
+      },
+      {
+        "autor": "Gabrielle Tenório Gomes",
+        "nota": 5.0,
+        "data": "2026-02-11T23:08:47Z",
+        "texto": "Ótimo atendimento e ótimas peças. Obrigada :)",
+        "respondido": false
+      },
+      {
+        "autor": "Catarina Figueiredo",
+        "nota": 5.0,
+        "data": "2026-01-27T22:35:28Z",
+        "texto": "Todas são um amor, muita variedade e os preços são razoáveis.",
+        "respondido": false
+      },
+      {
+        "autor": "Leide S. de Oliveira",
+        "nota": 5.0,
+        "data": "2023-05-08T16:37:05Z",
+        "texto": "Estive na loja de hoje pela primeira vez. Já tinha visto passando de carro, mas ter uma vitrine com tamanhos maiores e com peças lindas me fez ter interesse de entrar. Atendimento e atenção excepcionais. Fazia muito tempo que não era bem atendida assim. Gostei também da diversidade de peças jovens e",
+        "respondido": true
+      },
+      {
+        "autor": "Daiene Nunes",
+        "nota": 1.0,
+        "data": "2024-01-10T00:18:22Z",
+        "texto": "Fui realizar uma troca de uma blusa, uma atendente me falou que eu poderia realizar a troca, aí veio outra atendente que estava escutando a conversa pediu para verificar, a blusa nunca foi usada, e estava com a etiqueta da loja, ela disse que não poderia realizar a troca. As atendentes cada uma aten",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 25,
+    "score_porque": [
+      "Última avaliação há 1076 dias (+18)",
+      "Nicho quente: Loja de moda feminina (+7)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Salão de Beleza Studio Visual - Asa Norte",
+    "slug": "salao-de-beleza-studio-visual-asa-norte",
+    "nicho": "Salão de Beleza",
+    "endereco": "SHCN SQN 312 - Asa Norte, Brasília - DF, 70765-540",
+    "telefone": "(61) 98153-0260",
+    "site": "https://www.instagram.com/studiovisualbsb",
+    "rating": 4.9,
+    "reviews": 21,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJH4ntIwM7WpMRdBk6hIXaoV8",
+    "data_id": "0x935a3b0323ed891f:0x5fa1da85843a1974",
+    "gps": {
+      "latitude": -15.7505045,
+      "longitude": -47.893341899999996
+    },
+    "origem_raw": "q312-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "Fechado"
+      },
+      {
+        "terça_feira": "09:00–18:00"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–18:00"
+      },
+      {
+        "sábado": "09:00–18:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "service_options": [
+          "Serviços no local"
+        ]
+      },
+      {
+        "amenities": [
+          "Banheiro",
+          "Wi-Fi gratuito"
+        ]
+      },
+      {
+        "crowd": [
+          "Empresa que acolhe a comunidade LGBTQ+",
+          "Espaço seguro para pessoas transgênero"
+        ]
+      },
+      {
+        "planning": [
+          "Necessário fazer agendamento",
+          "É recomendado marcar hora",
+          "Aceita atendimentos presenciais"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "children": [
+          "Bom para ir com crianças"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento descoberto gratuito",
+          "Estacionamento gratuito na rua",
+          "Estacionamento no local"
+        ]
+      }
+    ],
+    "serv_options": {
+      "serviços_no_local": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": true,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.62,
+    "ultimo_review": "2025-09-20T15:37:16Z",
+    "reviews_recentes": [
+      {
+        "autor": "Marjorie Bastos",
+        "nota": 5.0,
+        "data": "2025-09-20T15:37:16Z",
+        "texto": "O melhor da asa norte. A Ana é a melhor manicure da vida. Eri cuida dos cabelos como ninguém. Passa lá, não vai se arrepender.",
+        "respondido": true
+      },
+      {
+        "autor": "Olimpia Mello alves",
+        "nota": 5.0,
+        "data": "2025-09-19T11:31:51Z",
+        "texto": "Experiência excelente, a Ery é uma profissional incrível, fez maquiagem e penteado divinos.\nVou voltar!!!",
+        "respondido": true
+      },
+      {
+        "autor": "Elza Bayma",
+        "nota": 5.0,
+        "data": "2025-09-26T21:47:47Z",
+        "texto": "Super indico, Eri excelente profissional nos cabelos e Ana arrasa nas unhas, ambiente agradável, energia maravilhosa, tudo para atender os clientes com muito carinho. Amo",
+        "respondido": false
+      },
+      {
+        "autor": "Fernanda Marra",
+        "nota": 5.0,
+        "data": "2025-09-20T18:37:55Z",
+        "texto": "Excelente. Ótimo atendimento e preço acessível. Ambiente tranquilo. O trabalho de banho de gel com a Ana é perfeito. A cabeleireira Eli excelente na escova e também na maquiagem super recomendo!",
+        "respondido": true
+      },
+      {
+        "autor": "KARINA REIS MOACYR",
+        "nota": 5.0,
+        "data": "2025-02-26T11:53:14Z",
+        "texto": "Ery é uma profissional incrível! Sempre saio do salão satisfeita com o resultado. Além de talentosa, é atenciosa e entende exatamente o que queremos. Ambiente agradável e atendimento impecável. Recomendo de olhos fechados!!",
+        "respondido": true
+      },
+      {
+        "autor": "Camila Bruna",
+        "nota": 5.0,
+        "data": "2024-12-16T12:39:40Z",
+        "texto": "Foi INCRÍVEL o atendimento, a Ery foi Sensacional,me deixou perfeita para minhas fotos de ensaio pre-wedding.. fui até Brasília para fazer as fotos e ela desde o primeiro contato sempre muito atenciosa, extremamente profissional,trabalha divinamente bem,agora ganhou uma cliente quando eu estiver em ",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 22,
+    "score_porque": [
+      "Última avaliação há 324 dias (+12)",
+      "Nicho quente: Salão de Beleza (+10)"
+    ]
+  },
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Dolci Infanti - Brechó Infantil",
+    "slug": "dolci-infanti-brecho-infantil",
+    "nicho": "Loja de Roupa",
+    "endereco": "Asa Norte CLN 312, BL D Lj 55 - Asa Norte, Brasília - DF, 70765-540",
+    "telefone": "(61) 99425-6786",
+    "site": "http://dolciinfanti.com.br/",
+    "rating": 5,
+    "reviews": 31,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJhU1HfX8yWpMRDjwbQqSOcd4",
+    "data_id": "0x935a327f7d474d85:0xde718ea4421b3c0e",
+    "gps": {
+      "latitude": -15.750572499999999,
+      "longitude": -47.8932678
+    },
+    "origem_raw": "q312-s20.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": null,
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "service_options": [
+          "Entrega",
+          "Retirada na loja"
+        ]
+      },
+      {
+        "accessibility": [
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "recycling": [
+          "Roupas"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento descoberto gratuito"
+        ]
+      }
+    ],
+    "serv_options": {
+      "retirada_na_loja": true,
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 4,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 1.0,
+    "ultimo_review": "2026-05-25T23:33:10Z",
+    "reviews_recentes": [
+      {
+        "autor": "Thaísa Vilela",
+        "nota": 5.0,
+        "data": "2026-05-25T23:33:10Z",
+        "texto": "Excelente experiência com a loja! Os produtos estavam todos em perfeito estado, muito bem higienizados e com aparência de novos. Dá para perceber o cuidado e a qualidade em cada item disponibilizado. Além disso, o sistema de locação é extremamente prático e fácil. O atendimento também sempre  atenci",
+        "respondido": true
+      },
+      {
+        "autor": "Gabriela Buzelin",
+        "nota": 5.0,
+        "data": "2026-03-30T01:58:16Z",
+        "texto": "A única empresa que encontrei que apresentou flexibilidade no meu pedido. Levaram o bebê conforto até o aeroporto pontualmente e foram muito atenciosos e solícitos.\n\nAlém de que o equipamento estava em perfeito estado. Muito obrigada Ana e André.\n\nEmpresa 10/10.",
+        "respondido": true
+      },
+      {
+        "autor": "Sanaa Ghazale",
+        "nota": 5.0,
+        "data": "2025-01-09T04:25:12Z",
+        "texto": "Atendimento excelente e muita variedade de  produtos. A Dolci não é só um brechó. Um dos melhores serviços que eles oferecem é aluguel de itens, como carrinho de bebê, cadeira de alimentação, berços e etc. É uma excelente forma de testar certos produtos antes de adquirir para ver a adaptação da cria",
+        "respondido": true
+      },
+      {
+        "autor": "Hammel Macedo",
+        "nota": 5.0,
+        "data": "2026-01-06T17:54:10Z",
+        "texto": "Aluguei o berço sereno infanti e um colchonete e meu bebê adorou. O berço é confortável e bem tranquilo de montar. Pretendo alugar novamente numa próxima oportunidade.",
+        "respondido": true
+      },
+      {
+        "autor": "Flávia Andrade",
+        "nota": 5.0,
+        "data": "2025-09-14T23:30:08Z",
+        "texto": "Experiência maravilhosa com a Dolci. Preços mais acessíveis do que uma outra vez que aluguei em outra loja. A Ana é uma maravilhosa, me ajudou em tudo, super solicita. Adorei tudo! Produtos em ótimo estado de conservação. Me ajudou com vídeos pra ajudar a montar o berço, colocar a cadeirinha no carr",
+        "respondido": true
+      },
+      {
+        "autor": "Ellen Ramos",
+        "nota": 5.0,
+        "data": "2025-10-27T18:22:42Z",
+        "texto": "Aluguel um berço para minha bebê quando estive em Brasília. O atendimento foi ótimo e o berço deu super certo.",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 17,
+    "score_porque": [
+      "Só 4 fotos no perfil (+10)",
+      "Nicho quente: Loja de Roupa (+7)"
+    ]
+  },
+  {
+    "quadra": "313",
+    "par": "312/313",
+    "quadra_por_cep": "313",
+    "titulo": "Multi Assistência Técnica Eletrônica - Asa Norte",
+    "slug": "multi-assistencia-tecnica-eletronica-asa-norte",
+    "nicho": "Serviço de conserto de televisores",
+    "endereco": "Asa Norte CLN 313, BL C Lj 46b - Asa Norte, Brasília - DF, 70766-530",
+    "telefone": "(61) 98498-2127",
+    "site": "https://multiassistenciatec.com.br/",
+    "rating": 4.8,
+    "reviews": 35,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": null,
+    "porte": null,
+    "mei": null,
+    "gate_mei": "INCONCLUSIVO - confianca nao_resolvido, conferir na porta",
+    "place_id": "ChIJJeFlFu07WpMRchK7GYQ93Hw",
+    "data_id": "0x935a3bed1665e125:0x7cdc3d8419bb1272",
+    "gps": {
+      "latitude": -15.749886499999999,
+      "longitude": -47.8930504
+    },
+    "origem_raw": "q312-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [],
+    "cnpj_confianca": "nao_resolvido",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "09:00–18:00"
+      },
+      {
+        "terça_feira": "09:00–18:00"
+      },
+      {
+        "quarta_feira": "09:00–18:00"
+      },
+      {
+        "quinta_feira": "09:00–18:00"
+      },
+      {
+        "sexta_feira": "09:00–18:00"
+      },
+      {
+        "sábado": "Fechado"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "from_the_business": [
+          "Se identifica como uma empresa de empreendedoras"
+        ]
+      },
+      {
+        "service_options": [
+          "Estimativas on-line",
+          "Serviços no local"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assento com acessibilidade para pessoas em cadeira de rodas",
+          "Banheiro com acessibilidade para pessoas em cadeira de rodas",
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "offerings": [
+          "Serviços de reparos"
+        ]
+      },
+      {
+        "crowd": [
+          "Empresa que acolhe a comunidade LGBTQ+",
+          "Espaço seguro para pessoas transgênero"
+        ]
+      },
+      {
+        "recycling": [
+          "Baterias",
+          "Eletrônicos"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento descoberto gratuito",
+          "Estacionamento gratuito na rua"
+        ]
+      }
+    ],
+    "serv_options": {
+      "estimativas_on_line": true,
+      "serviços_no_local": true
+    },
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPo6szE9ks1IcKZOXAAdIk37iAfN_mHluzRj8GK=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEKCvx5f3paf2TQ&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Consertamos caixa de som JBL, e também vendemos acessórios como fone de ouvido, capinha de celular, película carregadores e conectores. \n\n#CaixaDeSom #ConsertoDeJBL #ConsertoDeCelular #Videogames",
+        "date": "8 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOrxXsAxwBSvenn7NfXudZH7rDE8zR-cumFecXQ=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEIL72JOJkKjDYQ&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Novas ofertas de acessórios para celular chegaram na loja! Venham conferir!",
+        "date": "2 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipP92RCQDT78UHLAi1qZe2iduOgbVCI-XHsqQ4ke=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKELaIhrazhM20mQE&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Conserto de Celular, Fone de Ouvidos, Televisão, notebook e Vídeo Games!\n\n#AsaNorte#consertodecelular#consertodetv#consertodevideogame#",
+        "date": "1 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMgj2k2pU0EKwo24d-9hlSf1-LlgChWbh3oCDB9=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEITOlOfA2oHZwQE&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Manter seus eletrônicos funcionando perfeitamente é crucial para garantir a sua produtividade, o lazer e reduzir o risco de dores de cabeça com aparelhos parados. Aqui estão alguns pilares fundamentais para você não errar na hora de consertar os seus dispositivos:\n⭐️ Exija um Atendimento Confiável e Transparente\n⭐️ Busque um Orçamento Rápido e Sem Enrolação\n⭐️ Garantia de Qualidade em Cada Serviço\n⭐️ Suporte para Celular, TV e Videogame\nNa hora em que a tela quebra, a TV apaga ou o videogame para de rodar, é inevitável bater aquela frustração. A @multi_assistencia (ou insira o arroba correto) está aqui na CLN 313 Norte para te dar todo o suporte técnico necessário com agilidade e a confiança que você merece em Brasília!\n.\n.\n.\n.\n#multiassistencia #assistenciatecnica #consertodecelular #reparodetelevisao #consertodevideogame #asanorte #313norte #cln313 #asanortebrasilia #assistenciabsb #manutencaodeeletronicos #comercioasanorte",
+        "date": "27 de mai. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMqrQaIs8EX6OzVyXzKlz7gXvikJI6vVkb1ACGC=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEIbewKDG-pzYGQ&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Sua loja de confiança na asa norte para realizar seu conserto de eletrônicos! Estamos na asa norte de segunda a sexta das 9 às 18",
+        "date": "25 de mai. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOWVoNZmGwJQsd2aLh2kxgYpCbQUXrjxwc9k0uH=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEIvrto_47O7crgE&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Conserto/reparo de Celular, Televisão e Videogame!\n\nCLN 313 bloco C loja 46b\n\n#asanorte\n#consertodecelular",
+        "date": "23 de abr. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPiBAVg-JKqgcAaP6PBnXdMTDsORsV1c_3ewaIk=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKEKezjuyTie7YEg&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "date": "15 de abr. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOfKN7WklSCZC8uBZvSxcrWYWEIqHG04lb8yPE0=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Multi+Assist%C3%AAncia+T%C3%A9cnica+Eletr%C3%B4nica+-+Asa+Norte&ludocid=8997133793156076146&lpsid=CIHM0ogKELmg2v33ruWlYQ&source=sh/x/loc/post&lsig=AB86z5UaWrYhc5yhKL4gGuRtkJ2T",
+        "description": "Conserto de Celular, Tv e Videogames!\nVenda de carregador, fones e acessórios \nPeça seu orçamento grátis! \nCLN 313 - Asa Norte - Bloco C, atrás da Quitanda do Gomes",
+        "date": "15 de abr. de 2026"
+      }
+    ],
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.88,
+    "ultimo_review": "2026-04-02T17:14:05Z",
+    "reviews_recentes": [
+      {
+        "autor": "Roberto Lavarda Possa",
+        "nota": 1.0,
+        "data": "2026-04-02T17:14:05Z",
+        "texto": "Na segunda-feira perguntei só re um serviço e fiquei de levar o celular na quinta. Na quinta-feira pela manhã fui até o local para atendimento mas o responsável não estava. A tarde, às 13:29 perguntei se estava na loja e poderia levar o celular para análise. Às 13:55 respondeu que sim. Às 14:03 cheg",
+        "respondido": true
+      },
+      {
+        "autor": "dts Df",
+        "nota": 5.0,
+        "data": "2026-03-02T15:50:51Z",
+        "texto": "Excelente atendimento e qualidade do serviço.\nA loja é pequena, mas conserta som, tvs, vídeos-games, celulares e outros, além de ter à venda vários produtos, como capinhas, fones de ouvido, cabos etc.",
+        "respondido": true
+      },
+      {
+        "autor": "144 Fael",
+        "nota": 5.0,
+        "data": "2025-11-19T20:03:11Z",
+        "texto": "Rpzd atendente super simpático 10/10 comprei um produto que tava com um pequeno problema mas já fui atendido e trocaram na hora podem confiar",
+        "respondido": true
+      },
+      {
+        "autor": "André Costa",
+        "nota": 5.0,
+        "data": "2026-03-26T18:52:12Z",
+        "texto": "A melhor da asa norte é região",
+        "respondido": true
+      },
+      {
+        "autor": "Dioggo Mascarenhas",
+        "nota": 5.0,
+        "data": "2026-06-18T00:13:01Z",
+        "texto": "Excelente, atendimento e concerto perfeito. Recomendo.",
+        "respondido": false
+      },
+      {
+        "autor": "Sandra La Rocque",
+        "nota": 5.0,
+        "data": "2025-11-28T16:00:54Z",
+        "texto": "Excelente até atendimento e serviço.Rapaz muito simpático e solicito!Sempre arrumo meus eletrônicos lá,super de confiança!",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 6,
+    "score_porque": [
+      "Última avaliação há 130 dias (+6)"
+    ]
+  },
+  {
+    "quadra": "315",
+    "par": "314/315",
+    "quadra_por_cep": "315",
+    "titulo": "ALECRIM Produtos Naturais",
+    "slug": "alecrim-produtos-naturais",
+    "nicho": "Loja de produtos naturais",
+    "endereco": "Asa Norte CLN 315 LOJA 30/34 - Asa Norte, Brasília - DF, 70774-540",
+    "telefone": "(61) 99133-4607",
+    "site": "https://www.instagram.com/alecrimdf/",
+    "rating": 4.5,
+    "reviews": 22,
+    "prioridade": "P1",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "58.306.114/0001-44",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJr5UqzjA5WpMROaJsQmzxR6Q",
+    "data_id": "0x935a3930ce2a95af:0xa447f16c426ca239",
+    "gps": {
+      "latitude": -15.7438843,
+      "longitude": -47.895318599999996
+    },
+    "origem_raw": "q315-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "38.926.748/0001-92",
+        "razao_social": "ALECRIM COMERCIO DE PRODUTOS NATURAIS LTDA",
+        "nome_fantasia": "ALECRIM - PRODUTOS NATURAIS",
+        "cep": "94050000",
+        "municipio": "GRAVATAI",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Baixada",
+        "cnae": "4729699",
+        "abertura": "2020-09-25",
+        "capital_social": "40000,00",
+        "score": 6,
+        "tokens_em_comum": [
+          "alecrim",
+          "naturais",
+          "produtos"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "58.306.114/0001-44",
+        "razao_social": "ALECRIM PRODUTOS NATURAIS LTDA",
+        "nome_fantasia": "ALECRIM",
+        "cep": "70774540",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4729699",
+        "abertura": "2024-12-02",
+        "capital_social": "40000,00",
+        "score": 13,
+        "tokens_em_comum": [
+          "alecrim",
+          "naturais",
+          "produtos"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "56.983.400/0001-19",
+        "razao_social": "PILOTIS - CAFES ESPECIAIS LTDA",
+        "nome_fantasia": "PILOTIS - CAFES ESPECIAIS",
+        "cep": "70774540",
+        "municipio": "BRASILIA",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4729699",
+        "abertura": "2024-08-23",
+        "capital_social": "120000,00",
+        "score": 7,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "52.869.854/0001-02",
+        "razao_social": "52.869.854 GLEICIANE NOGUEIRA SILVA",
+        "nome_fantasia": "",
+        "cep": "70774540",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "S",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "9602501",
+        "abertura": "2023-11-13",
+        "capital_social": "1500,00",
+        "score": 7,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "57.082.580/0001-20",
+        "razao_social": "EMPORIO ALECRIM PRODUTOS NATURAIS LTDA",
+        "nome_fantasia": "AQUI SE NUTRE",
+        "cep": "59040000",
+        "municipio": "NATAL",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4637199",
+        "abertura": "2024-08-30",
+        "capital_social": "50000,00",
+        "score": 7,
+        "tokens_em_comum": [
+          "alecrim",
+          "naturais",
+          "produtos"
+        ],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:00–19:00"
+      },
+      {
+        "terça_feira": "08:00–19:00"
+      },
+      {
+        "quarta_feira": "08:00–19:00"
+      },
+      {
+        "quinta_feira": "08:00–19:00"
+      },
+      {
+        "sexta_feira": "08:00–19:00"
+      },
+      {
+        "sábado": "08:00–18:00"
+      },
+      {
+        "domingo": "Fechado"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Entrega"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC"
+        ]
+      }
+    ],
+    "serv_options": {
+      "entrega": true
+    },
+    "posts": null,
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": false,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 5,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 0.75,
+    "ultimo_review": "2026-02-26T11:06:13Z",
+    "reviews_recentes": [
+      {
+        "autor": "Lucas Martins",
+        "nota": 5.0,
+        "data": "2026-02-26T11:06:13Z",
+        "texto": "A loja Alecrim me conquistou! 🌿✨ Ganhei de presente um incenso de alfazema e uma vela perfumada simplesmente deliciosa. A qualidade é impecável, o aroma é envolvente e transforma completamente o ambiente. Dá pra sentir o carinho em cada detalhe. Amei demais e já virei fã! 💚",
+        "respondido": true
+      },
+      {
+        "autor": "Debora Cristima Marques",
+        "nota": 5.0,
+        "data": "2026-03-16T16:02:19Z",
+        "texto": "Os produtos são ótimos e tive bons resultados",
+        "respondido": true
+      },
+      {
+        "autor": "Regis Schmeikal",
+        "nota": 5.0,
+        "data": "2025-08-13T11:27:08Z",
+        "texto": "Excelente atendimento, muito atenciosos. Ambiente muito agradável e produtos variados",
+        "respondido": true
+      },
+      {
+        "autor": "Ana Paula",
+        "nota": 5.0,
+        "data": "2023-10-04T16:54:53Z",
+        "texto": "NOSSA GENTE, pensa uma loja com variedades de produtos naturais, chás, pomadas para dor, travesseiros infantil e adulto terapêuticos com aromatizantes, pulseiras, colares, cordão, braceletes terapêuticos, difusores elétricos e de spray, inúmeras vitaminas e suplementos como a marca SUNFOOD CLINICAL,",
+        "respondido": true
+      },
+      {
+        "autor": "JLRP",
+        "nota": 1.0,
+        "data": "2022-10-03T21:18:52Z",
+        "texto": "Sempre comprei óleos essenciais e incensos porém da última vez comprei um óleo vencido e eles se recusaram a trocar alegando a falta da NF..argumentei que poderiam tirar a segunda via da nota com o comprovante do cartão e eles se recusaram..\nNÃO COMPREM NESSA LOJA!!!",
+        "respondido": false
+      },
+      {
+        "autor": "Renata Bueno Miranda",
+        "nota": 5.0,
+        "data": "2024-10-19T12:00:42Z",
+        "texto": "Um paraíso pra quem gosta de chás, óleos e coisas do tipo. O atendimento também é ótimo! Super recomendo!",
+        "respondido": true
+      }
+    ],
+    "score_oportunidade": 6,
+    "score_porque": [
+      "Última avaliação há 165 dias (+6)"
+    ]
+  }
+]
