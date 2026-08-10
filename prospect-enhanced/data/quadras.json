@@ -1,0 +1,19 @@
+{
+  "_doc": "Centroides dos pares de entrequadra CLN 310-315 Norte. Zoom 18z (17z vaza 413/713/214/215). Resolvido em runtime exigindo >=4 ancoras reais de GPS. Cache eterno.",
+  "pares": {
+    "310-311": {"par":"310-311","quadras":[310,311],"centroide":null,"z":"18z","ll":null,"ancoras_n":0,"confianca":"desconhecida","resolvido_em":null,"metodo":"runtime","nota":"Resolver em runtime. Sem 4 ancoras -> discovery sem ll com gate geo apertado."},
+    "312-313": {"par":"312-313","quadras":[312,313],"centroide":"-15.7502,-47.8933","z":"18z","ll":"@-15.7502,-47.8933,18z","ancoras_n":9,"confianca":"alta","resolvido_em":"2026-08-10","metodo":"medido","nota":"9 ancoras reais de GPS em ~150 m confirmam a premissa dos pares."},
+    "314-315": {"par":"314-315","quadras":[314,315],"centroide":"-15.7441,-47.8947","z":"18z","ll":"@-15.7441,-47.8947,18z","ancoras_n":1,"confianca":"baixa","resolvido_em":"2026-08-10","metodo":"medido","nota":"1 ancora so. Confirmar em runtime exigindo >=4 ancoras antes de aceitar."}
+  },
+  "regex_geo": "(?i)(SCLRN|SHCN(/CL)?|SCLN|CLN|Com[ée]rcio\\s+Local\\s+Norte|Quadra|Qd)\\D{0,15}\\b(310|311|312|313|314|315)\\b",
+  "formatos_address_reais": [
+    "Asa Norte Comércio Local Norte 313, BL C",
+    "SHCN CLN 312, BL B Lj 29",
+    "SHCN/CL Qd 413 Bloco A Lojas 40, 34, 36...",
+    "CLN Quadra 413, Lj 20 - Térreo",
+    "St. Shcn Comercio Local 313 Bloco A, 37",
+    "SCLRN Quadra 713 Bloco E",
+    "BL A - Cln 313 Norte Loja 25",
+    "BL A Loja 45, Plano Piloto"
+  ]
+}

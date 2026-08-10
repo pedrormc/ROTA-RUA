@@ -1,0 +1,40 @@
+{
+  "_doc": "Mapa type_ids (slug EN estavel) -> nicho (30 slugs). Fonte canonica: type_ids. type_pt volatil, so exibicao. Sem match -> 'outros' + nicho_raw_nao_mapeado. Nicho NUNCA elimina empresa - so decide horario da rota.",
+  "versao": "1.0",
+  "created": "2026-08-10",
+  "nicho_temperatura": {
+    "restaurante":"quente","bar-boteco":"morno","padaria-confeitaria":"morno","cafeteria":"morno","lanchonete-fast-food":"morno","doceria-sorveteria":"morno","salao-de-beleza":"quente","barbearia":"quente","estetica-depilacao":"quente","clinica-odontologica":"quente","clinica-medica-consultorio":"quente","psicologia-terapia":"morno","fisioterapia-pilates":"morno","academia-crossfit":"morno","pet-shop":"quente","clinica-veterinaria":"morno","escola-de-idiomas":"quente","escola-curso-livre":"morno","otica":"morno","farmacia-manipulacao":"frio","imobiliaria":"morno","advocacia":"frio","contabilidade":"frio","lavanderia":"frio","papelaria-grafica":"frio","floricultura":"morno","loja-de-roupas-acessorios":"morno","oficina-autocenter":"frio","mercearia-emporio-adega":"frio","servicos-diversos":"frio"
+  },
+  "type_ids_para_nicho": {
+    "italian_restaurant":"restaurante","restaurant":"restaurante","brazilian_restaurant":"restaurante","japanese_restaurant":"restaurante","chinese_restaurant":"restaurante","mediterranean_restaurant":"restaurante","seafood_restaurant":"restaurante","steak_house":"restaurante",
+    "bar_and_grill":"bar-boteco","bar":"bar-boteco","pub":"bar-boteco",
+    "bakery":"padaria-confeitaria","pastry_shop":"padaria-confeitaria","cake_shop":"padaria-confeitaria",
+    "coffee_shop":"cafeteria","cafe":"cafeteria",
+    "fast_food_restaurant":"lanchonete-fast-food","hamburger_restaurant":"lanchonete-fast-food","pizza_restaurant":"lanchonete-fast-food",
+    "ice_cream_shop":"doceria-sorveteria","dessert_shop":"doceria-sorveteria","chocolate_shop":"doceria-sorveteria",
+    "hair_salon":"salao-de-beleza","beauty_salon":"salao-de-beleza","hair_care":"salao-de-beleza","nail_salon":"salao-de-beleza",
+    "barber_shop":"barbearia",
+    "hair_removal_service":"estetica-depilacao","laser_hair_removal_service":"estetica-depilacao","waxing_hair_removal_service":"estetica-depilacao",
+    "dentist":"clinica-odontologica","dental_clinic":"clinica-odontologica","orthodontist":"clinica-odontologica",
+    "doctor":"clinica-medica-consultorio","medical_clinic":"clinica-medica-consultorio","medical_office":"clinica-medica-consultorio",
+    "psychologist":"psicologia-terapia","psychotherapist":"psicologia-terapia",
+    "physiotherapist":"fisioterapia-pilates","pilates_studio":"fisioterapia-pilates",
+    "gym":"academia-crossfit","fitness_center":"academia-crossfit","crossfit_box":"academia-crossfit",
+    "pet_store":"pet-shop","pet_shop":"pet-shop",
+    "veterinary_care":"clinica-veterinaria","veterinary_clinic":"clinica-veterinaria",
+    "language_school":"escola-de-idiomas","english_language_institute":"escola-de-idiomas",
+    "after_school_program":"escola-curso-livre","learning_center":"escola-curso-livre",
+    "optical_goods_store":"otica","optician":"otica",
+    "compounding_pharmacy":"farmacia-manipulacao","pharmacy":"farmacia-manipulacao",
+    "real_estate_agency":"imobiliaria","real_estate_office":"imobiliaria",
+    "lawyer":"advocacia","law_firm":"advocacia",
+    "accountant":"contabilidade","accounting_office":"contabilidade","accounting_firm":"contabilidade",
+    "laundry":"lavanderia","dry_cleaner":"lavanderia",
+    "stationery_store":"papelaria-grafica","print_shop":"papelaria-grafica","copy_shop":"papelaria-grafica",
+    "florist":"floricultura","flower_shop":"floricultura",
+    "clothing_store":"loja-de-roupas-acessorios","shoe_store":"loja-de-roupas-acessorios","boutique":"loja-de-roupas-acessorios","accessories_store":"loja-de-roupas-acessorios",
+    "auto_repair_shop":"oficina-autocenter","car_repair_shop":"oficina-autocenter","mechanic":"oficina-autocenter","tire_shop":"oficina-autocenter",
+    "grocery_store":"mercearia-emporio-adega","convenience_store":"mercearia-emporio-adega","liquor_store":"mercearia-emporio-adega","wine_store":"mercearia-emporio-adega",
+    "key_duplication_service":"servicos-diversos","tailor":"servicos-diversos","repair_service":"servicos-diversos","appliance_repair_service":"servicos-diversos","cell_phone_repair_service":"servicos-diversos"
+  }
+}

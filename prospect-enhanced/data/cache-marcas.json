@@ -1,0 +1,10 @@
+{
+  "_doc": "Cache de contagem de unidades por marca no DF. TTL 90 dias. Populado pelo G7. Marcas novas viram candidatos a blacklist.",
+  "versao": "1.0",
+  "created": "2026-08-10",
+  "updated": "2026-08-10",
+  "ttl_dias": 90,
+  "corte_df": 5,
+  "corte_br": 10,
+  "marcas": {}
+}
