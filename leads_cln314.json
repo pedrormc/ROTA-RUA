@@ -1,0 +1,10 @@
+[
+  {"nome": "Mercado da Carne", "endereco": "CLN 314 Bloco B", "site": "", "ramo": "Mercado"},
+  {"nome": "Piccolino Cucina", "endereco": "CLN 314 Bloco B Loja 13", "site": "instagram.com/piccolinocucina", "ramo": "Restaurante"},
+  {"nome": "Confraria dos Pães", "endereco": "CLN 314 Loja 75", "site": "", "ramo": "Padaria/Café"},
+  {"nome": "Cleo Ferreira", "endereco": "CLN 314 Bloco A Loja 51", "site": "", "ramo": "Salão"},
+  {"nome": "Studio 61", "endereco": "CLN 314 Loja 11", "site": "studio-61.vercel.app", "ramo": "Salão"},
+  {"nome": "Baltazar Borges Cabeleireiros", "endereco": "CLN 314", "site": "", "ramo": "Salão"},
+  {"nome": "Florart DF", "endereco": "CLN 314 Bloco E", "site": "", "ramo": "Floricultura"},
+  {"nome": "H C Alimentos", "endereco": "CLN 314 Bloco A", "site": "", "ramo": "Alimentação"}
+]

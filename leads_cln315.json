@@ -1,0 +1,12 @@
+[
+  {"nome": "Panificadora e Confeitaria Ágape", "endereco": "CLN 315 Bloco A", "site": "", "ramo": "Padaria"},
+  {"nome": "The Banoffee", "endereco": "CLN 315 Bloco E", "site": "", "ramo": "Café/Doceria"},
+  {"nome": "ALECRIM Produtos Naturais", "endereco": "CLN 315 Bloco D", "site": "", "ramo": "Produtos Naturais"},
+  {"nome": "Mercado Malunga", "endereco": "CLN 315", "site": "", "ramo": "Mercado"},
+  {"nome": "MM Embalagens Ltda", "endereco": "CLN 315 Bloco D", "site": "facebook.com/mmembalagensltda", "ramo": "Embalagens"},
+  {"nome": "Vida Digital", "endereco": "CLN 315 Bloco A", "site": "", "ramo": "Eletrônicos"},
+  {"nome": "Resende Distribuidora de Bebidas", "endereco": "CLN 315 Bloco A", "site": "", "ramo": "Distribuidora"},
+  {"nome": "Pna Pet Shop", "endereco": "CLN 315 Bloco A", "site": "", "ramo": "Pet Shop"},
+  {"nome": "Salão Studio Vogue", "endereco": "CLN 315 Bloco B", "site": "", "ramo": "Salão"},
+  {"nome": "Salão Asa Norte DF", "endereco": "CLN 315 Bloco C", "site": "", "ramo": "Salão"}
+]
