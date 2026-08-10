@@ -25,18 +25,7 @@
 **Veredito do gate:** `INCONCLUSIVO - confianca baixa, conferir na porta`
 **Confiança do casamento nome→CNPJ:** **baixa**
 
-| Campo | Valor |
-|---|---|
-| CNPJ | `00.122.192/0001-09` |
-| Razão social | SO FRANGO ALIMENTOS LTDA |
-| Nome fantasia | SO FRANGO |
-| **Porte** | **Demais** |
-| **Optante MEI** | **—** |
-| Optante Simples | — |
-| Situação cadastral | Baixada |
-| CNAE principal | 0155504 |
-| Aberta em | 1972-12-29 |
-| Capital social | 22042,00 |
+_Nenhum CNPJ pôde ser casado com este estabelecimento a partir do SERP._
 
 ### Todos os candidatos avaliados (auditoria)
 

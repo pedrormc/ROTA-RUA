@@ -25,18 +25,7 @@
 **Veredito do gate:** `INCONCLUSIVO - confianca baixa, conferir na porta`
 **Confiança do casamento nome→CNPJ:** **baixa**
 
-| Campo | Valor |
-|---|---|
-| CNPJ | `65.008.706/0001-45` |
-| Razão social | 65.008.706 ENRICO DE OLIVEIRA RODRIGUES |
-| Nome fantasia | — |
-| **Porte** | **Microempresa (ME)** |
-| **Optante MEI** | **SIM** |
-| Optante Simples | S |
-| Situação cadastral | Ativa |
-| CNAE principal | 7319002 |
-| Aberta em | 2026-02-09 |
-| Capital social | 500,00 |
+_Nenhum CNPJ pôde ser casado com este estabelecimento a partir do SERP._
 
 ### Todos os candidatos avaliados (auditoria)
 

@@ -29,8 +29,8 @@ Nenhum lead P1 foi reprovado por ser MEI.
 | 3 | **73** | [Lígia Dantas Salão e Estética](../P1/312-ligia-dantas-salao-e-estetica/DOSSIE.md) | 312 | Salão de Beleza | 25 | 4.8 | 0% | **não** | — | — | nao_resolvido |
 | 4 | **68** | [Frutaria 312 Norte](../P1/312-frutaria-312-norte/DOSSIE.md) | 312 | Mercado | 30 | 4.3 | 0% | **não** | Microempresa (ME) | N | alta |
 | 5 | **68** | [Studio Elaine Express](../P1/314-studio-elaine-express/DOSSIE.md) | 314 | Salão de Beleza | 39 | 4.1 | 0% | **não** | Microempresa (ME) | N | alta |
-| 6 | **63** | [Bijoux Mix](../P1/311-bijoux-mix/DOSSIE.md) | 311 | Joalheria especializada em itens personalizados | 29 | 4.5 | 0% | **não** | Empresa de Pequeno Porte (EPP) | N | baixa |
-| 7 | **63** | [Studio Vogue](../P1/315-studio-vogue/DOSSIE.md) | 315 | Salão de Beleza | 28 | 4.7 | 0% | **não** | Demais | — | baixa |
+| 6 | **63** | [Bijoux Mix](../P1/311-bijoux-mix/DOSSIE.md) | 311 | Joalheria especializada em itens personalizados | 29 | 4.5 | 0% | **não** | — | — | baixa |
+| 7 | **63** | [Studio Vogue](../P1/315-studio-vogue/DOSSIE.md) | 315 | Salão de Beleza | 28 | 4.7 | 0% | **não** | — | — | baixa |
 | 8 | **59** | [Lavaggio Lavanderia - 313 Norte](../P1/313-lavaggio-lavanderia-313-norte/DOSSIE.md) | 313 | Lavanderia | 38 | 4.3 | 12% | **não** | Microempresa (ME) | N | alta |
 | 9 | **53** | [Refrigeração Querobino](../P1/310-refrigeracao-querobino/DOSSIE.md) | 310 | Serviço de conserto de refrigeradores | 39 | 4.2 | 62% | **não** | — | — | nao_resolvido |
 | 10 | **51** | [S.O.S Makeup - Loja de Maquiagem](../P1/311-s-o-s-makeup-loja-de-maquiagem/DOSSIE.md) | 311 | Loja de produtos de beleza | 26 | 4.5 | 0% | **não** | — | — | nao_resolvido |
@@ -39,8 +39,8 @@ Nenhum lead P1 foi reprovado por ser MEI.
 | 13 | **45** | [Podologia Feet & Cia](../P1/315-podologia-feet-cia/DOSSIE.md) | 315 | Podólogo | 21 | 5 | 0% | sim | — | — | nao_resolvido |
 | 14 | **44** | [Drogaria Fátima](../P1/312-drogaria-fatima/DOSSIE.md) | 312 | Farmácia | 28 | 4.5 | 25% | **não** | Microempresa (ME) | N | alta |
 | 15 | **40** | [Mais Corpo Pilates](../P1/315-mais-corpo-pilates/DOSSIE.md) | 315 | Estúdio de pilates | 25 | 4.8 | 0% | sim | — | — | nao_resolvido |
-| 16 | **40** | [Chaveiro 315 Norte](../P1/315-chaveiro-315-norte/DOSSIE.md) | 315 | Chaveiro(a) | 20 | 4.7 | 38% | **não** | Microempresa (ME) | S | baixa |
-| 17 | **35** | [Só Frango](../P1/312-so-frango/DOSSIE.md) | 312 | Açougue | 41 | 4.5 | 0% | **não** | Demais | — | baixa |
+| 16 | **40** | [Chaveiro 315 Norte](../P1/315-chaveiro-315-norte/DOSSIE.md) | 315 | Chaveiro(a) | 20 | 4.7 | 38% | **não** | — | — | baixa |
+| 17 | **35** | [Só Frango](../P1/312-so-frango/DOSSIE.md) | 312 | Açougue | 41 | 4.5 | 0% | **não** | — | — | baixa |
 | 18 | **33** | [D' Mulher Confecções](../P1/313-d-mulher-confeccoes/DOSSIE.md) | 313 | Loja de Roupa | 29 | 4.6 | 38% | sim | Microempresa (ME) | N | alta |
 | 19 | **33** | [EVS 315 Norte :: Herbalife](../P1/315-evs-315-norte-herbalife/DOSSIE.md) | 315 | Restaurante de comida natural | 43 | 4.8 | 0% | sim | — | — | nao_resolvido |
 | 20 | **32** | [Usadão Brasília Brechó](../P1/312-usadao-brasilia-brecho/DOSSIE.md) | 312 | Brechó | 48 | 4.5 | 100% | **não** | — | — | nao_resolvido |

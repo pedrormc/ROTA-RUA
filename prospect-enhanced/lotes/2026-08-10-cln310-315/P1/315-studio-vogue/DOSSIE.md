@@ -25,18 +25,7 @@
 **Veredito do gate:** `INCONCLUSIVO - confianca baixa, conferir na porta`
 **Confiança do casamento nome→CNPJ:** **baixa**
 
-| Campo | Valor |
-|---|---|
-| CNPJ | `32.804.358/0001-63` |
-| Razão social | STUDIO VOGUE CONDOMINIO RESIDENCIAL - EMPREENDIMENTO IMOBILIARIO SPE LTDA |
-| Nome fantasia | — |
-| **Porte** | **Demais** |
-| **Optante MEI** | **—** |
-| Optante Simples | — |
-| Situação cadastral | Ativa |
-| CNAE principal | 4110700 |
-| Aberta em | 2019-02-18 |
-| Capital social | 5000,00 |
+_Nenhum CNPJ pôde ser casado com este estabelecimento a partir do SERP._
 
 ### Todos os candidatos avaliados (auditoria)
 

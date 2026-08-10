@@ -25,18 +25,7 @@
 **Veredito do gate:** `INCONCLUSIVO - confianca baixa, conferir na porta`
 **Confiança do casamento nome→CNPJ:** **baixa**
 
-| Campo | Valor |
-|---|---|
-| CNPJ | `19.063.546/0001-10` |
-| Razão social | EDI BIJOUX LTDA |
-| Nome fantasia | EDI BIJOUX |
-| **Porte** | **Empresa de Pequeno Porte (EPP)** |
-| **Optante MEI** | **NÃO** |
-| Optante Simples | S |
-| Situação cadastral | Ativa |
-| CNAE principal | 4649410 |
-| Aberta em | 2013-10-14 |
-| Capital social | 20000,00 |
+_Nenhum CNPJ pôde ser casado com este estabelecimento a partir do SERP._
 
 ### Todos os candidatos avaliados (auditoria)
 
