@@ -1,0 +1,1324 @@
+{
+  "search_metadata": {
+    "id": "6a7a0686b9e86905d812943b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UGyIsGgTwfMqudWvyds2xg/6a7a0686b9e86905d812943b.json",
+    "created_at": "2026-08-10 17:12:38 UTC",
+    "processed_at": "2026-08-10 17:12:38 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lojas+e+servicos+CLN+311+Norte+Asa+Norte+Brasilia/@-15.7502,-47.8933,16z/data=!3m1!4b1!4m2!2m1!6e5?hl=pt-br&gl=br",
+    "raw_html_file": "https://serpapi.com/searches/UGyIsGgTwfMqudWvyds2xg/6a7a0686b9e86905d812943b.html",
+    "prettify_html_file": "https://serpapi.com/searches/UGyIsGgTwfMqudWvyds2xg/6a7a0686b9e86905d812943b.prettify",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lojas e servicos CLN 311 Norte Asa Norte Brasilia",
+    "ll": "@-15.7502,-47.8933,16z",
+    "google_domain": "google.com",
+    "hl": "pt-br",
+    "gl": "br",
+    "start": 0
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lojas e servicos CLN 311 Norte Asa Norte Brasilia"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Comércio Local Norte 311",
+      "place_id": "ChIJr53FijA6WpMRof67QtqR48o",
+      "data_id": "0x935a3a308ac59daf:0xcae391da42bbfea1",
+      "data_cid": "14619689181983276705",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308ac59daf%3A0xcae391da42bbfea1&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308ac59daf%3A0xcae391da42bbfea1&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7562424,
+        "longitude": -47.8910662
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJr53FijA6WpMRof67QtqR48o",
+      "provider_id": "/g/1ymslc0k6",
+      "address": "Asa Norte, Brasília - DF, 70757-500",
+      "country": "Brasil"
+    },
+    {
+      "position": 2,
+      "title": "Telvox Tecnologia Eletrônica Eireli",
+      "place_id": "ChIJzVTV6t8yWpMR1Bl8HtMV7H8",
+      "data_id": "0x935a32dfead554cd:0x7fec15d31e7c19d4",
+      "data_cid": "9217766533814294996",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a32dfead554cd%3A0x7fec15d31e7c19d4&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a32dfead554cd%3A0x7fec15d31e7c19d4&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.75621,
+        "longitude": -47.8907147
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJzVTV6t8yWpMR1Bl8HtMV7H8",
+      "provider_id": "/g/1tg_y4x2",
+      "rating": 4.6,
+      "reviews": 82,
+      "type": "Loja de eletrônicos",
+      "types": [
+        "Loja de eletrônicos",
+        "Fornecedor de peças eletrônicas",
+        "Serviço de reparos de aparelhos telefônicos"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store",
+        "electronic_parts_supplier",
+        "phone_repair_service"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 LOJA 08 - Asa Norte, Brasília - DF, 70757-520",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:00",
+      "hours": "Aberto · Fecha 18:00",
+      "operating_hours": {
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00",
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–14:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 3447-1905",
+      "extensions": [
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "user_review": "\"Sempre comprei alguns insumos de mão de obra da minha loja na Telvox.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWdcug7o0iuzrZyucc7A-XUkOoJDvfHd4DFSW_cJ_SHz0kcVYUCSlHYSPxq5KIOkMu-GRsKm7rGtF0ZnKchIw3lqEXmKShOAxD5tHZlFU44tPWaypyJUDhg7ax00ThUSofJUQw1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-FY2hXicHcRRCoIwGADgEy0XGULQg2S2lNBaS_Ml4s-2cDpzW2o37AjdJuh7-L4fYUyrF44jxWzCleKytLrsQDWmbMwEVO3wViPQSDs-OaTHTGY3sNxT-GHfXTFaAM9HOasSFQWvO7m5QUizC0QXSt64gtOZragkZ5oOz3m8TaqdRZuDjmuv25gQF00MYtvP5HOd1zEViT8Ec0MKGTLXNWl2HdsxYoHg3nXA-CgYVfeI7ftpv-ynGGMk_gNqflRzRjg"
+    },
+    {
+      "position": 3,
+      "title": "VIA FLORA",
+      "place_id": "ChIJBaSPtlMuWpMRkYg5c5nADpY",
+      "data_id": "0x935a2e53b68fa405:0x960ec09973398891",
+      "data_cid": "10812791520658819217",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a2e53b68fa405%3A0x960ec09973398891&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a2e53b68fa405%3A0x960ec09973398891&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756206599999999,
+        "longitude": -47.890648299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJBaSPtlMuWpMRkYg5c5nADpY",
+      "provider_id": "/g/1ptvvpcy2",
+      "rating": 4.7,
+      "reviews": 37,
+      "type": "Loja de moda feminina",
+      "types": [
+        "Loja de moda feminina"
+      ],
+      "type_id": "womens_clothing_store",
+      "type_ids": [
+        "womens_clothing_store"
+      ],
+      "address": "BL B, Comércio Local Norte, 311 - Loja 14 - Asa Norte, Brasília - DF, 70757-520",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 19:00",
+      "hours": "Aberto · Fecha 19:00",
+      "operating_hours": {
+        "segunda-feira": "09:00–19:00",
+        "terça-feira": "09:00–19:00",
+        "quarta-feira": "09:00–19:00",
+        "quinta-feira": "09:00–19:00",
+        "sexta-feira": "09:00–19:00",
+        "sábado": "09:00–18:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 3256-7129",
+      "website": "http://www.lojasviaflora.com.br/",
+      "extensions": [
+        {
+          "service_options": [
+            "Compras na loja"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "offerings": [
+            "Roupas femininas"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "service_options": {
+        "compras_na_loja": true
+      },
+      "user_review": "\"Peças incríveis e ótimo atendimento 🤍\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkK7IEeZpcXA5ywUvI2Orvqgjju0iOnp9b5AkNVWF_WgDR6J8MgATj6EMUe49O9IsGutNZaLThFmbZUC_j8sEjOCh428oZvqpdn-nwG07EzbfBB9l1T5VpYiMFMRtfxSlhD8OAO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JcGw6nicHcRRboIwAADQE1WqgoKJH1XBoWINA1F-zOhqa8W22gLOC3qG3WbJ3sf7fXNrtZk4Ts2HPaYUq2lj6IMoaam0PaJuDtMGEAOMgz7SXVZc1-M4pKUmB-T9dHkbD_CjvTMhGnjBUgeVh67bfRGdCrZIRys_YSgTozDJqRvgIDbLxm7Lr03Go1tV5vOT8E0o8Jy7A1-V7V1_SyC7JRyHr-o8mwV1P_P2-nhJoiS15-dnzRc-Rnja9SGEgP9PgPwDVTNERg"
+    },
+    {
+      "position": 4,
+      "title": "Stillo10 - 311 Norte",
+      "place_id": "ChIJLTklDBo7WpMRr7uBidKYJTs",
+      "data_id": "0x935a3b1a0c25392d:0x3b2598d28981bbaf",
+      "data_cid": "4261980652393577391",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3b1a0c25392d%3A0x3b2598d28981bbaf&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3b1a0c25392d%3A0x3b2598d28981bbaf&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756479899999999,
+        "longitude": -47.8917614
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJLTklDBo7WpMRr7uBidKYJTs",
+      "provider_id": "/g/11rqcl0x78",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Loja de Roupa",
+      "types": [
+        "Loja de Roupa"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "Asa Norte CLN 311 Lj 40 - Plano Piloto, Brasília - DF, 70757-550",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:00",
+      "hours": "Aberto · Fecha 18:00",
+      "operating_hours": {
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00",
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–14:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 99332-4700",
+      "website": "https://www.instagram.com/stillo10/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0jLz9lg7iNVTZrwzCM6PFFCvkBmHa9DBZP_BvABAeIZQCVMuLIRBXfDX-Xd1z9j5rbexJgWmLjm5qeAPxqclQLg__coj3DEbEjH0JP4zPRmwI3aecfgHqEHqMi7w2CHiOuGRy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mt1LH3icHcRdDoIgAADgE5GU_cy2HkQtbFrkmjlfXBGhJJKiWV6wM3Sbtr6H7_vJ2_ahl4ZR5uaIK8VL1mnWUFW1rGpHVEmDPzSgGmjDxhE5niQUwWCVfFHs4mPa9IMTzsl67TzvSOKz5aKUZOhpI5v56cGJwy7wI5Tc3AQk1_FgiVlzYa8tP8lAyFnNbPKqaXkIeJZRJUzXu3gCwy2ZDiSSvW-eGb1xXHu4DotFP3Fwse820XvVjyGEIP9PQfUDVXtExg"
+    },
+    {
+      "position": 5,
+      "title": "Açaí Official 311 norte",
+      "place_id": "ChIJTUrN_BQ7WpMRyDYtfFH7R88",
+      "data_id": "0x935a3b14fccd4a4d:0xcf47fb517c2d36c8",
+      "data_cid": "14936183016591800008",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3b14fccd4a4d%3A0xcf47fb517c2d36c8&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3b14fccd4a4d%3A0xcf47fb517c2d36c8&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7563964,
+        "longitude": -47.891296499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJTUrN_BQ7WpMRyDYtfFH7R88",
+      "provider_id": "/g/11vy4_25l9",
+      "rating": 4.8,
+      "reviews": 269,
+      "price": "R$ 20–40",
+      "extracted_price": 20,
+      "type": "Loja de açaí",
+      "types": [
+        "Loja de açaí"
+      ],
+      "type_id": "acai_shop",
+      "type_ids": [
+        "acai_shop"
+      ],
+      "address": "SHCN CLN 311 - Asa Norte, Brasília - DF, 70757-540",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 20:00",
+      "hours": "Aberto · Fecha 20:00",
+      "operating_hours": {
+        "segunda-feira": "12:20–20:00",
+        "terça-feira": "12:20–20:00",
+        "quarta-feira": "12:20–20:00",
+        "quinta-feira": "12:20–20:00",
+        "sexta-feira": "12:20–20:00",
+        "sábado": "12:20–20:00",
+        "domingo": "12:20–20:00"
+      },
+      "phone": "(61) 98286-5753",
+      "website": "https://franquias.acaiofficial.com.br/",
+      "extensions": [
+        {
+          "service_options": [
+            "Entrega sem contato",
+            "Entrega",
+            "Refeição no local"
+          ]
+        },
+        {
+          "highlights": [
+            "Ótima sobremesa"
+          ]
+        },
+        {
+          "popular_for": [
+            "Comer a sós"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "offerings": [
+            "Refeição rápida"
+          ]
+        },
+        {
+          "dining_options": [
+            "Sobremesa"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Tendência",
+            "Tranquilo"
+          ]
+        },
+        {
+          "crowd": [
+            "Grupos",
+            "Universitários"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        },
+        {
+          "children": [
+            "Bom para ir com crianças"
+          ]
+        },
+        {
+          "parking": [
+            "Há muitas vagas disponíveis",
+            "Estacionamento descoberto gratuito",
+            "Estacionamento gratuito na rua"
+          ]
+        }
+      ],
+      "service_options": {
+        "refeição_no_local": true,
+        "retirada_na_porta": true,
+        "entrega_sem_contato": true
+      },
+      "user_review": "\"Ótima experiência, atendentes incríveis e comida ótimo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDnewLBSygRLUal40FPI3-WDD4EGmJArGvjtC50FcKSnwnqvj5FFxTDi1V92UWDdhf1RRHyJb4V2USEP-34r6F464lZ-JY-MpOmAlnDdtj-a_8Fu94NAAJFsXR0l-zhJKtBIyfKg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Qx6maXicHcRRboIwGADgE_1SpJpp4kNdrVqckiKy7WVxFduRUpBWEW_oEXabJfsevt-n9r5x0yAwOhqoulamuLqilbX1hfUDWVeBahxIBy4gK5Hsc0Nt0W3maa_EJjsajFiyjiCnFC-WFSft8lb61xFiMk5tZy-3csTYfU9_wsNkmOX0pM-hEKuef-PDMEsXCUS4HTM8xuYT-Ae8NbuKGEtPvoTj1wu7TvCWEM7cu0AGHprHfr7uz7GadSFCCPT_EuwfJGpC0w"
+    },
+    {
+      "position": 6,
+      "title": "Lavamais Lavanderia - Asa Norte - 311 Norte",
+      "place_id": "ChIJVVVFijA6WpMRM46W5FLU4xI",
+      "data_id": "0x935a3a308a455555:0x12e3d452e4968e33",
+      "data_cid": "1361164964883500595",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308a455555%3A0x12e3d452e4968e33&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308a455555%3A0x12e3d452e4968e33&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7562149,
+        "longitude": -47.8911048
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJVVVFijA6WpMRM46W5FLU4xI",
+      "provider_id": "/g/11c5ss52bw",
+      "rating": 4.6,
+      "reviews": 55,
+      "type": "Lavanderia",
+      "types": [
+        "Lavanderia"
+      ],
+      "type_id": "laundry",
+      "type_ids": [
+        "laundry"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 Lj 02 - Asa Norte, Brasília - DF, 70757-530",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 17:45",
+      "hours": "Aberto · Fecha 17:45",
+      "operating_hours": {
+        "segunda-feira": "07:45–17:45",
+        "terça-feira": "07:45–17:45",
+        "quarta-feira": "07:45–17:45",
+        "quinta-feira": "07:45–17:45",
+        "sexta-feira": "07:45–17:45",
+        "sábado": "08:00–13:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 3033-3295",
+      "extensions": [
+        {
+          "service_options": [
+            "Serviços no local"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        }
+      ],
+      "service_options": {
+        "serviços_no_local": true
+      },
+      "user_review": "\"Em quase dois anos, sempre fui muito bem atendido por todos, com atenção;\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkuyUP6XaNyzlBHcJnpty5UdbFDYxCxzSRi1vHcelpj6_sFZvEnB7ViPej8OOPN3Qv0HNSwzwub2RJe7v0zKvYTKRA00btUeOlcMsPZVpzhtxzS8OwKJydcTQIGMdoY07xDm7PY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/a7J4wnicHcxdDoIgAADgE6lUK11bD_ZruhRNK3tpiUwrAhaIygU7Q7ep9fI9fp93LSUXU8si9cisGKsIbgR-IUYlptJE7GlVXBhIGMJyvQSmx0fTZ3Byuoa9JnMP-ZTLfpyVxXqZd4tO75PbQHkIE36fXMT6rFZ0bh9uEN-dKILhKFbAC_etbptimPjYVkAHKk-DxAWgkBmOCNoJeD5wXcvf5kRt4PclSuPtZleyHNjd8mnDfNYOAABG_RcZ9AseL0Zx"
+    },
+    {
+      "position": 7,
+      "title": "Farmácia Pague Menos",
+      "place_id": "ChIJq6rq9zA6WpMRLHj1mEn706Y",
+      "data_id": "0x935a3a30f7eaaaab:0xa6d3fb4998f5782c",
+      "data_cid": "12021228123899394092",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a30f7eaaaab%3A0xa6d3fb4998f5782c&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a30f7eaaaab%3A0xa6d3fb4998f5782c&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756100199999999,
+        "longitude": -47.890271299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJq6rq9zA6WpMRLHj1mEn706Y",
+      "provider_id": "/g/11b6hv8b45",
+      "rating": 3.3,
+      "reviews": 227,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "drugstore"
+      ],
+      "address": "SHCN CL QD 311 BLOCO A 72, Asa Norte, Brasília - DF, 70757-510",
+      "country": "Brasil",
+      "open_state": "Aberto 24 horas",
+      "hours": "Aberto 24 horas",
+      "operating_hours": {
+        "segunda-feira": "07:00–00:00",
+        "terça-feira": "Atendimento 24 horas",
+        "quarta-feira": "Atendimento 24 horas",
+        "quinta-feira": "Atendimento 24 horas",
+        "sexta-feira": "Atendimento 24 horas",
+        "sábado": "Atendimento 24 horas",
+        "domingo": "00:00–21:00"
+      },
+      "phone": "4002-8282",
+      "website": "https://www.paguemenos.com.br/?utm_source=google&utm_medium=website&utm_campaign=youmap",
+      "extensions": [
+        {
+          "service_options": [
+            "Entrega",
+            "Retirada na loja"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "service_options": {
+        "retirada_na_loja": true,
+        "entrega": true
+      },
+      "user_review": "\"Melhor Farmacia de Brasília, com melhores preço e atendimento.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkp_GNcDZ_raDKbJ1FRm4yqIN4QmrCuz5NkJFyhTOAaMa1IkKFLh5VjY_zOHrutYBIivltjrOf4dH8T4qgBX_S32l8uaQfYwKbhOSf7CcZybCCAQTFkNoQILmxrqLKmkRH1TwI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G4IjhHicHcThEkIwAADgJxJKV9ddP8TJIqJdpT-OhdXM2CbpAXuH3qa7vh_f94OlbMVKVWs8m1SMVXXRi4Ij1siikRPEqFq1QkFCEarpxgd4Jm26DZB9TXlme_lOd2JqjB0IjIhyq3_PA7JzRgxDM9tnOiCe4-P56ZGk79DlvUw24P6s5YOHpXFzl9Doqs0lPc6m9bLPojIZvByHx3JhoeuYW5YZQYcELAI-ffHO9yiJXR0OYD3omqYp-D9Smh9UjEUR"
+    },
+    {
+      "position": 8,
+      "title": "PAPELARIA ARTE E CIA",
+      "place_id": "ChIJ1UJ1jjA6WpMRSsKErawIzjA",
+      "data_id": "0x935a3a308e7542d5:0x30ce08acad84c24a",
+      "data_cid": "3516757896761492042",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308e7542d5%3A0x30ce08acad84c24a&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308e7542d5%3A0x30ce08acad84c24a&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7563309,
+        "longitude": -47.891048999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJ1UJ1jjA6WpMRSsKErawIzjA",
+      "provider_id": "/g/1tk6rd9t",
+      "rating": 4.5,
+      "reviews": 92,
+      "type": "Papelaria",
+      "types": [
+        "Papelaria"
+      ],
+      "type_id": "stationery_store",
+      "type_ids": [
+        "stationery_store"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 LOJAS 12/14 TÉRREO - Asa Norte, Brasília - DF, 70757-530",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:00",
+      "hours": "Aberto · Fecha 18:00",
+      "operating_hours": {
+        "segunda-feira": "08:30–18:00",
+        "terça-feira": "08:30–18:00",
+        "quarta-feira": "08:30–18:00",
+        "quinta-feira": "08:30–18:00",
+        "sexta-feira": "08:30–18:00",
+        "sábado": "08:30–13:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 3274-0044",
+      "website": "https://wa.me/556132740044",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como uma empresa de empreendedoras"
+          ]
+        },
+        {
+          "service_options": [
+            "Entrega",
+            "Retirada na loja",
+            "Compras na loja"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro de gênero neutro",
+            "Wi-Fi",
+            "Wi-Fi gratuito"
+          ]
+        },
+        {
+          "crowd": [
+            "Empresa que acolhe a comunidade LGBTQ+",
+            "Espaço seguro para pessoas transgênero"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        },
+        {
+          "children": [
+            "Desconto para famílias",
+            "Descontos para crianças"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamento descoberto gratuito",
+            "Estacionamento gratuito na rua",
+            "Estacionamento no local"
+          ]
+        }
+      ],
+      "service_options": {
+        "compras_na_loja": true,
+        "retirada_na_porta": true,
+        "entrega": true
+      },
+      "user_review": "\"A loja tem um atendimento muito bom depois que chegou o novo atendente.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVYjMAnPolIq_aobbqQQcktl328MZx15It8O3rw0u0almK1S6H0zVeQ1YB83zZSTGeTiJ081a-h9Hn0ThIAC5Hq5JZsDXNy0Ug10ps98wDVFW4HyEGSX-w_LS665O23jetA-HvxA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tf-OKHicHcTdboIwGADQJ6p8tUKqyS6qbhbnH4Ko3BhsGjpXW7B1qG-4R_BtTDwX5_mvvK_dIAi0Ip3K2krLq5MXYY2XxneEPQdV7ZBwyAWMr1fZ1uT705yZldVxcyjt8dgkifj1mnTpvLjhMPZ0SS4tXKHU52-cRhweuUzwfkjJo0izicx-pkBxiVSfG8hUzEYhb8Jp4ca7xR02FYba9Wk7zr-2PX7_nKQ71B5maRSFyy45Sc8Q_7uxjxYDAFLvBTIvcd9C4Q"
+    },
+    {
+      "position": 9,
+      "title": "BR Mania Conveniência",
+      "place_id": "ChIJnQbJbLQ7WpMRzI6Wgh2FOBs",
+      "data_id": "0x935a3bb46cc9069d:0x1b38851d82968ecc",
+      "data_cid": "1961463999511301836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3bb46cc9069d%3A0x1b38851d82968ecc&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3bb46cc9069d%3A0x1b38851d82968ecc&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.755488199999998,
+        "longitude": -47.890148599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJnQbJbLQ7WpMRzI6Wgh2FOBs",
+      "provider_id": "/g/11k6lb03b6",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Loja de Conveniência",
+      "types": [
+        "Loja de Conveniência",
+        "Caixa eletrônico",
+        "Café",
+        "Posto de combustível",
+        "Loja de sucos",
+        "Serviço de troca de óleo",
+        "Sanduicheria",
+        "Lanchonete",
+        "Ponto de acesso Wi-Fi"
+      ],
+      "type_id": "convenience_store",
+      "type_ids": [
+        "convenience_store",
+        "atm",
+        "cafe",
+        "gas_station",
+        "juice_shop",
+        "oil_change_service",
+        "sandwich_shop",
+        "snack_bar",
+        "wi_fi_spot"
+      ],
+      "address": "Asa Norte SQN 311, BL A Pll, 01 - Asa Norte, Brasília - DF, 70757-010",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 22:00",
+      "hours": "Aberto · Fecha 22:00",
+      "operating_hours": {
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00",
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:00–22:00"
+      },
+      "website": "https://www.postospetrobras.com.br/aproveite-a-parada/br-mania",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamento descoberto gratuito",
+            "Estacionamento gratuito na rua"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUceTBJCZ_hpswCrZEjeLmTaFd2Erm5cb24VfcEkbtESZ8X7iPV2EQ0nGUaVCjaKhKFb4gCmvj5LQ3C70P0fenf4qC7SsYaf7w6onFDItG2Je1NUE53rjMmO7ADIb-GOT-minx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QwBT-XicHcRLEoIgAADQE5HkJ5pmWhSh_bNSKzeNEkoWYELZDTtDt2mmt3jfDzem1gPLunOnUypV3tlTs4YqaZg0HaqEVdYaUA20NZruwuhwiymLxnOcnnmtW9ykpGJLEWX-xSaN8Ghuu0lByS03ZJ_2j-gaJjbZQhnEWYKrbMEXfu6WWLwqb7l1MIIhLJgs3AdGe33KCtT2lPQnMxPYc9Zdx8RzmmolNmg0meUg2ERAXOV72HYhhID_p0D-ACjNQ0g"
+    },
+    {
+      "position": 10,
+      "title": "Drogasil",
+      "place_id": "ChIJVVWVhjA6WpMRs2CAgCFYOn4",
+      "data_id": "0x935a3a3086955555:0x7e3a5821808060b3",
+      "data_cid": "9095679298341200051",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a3086955555%3A0x7e3a5821808060b3&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a3086955555%3A0x7e3a5821808060b3&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756479899999999,
+        "longitude": -47.8917614
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJVVWVhjA6WpMRs2CAgCFYOn4",
+      "provider_id": "/g/11c52rldn8",
+      "rating": 3.9,
+      "reviews": 57,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "Asa Norte CLN 311 Terreo, Loja S 02,06,10,12,16,20 E 72 - Asa Norte, Brasília - DF, 70757-550",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 23:00",
+      "hours": "Aberto · Fecha 23:00",
+      "operating_hours": {
+        "segunda-feira": "07:00–23:00",
+        "terça-feira": "07:00–23:00",
+        "quarta-feira": "07:00–23:00",
+        "quinta-feira": "07:00–23:00",
+        "sexta-feira": "07:00–23:00",
+        "sábado": "07:00–23:00",
+        "domingo": "08:00–22:00"
+      },
+      "phone": "(61) 99698-6289",
+      "extensions": [
+        {
+          "service_options": [
+            "Entrega"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "offerings": [
+            "Descarte de medicamentos"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "service_options": {
+        "entrega": true
+      },
+      "user_review": "\"As atendentes e farmacêutica são muito educadas e prestativas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG8Hkffr5mYndu-N2Ey3WN7VOXsjAVv_dloitKUHzOvTnioOP-sLFOGT1Q09VUvKu6kVAFgOoxF1Tl30qpq4nDEu5FJk53LZ74R3c_wSeqoPfJaRns_xzX1yWAD1SbJo8vsBqH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hSpWfHicHcRbjoIwFADQFVVaK6Nj4gdGkaCxiAjqD3EqDwfsBW9BZYOuwd2YeD7O-5VrXeHYMMqc9zKArEwaTG4SlE6U7km4GlmFRCJBw3J8L4iKxcgp0vRmXg_q3JB1f_7k0XoYij3-W2Ebn0u46OXO6UQbqAsIj-DKFouAbehvuGuXzU8RWnYm4GGzoOS0ruqBms0b03YLk6-Ow4HPZXzfJjV4qXvyFcaPbs-ekTVj2z8XRi1Oa2dyZ5RSkn-XRH0AbpZEwQ"
+    },
+    {
+      "position": 11,
+      "title": "Bijoux Mix",
+      "place_id": "ChIJGRCaizA6WpMR2JQUfrdvjAQ",
+      "data_id": "0x935a3a308b9a1019:0x48c6fb77e1494d8",
+      "data_cid": "327759706776179928",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308b9a1019%3A0x48c6fb77e1494d8&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308b9a1019%3A0x48c6fb77e1494d8&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756345099999999,
+        "longitude": -47.8911023
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJGRCaizA6WpMR2JQUfrdvjAQ",
+      "provider_id": "/g/11bzwp9ny_",
+      "rating": 4.5,
+      "reviews": 29,
+      "unclaimed_listing": true,
+      "type": "Joalheria especializada em itens personalizados",
+      "types": [
+        "Joalheria especializada em itens personalizados"
+      ],
+      "type_id": "costume_jewelry_shop",
+      "type_ids": [
+        "costume_jewelry_shop"
+      ],
+      "address": "SHCN Comércio Local Norte 311 - Plano Piloto, Brasília - DF, 70757-500",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:00",
+      "hours": "Aberto · Fecha 18:00",
+      "operating_hours": {
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00",
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–14:00",
+        "domingo": "Fechado"
+      },
+      "phone": "3963-3921",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "user_review": "\"É o tipo de loja que não costuma ter na Asa Norte, então é uma boa opção.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM6FbO8WqBFxB6f7ZL94rdqHfC1QXcYlBa0yjQIKiAvAS06t8DoyvPbATBBgEPvKTTCNfVVQUlE8YYayKAdJECIDIA77oLrzFkqGQI7_ulD6sApBoeKVyU-_2bwHP6mTPts4w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SFSJeXicHcRZcoIwAADQE0XiMgGd8SNhKRSXYCOKP45ElmokQCIUD-gdepvO9H2833epda0WhiHK6aiQshDZU2Utl5XOKj3i8mEUtQJcAWVgf0fZ4b5GXrq1Dg3xfgjKzdNqPmuvjZ_b4-jIE0EucLhFQfiNO_wFkbYcOXQ0xYyQwqVdyJi9yeM42gvXSpLLEOLrp2sHToBNU67al3dvPqLAPD-FgxSuiczCeNiD8yTtfYoejGo165f9GEIIyv85qP4AkuBDJg"
+    },
+    {
+      "position": 12,
+      "title": "Posto Verde Amarelo",
+      "place_id": "ChIJ1-qTRDA6WpMRw5puD5I82VQ",
+      "data_id": "0x935a3a304493ead7:0x54d93c920f6e9ac3",
+      "data_cid": "6113984567153957571",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a304493ead7%3A0x54d93c920f6e9ac3&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a304493ead7%3A0x54d93c920f6e9ac3&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.755263399999999,
+        "longitude": -47.8901778
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJ1-qTRDA6WpMRw5puD5I82VQ",
+      "provider_id": "/g/1pxw1xz44",
+      "rating": 4,
+      "reviews": 254,
+      "unclaimed_listing": true,
+      "type": "Posto de combustível",
+      "types": [
+        "Posto de combustível"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "SHCN Superquadra Norte 311 - Asa Norte, Brasília - DF, 70757-500",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 21:50",
+      "hours": "Aberto · Fecha 21:50",
+      "operating_hours": {
+        "segunda-feira": "06:00–21:50",
+        "terça-feira": "06:00–21:50",
+        "quarta-feira": "06:00–21:50",
+        "quinta-feira": "06:00–21:50",
+        "sexta-feira": "06:00–21:50",
+        "sábado": "06:00–21:50",
+        "domingo": "06:00–21:50"
+      },
+      "phone": "(61) 3462-3607",
+      "website": "http://www.br.com.br/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Banheiro com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "offerings": [
+            "Abastecimento de botijão de propano",
+            "Diesel",
+            "Lava-rápido"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro",
+            "Bomba de ar"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "user_review": "\"Posto com loja de conveniência, quiosque de açaí e uma lanchonete.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGzXbXpQx_jR7CKucF1FSxoXB3FTS2QYTQlZRr-9-F-J2p27GkdV04m31LrlwWXCarn2vuQy28cNF58doklcP7EKkGdJk3LmeBfrWTi5n8JsoTNX38ztjbNfyAD6ho1UCFR4YU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sdNtkXicHcRdDoIgAADgE5EKltbWQ1nYrLk0SuqlFZqWCA6wvwt2hm7T1vfwfT-VMa0eWRavUK-UsuRFpwvFpDCFMD0mG6tsNWAaaGuySNckE-GbnmmbPI-31AuWHcMO3jwlnSJMNjDZk4QfUgWGAIMIttAL63xnuw1yVoo_MhqclID3LnlBn8W47-ey5mztzZd1mEc1WjXF9KIycu0LP9KSxBT5b3M7x5fXZDaopLMNcOrut-OHY9s2qP4zIH72cENl"
+    },
+    {
+      "position": 13,
+      "title": "Lavou Lavanderia Self Service",
+      "place_id": "ChIJrQwP6HM7WpMReYugV1kbFxI",
+      "data_id": "0x935a3b73e80f0cad:0x12171b5957a08b79",
+      "data_cid": "1303540687683226489",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3b73e80f0cad%3A0x12171b5957a08b79&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3b73e80f0cad%3A0x12171b5957a08b79&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756809899999999,
+        "longitude": -47.8912979
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJrQwP6HM7WpMReYugV1kbFxI",
+      "provider_id": "/g/11q25hjpw5",
+      "rating": 4,
+      "reviews": 94,
+      "type": "Lavanderia",
+      "types": [
+        "Lavanderia"
+      ],
+      "type_id": "laundry",
+      "type_ids": [
+        "laundry"
+      ],
+      "address": "Asa Norte CLN 310 Lj 17 - Asa Norte, Brasília - DF, 70756-540",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 22:00",
+      "hours": "Aberto · Fecha 22:00",
+      "operating_hours": {
+        "segunda-feira": "08:00–22:00",
+        "terça-feira": "08:00–22:00",
+        "quarta-feira": "08:00–22:00",
+        "quinta-feira": "08:00–22:00",
+        "sexta-feira": "08:00–22:00",
+        "sábado": "08:00–22:00",
+        "domingo": "08:00–22:00"
+      },
+      "phone": "(61) 99456-8787",
+      "website": "https://lavoulavanderia.com.br/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        }
+      ],
+      "user_review": "\"Lugar limpo e tranquilo equipamentos limpos e higienizados.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC4xcWQ7TXEwYP3ERQxzfofe1lXYHX9rCbcMIoQS-WfIDsuVhPBiOKyif7Q415y-CTpF5i9MfCJEIjWreMhmw9bvyxVAElwjA_M1cSr1D93IMm8k69ozRShB8qXkWm3rvTVmSq3A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LV8C1HicHcRdboIwAADgE1VoqmKX7AERI5pm_IXi0xKalqItxRYFvOGOsNss2ffw_f7IcRzch-cpiVatMa3iT8ctM_3I-3HFjPbawQHmgPPCU56WVEXrmdEsKOt4uqYozrP5LYzgUNXXU41t1DCSmKwAVCQH96xkuu--LksngmwNNwuIyuG46TAR0TlObtRyIvWEm9cyV2Gsplv4TSArLDxglBC9u2-xeeeF3O8e9Z1qZF9lpYsHCj8n6Ps-kP8z0P8B3WBFIQ"
+    },
+    {
+      "position": 14,
+      "title": "Açaí Amazônia",
+      "place_id": "ChIJn96wWDA6WpMRwwcit8qrr3Q",
+      "data_id": "0x935a3a3058b0de9f:0x74afabcab72207c3",
+      "data_cid": "8408127916468209603",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a3058b0de9f%3A0x74afabcab72207c3&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a3058b0de9f%3A0x74afabcab72207c3&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756115399999999,
+        "longitude": -47.890751599999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJn96wWDA6WpMRwwcit8qrr3Q",
+      "provider_id": "/g/11cjgbcxs9",
+      "rating": 4.3,
+      "reviews": 429,
+      "type": "Loja",
+      "types": [
+        "Loja"
+      ],
+      "type_id": "store",
+      "type_ids": [
+        "store"
+      ],
+      "address": "SHCN CLN 311 - Asa Norte, Brasília - DF, 70757-520",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 20:45",
+      "hours": "Aberto · Fecha 20:45",
+      "operating_hours": {
+        "segunda-feira": "11:00–20:45",
+        "terça-feira": "11:00–20:45",
+        "quarta-feira": "11:00–20:45",
+        "quinta-feira": "11:00–20:45",
+        "sexta-feira": "11:00–20:45",
+        "sábado": "11:00–20:45",
+        "domingo": "14:00–20:00"
+      },
+      "phone": "(61) 99966-7089",
+      "website": "http://acaiamazonia.com/novo/?page_id=4022",
+      "extensions": [
+        {
+          "service_options": [
+            "Entrega",
+            "Retirada na loja",
+            "Compras na loja"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "service_options": {
+        "compras_na_loja": true,
+        "retirada_na_loja": true,
+        "entrega": true
+      },
+      "user_review": "\"Com uma boa administração nenhuma outra loja bateria a marca pelo sabor.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCCoOyZMLWdqkfzKyDxBgQxx9eAsTnEqXMTU3_qnhjEyiZz_z9IWwOJ3Bt4BCAkgC2Tc7b9oVyB5X9ly3xHgVoMPumxzI_-GzZxKHsb9YeMUGhmcRIz1UXzlYPJe_w8WDXfdgVsQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/45l7rHicHcRdDoIgAADgE5GWtaKtB7WWVi5r_r-4RQSlQgZN4IYdodu09T183w-V8imWltVSZ0Q4Jy1-C_xCnEnM5AjxziJPAZAAwnKDc5zkje_zo66iQ37tm5vZ67XyyEkpiF2RsE1fREnq1D2jj42-V6Y2MMyH487x5NTz3Yb4kwTNL5Bn2psVsNWOCkjGo_jdKRPWYGsqtQ_EBZY4Sre0Q-fQjNPCtGW8w_WwyNfF7UoycVoNY9u2Af2PAPsBolNHRQ"
+    },
+    {
+      "position": 15,
+      "title": "Flat Asa Norte CLN 311 Bloco B",
+      "place_id": "ChIJr6yqizA6WpMR-DS6uNlAc0M",
+      "data_id": "0x935a3a308baaacaf:0x437340d9b8ba34f8",
+      "data_cid": "4860299726714189048",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308baaacaf%3A0x437340d9b8ba34f8&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308baaacaf%3A0x437340d9b8ba34f8&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756239899999999,
+        "longitude": -47.891059899999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJr6yqizA6WpMR-DS6uNlAc0M",
+      "provider_id": "/g/11w805gnsx",
+      "type": "Casa",
+      "types": [
+        "Casa",
+        "Locação de férias"
+      ],
+      "type_id": null,
+      "type_ids": [
+        null,
+        "vacation_rental"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 - Asa Norte, Brasília - DF, 70757-500",
+      "country": "Brasil",
+      "website": "https://www.freecancellations.com/search/F2gnRgcBGXdRWFcBWV0FFw0MVx43TFJB?lat=-15.75624&lng=-47.89106&language=de",
+      "description": "Acomoda 2 • 1 quarto • 1 cama",
+      "amenities": [
+        "Ar-condicionado",
+        "Cozinha"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEKLnGE4c2JedDEeGWdHDIirdQqTdm9xZhf0eLhKq8ciSfAd8w_xiIYN7IEuXgeg7IHiv7tqrokyQ77YePKUlThosldqDvH_9lvicGJbundJy_IfFXp1sBm92S5LjJPaSCj_MduxF-gJr3vNsiEXiEmCbF-Wnz-B_nn3rQGJX4yj5v5GobWYcUR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iSfdQnicHcTNToMwAADgJ2KwAWGYeNjGb8FlyBbAC5G2tEVogQID39Q38Wjid_h-fuk09fJFVVuq74gQpMWzxCMUfMJ82kHRqaSXSj-KdVNPMTIc6kYx910DHgBGjov9DAVOyEaUDHfU2esHrTUc02g4QpbWJ3R8lisLi6sVunNOMLHCgC3WNIzia0ssq8C36NHeqZAtGpwlKO12YdAH1cwR2Mqw9vJ-L8-dfUjNuAG3z_TSlG9oXj2FgFFfrpK5OXO7S-UpGf9WziXn-pj4IDe2xlxMX1RZAR_vr8-9pmkK_R8q_A-EKlc0"
+    },
+    {
+      "position": 16,
+      "title": "Renova Calçados Consertos Sapatos, Bolsas e Malas - Sapateiro",
+      "place_id": "ChIJkzZnB-Y6WpMRCHs-uVCuVXA",
+      "data_id": "0x935a3ae607673693:0x7055ae50b93e7b08",
+      "data_cid": "8094567566996830984",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3ae607673693%3A0x7055ae50b93e7b08&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3ae607673693%3A0x7055ae50b93e7b08&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7562149,
+        "longitude": -47.8911048
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJkzZnB-Y6WpMRCHs-uVCuVXA",
+      "provider_id": "/g/11b6j70c44",
+      "rating": 3.9,
+      "reviews": 105,
+      "type": "Oficina de conserto de botas",
+      "types": [
+        "Oficina de conserto de botas"
+      ],
+      "type_id": "boot_repair_shop",
+      "type_ids": [
+        "boot_repair_shop"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 - Plano Piloto, Brasília - DF, 70757-530",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:00",
+      "hours": "Aberto · Fecha 18:00",
+      "operating_hours": {
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00",
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–13:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 98200-6985",
+      "extensions": [
+        {
+          "accessibility": [
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        }
+      ],
+      "user_review": "\"Notei preocupação com o Cliente e não apenas em fazer o conserto.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTZULeZNaaERCnK3UGTY7p-3EsKh4wEndGPGVqsWzXN_NpU_gQfKvvivlEizzb736L3-cqMUh1poDR4wPVd1gqi8cDo2Lb99tTRj6bMElscPhPEIv08sTFrqRhAnZaEgljsddGXw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DTBWTnicHcTbboIwGADgJ6qANZ6SXRjt2AKS2hQP3BgorEVrW_wrJLzhHmFvs8Tv4vv7Vd47WAeBVngirZW6eUHzFNb4xviJsI9AOkACEASbL0b56c6LPG2KrCwJ25oE5zG_LBzCBBI1G4ipYxofOziN5-yaufwqDz9J37e9Ju04Vgs8TzES3T5XkbM7NhvosY5k1y7Fzk7TarXynN3m1Z5oEFRR8t2HS-Cfz46pjSlKIvUN6jo-Dx9DFIYhUu8FMv8Ii0YQ"
+    },
+    {
+      "position": 17,
+      "title": "S.O.S Makeup - Loja de Maquiagem",
+      "place_id": "ChIJ3_MgRXU7WpMRY-TOXMYCzp4",
+      "data_id": "0x935a3b754520f3df:0x9ece02c65ccee463",
+      "data_cid": "11443086754178851939",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3b754520f3df%3A0x9ece02c65ccee463&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3b754520f3df%3A0x9ece02c65ccee463&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.7562149,
+        "longitude": -47.8911048
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJ3_MgRXU7WpMRY-TOXMYCzp4",
+      "provider_id": "/g/11tfpbnhqy",
+      "rating": 4.5,
+      "reviews": 26,
+      "type": "Loja de produtos de beleza",
+      "types": [
+        "Loja de produtos de beleza",
+        "Loja de cosmético",
+        "Loja de presentes"
+      ],
+      "type_id": "beauty_supply_store",
+      "type_ids": [
+        "beauty_supply_store",
+        "cosmetics_store",
+        "novelty_store"
+      ],
+      "address": "Asa Norte CLN 311 Lj 18 - Asa Norte, Brasília - DF, 70757-530",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:30",
+      "hours": "Aberto · Fecha 18:30",
+      "operating_hours": {
+        "segunda-feira": "09:30–18:30",
+        "terça-feira": "09:30–18:30",
+        "quarta-feira": "09:30–18:30",
+        "quinta-feira": "09:30–18:30",
+        "sexta-feira": "09:30–18:30",
+        "sábado": "09:00–15:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 98202-9506",
+      "extensions": [
+        {
+          "service_options": [
+            "Entrega",
+            "Compras na loja",
+            "Serviços no local"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "crowd": [
+            "Empresa que acolhe a comunidade LGBTQ+",
+            "Espaço seguro para pessoas transgênero"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "service_options": {
+        "compras_na_loja": true,
+        "entrega": true
+      },
+      "user_review": "\"Produtos de ótima qualidade e preço acessível!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlVUw-JMBQKIYzpt_QCHIyKnDUm4PBN2STsIslbg__uAHd8bOLqiWnJTBXfQtnzcleUx6Wzq3p7hyJT-S4mfy7l1e3x9bDFNjVSqYYKSilYJrfh7AnSRB5Bz18wBT2pJm4c_pSA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8n82sXicHcTdzoIgAADQJyI1Lavtu5BaU-zPwMwrNwmlhohBM33B7xl6m7bOxfn8c2OUXlmW4O6kbttasJdmT9pKw6SZ0LaxaqUB1UBbQXg-kUxc0h6gPUziKB-VKZJ1GA2x3KSNd4KHKSY60qKsi-IVhLdFedx190wiAq9VYuRIBUvf82zsXOXzARGAvaYafOEw970sN9vD44K7PI_xXeToWXE_kPgMZ3B0Fj0kU4UajxYKB3-9Y9s24L8pkF-c50UU"
+    },
+    {
+      "position": 18,
+      "title": "Óptica M&Z",
+      "place_id": "ChIJZXQBRkQ7WpMRhy09HW5uPnE",
+      "data_id": "0x935a3b4446017465:0x713e6e6e1d3d2d87",
+      "data_cid": "8160080994057923975",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3b4446017465%3A0x713e6e6e1d3d2d87&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3b4446017465%3A0x713e6e6e1d3d2d87&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756586299999999,
+        "longitude": -47.8914671
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJZXQBRkQ7WpMRhy09HW5uPnE",
+      "provider_id": "/g/11z7p8ygj_",
+      "rating": 5,
+      "reviews": 15,
+      "type": "Ótica",
+      "types": [
+        "Ótica"
+      ],
+      "type_id": "optician",
+      "type_ids": [
+        "optician"
+      ],
+      "address": "Asa Norte Comércio Local Norte 310, Quadra Loja 12 - Asa Norte, Brasília - DF, 70757-540",
+      "country": "Brasil",
+      "open_state": "Aberto · Fecha 18:30",
+      "hours": "Aberto · Fecha 18:30",
+      "operating_hours": {
+        "segunda-feira": "09:00–18:30",
+        "terça-feira": "09:00–18:30",
+        "quarta-feira": "09:00–18:30",
+        "quinta-feira": "09:00–18:30",
+        "sexta-feira": "09:00–18:30",
+        "sábado": "09:00–13:00",
+        "domingo": "Fechado"
+      },
+      "phone": "(61) 99523-2922",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada com acessibilidade para pessoas em cadeira de rodas",
+            "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+          ]
+        },
+        {
+          "amenities": [
+            "Banheiro"
+          ]
+        },
+        {
+          "planning": [
+            "Visita rápida"
+          ]
+        },
+        {
+          "payments": [
+            "Cartão de crédito",
+            "Cartão de débito",
+            "Pagamentos por dispositivo móvel via NFC"
+          ]
+        }
+      ],
+      "user_review": "\"Loja com excelente atendimento além  de boa qualidade  de produtos.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3nNm9nh5yl8jyIqpVFw3pgMqqbNEDUMYTWLMKXBvaAa3_fDiQzHg7lmOJpkZtENe8KYvGECIBEODYhf7hSrvt3X2NHFgkYwV4MuWNt0Hzif2VEb1h7ucU2q2FcO46EXTe43b8UKo5V5if=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qTFBv3icHcTNboIwAADgJ0KQgrAlO-go4hhlOn53WaQpLRPaYgtEX9Lz3mbJvsP3-2BaS_Vsmj0DKyoE7cmkyBULrgnXKywGk0plYGUocxudPrKSA46GJ87cW-__3A6jLMIFSJqMY4NgkCd1Vr4ncbWbz9sz-G6D7niPqNcP6Zu8fGmIiB_X8x6-HnYwDWrWeuzzOmtQ2SgK6aVeCieZSqSt6N61dgGbNfMmnNujHeLU2cAqIw5o_DwWbuF27cuytizLYP9jg_8Byx1G2Q"
+    },
+    {
+      "position": 19,
+      "title": "Flat Asa Norte CLN 311 - Bloco B - Apartment",
+      "place_id": "ChIJ81NVijA6WpMRQ4b1h11BCHA",
+      "data_id": "0x935a3a308a5553f3:0x7008415d87f58643",
+      "data_cid": "8072774202030392899",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a308a5553f3%3A0x7008415d87f58643&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a308a5553f3%3A0x7008415d87f58643&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.756239899999999,
+        "longitude": -47.8910713
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJ81NVijA6WpMRQ4b1h11BCHA",
+      "provider_id": "/g/11n9dm4s2q",
+      "type": "Casa",
+      "types": [
+        "Casa",
+        "Locação de férias"
+      ],
+      "type_id": null,
+      "type_ids": [
+        null,
+        "vacation_rental"
+      ],
+      "address": "Asa Norte Comércio Local Norte 311 - Asa Norte, Brasília - DF, 70757-500",
+      "country": "Brasil",
+      "website": "https://br.bluepillow.com/search/67a1fbef5a2dfa15b1800f6d?dest=bkng&cat=House&lat=-15.75624&lng=-47.89107&language=pt",
+      "description": "Acomoda 2 • 1 quarto • 1 cama",
+      "amenities": [
+        "Ar-condicionado",
+        "Cozinha"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF8LjV4izH8WUjeT3maXmddyQNL58PgXA6Uc9dq0eSe0w-fLYT-sZz_YoTGCrG8gTBMxfTfmFfeo88py3qXb9WblGF-4kA-_mlVk39mr10_KekWKZo6nBcwatnrD2-LFTyU7jp669VrX475IuI7dALRsUqtIP2yHOMhy_2oUcJ-ZbuyZAn9xe6Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sOKHt3icHcRLcoIwAADQE0UiIITOdIF1QGps1YaPbBgJAcon4TsQb9qbdNmZvsX7-S2nqRtfFKUptU0hRNGweWQDFXxifNpQ0SpFN4JuEKtUbJzph9JBuAr07-cRhX7FiNY-ojbL5PUD79CliGzDp1bWQ_bF4AJyfCdgjJ_JXRD3bXBRQfbnNSd56-RMINRJrY9SK0wb1wF6bYOkbYJas9phC5MTq8NTLAy-p8tj4sNBBdgh0jerzjCsYIh0c-fNnpnZ-Db6_eRdVHn8PJcyUYVP30GczjK2ubUy4_q6bCGEoPyfAv4HlKpVBg"
+    },
+    {
+      "position": 20,
+      "title": "Superquadra Norte 311",
+      "place_id": "ChIJeZniBTA6WpMRqmL2_ZHlyrM",
+      "data_id": "0x935a3a3005e29979:0xb3cae591fdf662aa",
+      "data_cid": "12955419693278454442",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x935a3a3005e29979%3A0xb3cae591fdf662aa&engine=google_maps_reviews&hl=pt-br",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x935a3a3005e29979%3A0xb3cae591fdf662aa&engine=google_maps_photos&hl=pt-br",
+      "gps_coordinates": {
+        "latitude": -15.754447299999999,
+        "longitude": -47.8915297
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=pt-br&place_id=ChIJeZniBTA6WpMRqmL2_ZHlyrM",
+      "provider_id": "/g/1ymt6s2yp",
+      "address": "Asa Norte, Brasília - DF, 70757-000",
+      "country": "Brasil",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnL4-3h561GCQMBH-bIQTfjbsx0tQxdsvIYT2QJi-vfXV3ZnK2QWkEITGtbONRZBUZGcv8-cPRKAlL_3mRYk59H7gPdQpt6V51Enp8GzuRG0eUxYUrsQ-4NYGi-TluikoJTYiw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CT2P_HicHcRLDoIwFADAEz0pIv4SF2pIwS9tilo2JhQEBFtiCxIP6B28jYmzmO-nMKbRc8uqC2eQK5XXWauzp1DSZNIMhHpYeaNBaNDW0qchO8vdCJzCHdt4TfYrH5KAsNs90T0ypE91F3A2JJsSutvl5MRyOyTnygsYNsnxQONVFGPRTUGEdLusd1fnQXnlzvxJHqakMeOTa3uymeJ3SzHKop5HT01gdOC4BFa3ZaU2jJevxctGCEHxX4D8AXBlQxA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=br&google_domain=google.com&hl=pt-br&ll=%40-15.7502%2C-47.8933%2C16z&q=lojas+e+servicos+CLN+311+Norte+Asa+Norte+Brasilia&start=20&type=search"
+  }
+}
