@@ -116,8 +116,8 @@ _não retornado_
 |---|---|
 | "Já tenho Instagram" | "Instagram é pra quem já te conhece. O Google é pra quem está procurando **agora** e ainda não sabe que você existe. São clientes diferentes." |
 | "Não tenho tempo pra isso" | "É exatamente por isso que a gente faz. Você não vai postar nada — a gente cuida e te manda o resultado no fim do mês." |
-| "É caro?" | "Mais barato que um dia de movimento perdido. E começa pelo que dá retorno mais rápido: as respostas das avaliações." |
-| "Deixa eu pensar" | "Claro. Só me deixa fazer uma coisa de graça: respondo as 5 avaliações mais recentes, e volto na quinta." |
+| "É caro?" | "Mais barato que um dia de movimento perdido. E começa pelo que dá retorno mais rápido: a base de clientes no WhatsApp." |
+| "Deixa eu pensar" | "Claro. Só me deixa fazer uma coisa de graça: monto o roteiro de coleta de aniversário pro seu caixa, e volto na quinta." |
 
 ## 8. Limitações deste dossiê
 

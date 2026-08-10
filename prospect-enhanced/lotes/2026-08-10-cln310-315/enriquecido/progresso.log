@@ -133,3 +133,13 @@ P1 a enriquecer: 26  (custo estimado: 78 creditos SerpAPI)
 FIM. creditos SerpAPI gastos: 78
 MEI reprovados: 0
 descricao >=500: 0 de 26
+a enriquecer: 1  (custo estimado: 3 creditos SerpAPI)
+
+[1/1] Açougue T-Bone (CLN 312)
+   CNPJ: 31.165.525/0002-91 | MEI=? | porte=Demais | conf=baixa
+   descricao=0 car. | botoes=3/6 | posts=10 | fotos=6
+   reviews amostra=8 | taxa_resposta=1.0 | ultimo=2026-03-18T19:50:36Z
+
+FIM. creditos SerpAPI gastos: 3
+MEI reprovados: 0
+descricao >=500: 0 de 1

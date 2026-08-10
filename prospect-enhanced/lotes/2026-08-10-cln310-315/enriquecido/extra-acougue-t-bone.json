@@ -1,0 +1,319 @@
+[
+  {
+    "quadra": "312",
+    "par": "312/313",
+    "quadra_por_cep": "312",
+    "titulo": "Açougue T-Bone",
+    "slug": "acougue-t-bone",
+    "nicho": "Açougue",
+    "endereco": "Asa Norte Comércio Local Norte 312 Lj 27 - Asa Norte, Brasília - DF, 70765-520",
+    "telefone": "(61) 98370-3338",
+    "site": "http://www.t-bone.com.br/",
+    "rating": 4.9,
+    "reviews": 756,
+    "prioridade": "P2",
+    "status": "APROVADO",
+    "motivo_reprova": null,
+    "franquia": null,
+    "revisar_manual": null,
+    "cnpj": "33.441.973/0001-15",
+    "porte": "Microempresa (ME)",
+    "mei": "N",
+    "gate_mei": "APROVADO - nao optante MEI (porte Microempresa (ME), confianca alta)",
+    "place_id": "ChIJkbyM8CU6WpMRNisELpJz-S0",
+    "data_id": "0x935a3a25f08cbc91:0x2df973922e042b36",
+    "gps": {
+      "latitude": -15.7502423,
+      "longitude": -47.892618
+    },
+    "origem_raw": "q312-s0.json",
+    "coletado_em": "2026-08-10",
+    "cnpj_candidatos": [
+      {
+        "cnpj": "33.441.973/0001-15",
+        "razao_social": "CASA DE CARNE T-BONE STEAK LTDA",
+        "nome_fantasia": "",
+        "cep": "70765520",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4722901",
+        "abertura": "1989-07-24",
+        "capital_social": "0,00",
+        "score": 9,
+        "tokens_em_comum": [
+          "bone"
+        ],
+        "cep_bate_quadra": true
+      },
+      {
+        "cnpj": "35.955.245/0001-57",
+        "razao_social": "T. BONE STEAK PRIME LTDA",
+        "nome_fantasia": "T. BONE STEAK PRIME",
+        "cep": "72220041",
+        "municipio": "BRASILIA",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Inapta",
+        "cnae": "4722901",
+        "abertura": "2020-01-10",
+        "capital_social": "150000,00",
+        "score": 4,
+        "tokens_em_comum": [
+          "bone"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "57.235.774/0001-19",
+        "razao_social": "CASA DE CARNES T-BONE LTDA",
+        "nome_fantasia": "CASA DE CARNES T-BONE",
+        "cep": "91250235",
+        "municipio": "PORTO ALEGRE",
+        "porte": "Microempresa (ME)",
+        "opcao_mei": "N",
+        "simples": "S",
+        "situacao": "Ativa",
+        "cnae": "4722901",
+        "abertura": "2024-09-10",
+        "capital_social": "10000,00",
+        "score": 3,
+        "tokens_em_comum": [
+          "bone"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "31.025.171/0001-07",
+        "razao_social": "T-BONE ACOUGUES E PRODUTOS ALIMENTICIOS LTDA.",
+        "nome_fantasia": "T-BONE ACOUGUES",
+        "cep": "04671090",
+        "municipio": "SAO PAULO",
+        "porte": "Empresa de Pequeno Porte (EPP)",
+        "opcao_mei": "N",
+        "simples": "N",
+        "situacao": "Inapta",
+        "cnae": "4722901",
+        "abertura": "2018-07-25",
+        "capital_social": "150000,00",
+        "score": 2,
+        "tokens_em_comum": [
+          "bone"
+        ],
+        "cep_bate_quadra": false
+      },
+      {
+        "cnpj": "31.165.525/0002-91",
+        "razao_social": "VISE SERVICOS LTDA",
+        "nome_fantasia": "VISE SERVICOS LTDA",
+        "cep": "70634400",
+        "municipio": "BRASILIA",
+        "porte": "Demais",
+        "opcao_mei": "",
+        "simples": "",
+        "situacao": "Inapta",
+        "cnae": "3702900",
+        "abertura": "2000-02-01",
+        "capital_social": "0,00",
+        "score": 2,
+        "tokens_em_comum": [],
+        "cep_bate_quadra": false
+      }
+    ],
+    "cnpj_confianca": "alta",
+    "descricao": null,
+    "descricao_len": 0,
+    "gate_descricao": "REPROVA pelo criterio literal (0 car.)",
+    "horario": [
+      {
+        "segunda_feira": "08:30–19:00"
+      },
+      {
+        "terça_feira": "08:30–19:00"
+      },
+      {
+        "quarta_feira": "08:30–19:00"
+      },
+      {
+        "quinta_feira": "08:30–19:00"
+      },
+      {
+        "sexta_feira": "08:30–19:00"
+      },
+      {
+        "sábado": "08:30–13:00"
+      },
+      {
+        "domingo": "08:30–13:00"
+      }
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Entrega",
+          "Retirada na loja",
+          "Compras na loja"
+        ]
+      },
+      {
+        "accessibility": [
+          "Entrada com acessibilidade para pessoas em cadeira de rodas",
+          "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+        ]
+      },
+      {
+        "dining_options": [
+          "Serviço de buffet"
+        ]
+      },
+      {
+        "planning": [
+          "Visita rápida"
+        ]
+      },
+      {
+        "payments": [
+          "Cartão de crédito",
+          "Cartão de débito",
+          "Pagamentos por dispositivo móvel via NFC",
+          "Pluxee"
+        ]
+      },
+      {
+        "parking": [
+          "Estacionamento descoberto gratuito",
+          "Estacionamento gratuito na rua"
+        ]
+      }
+    ],
+    "serv_options": {
+      "compras_na_loja": true,
+      "retirada_na_loja": true,
+      "entrega": true
+    },
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOXsd09nd1zFA3fGewuNdHN0JeRqznX0aZvT028=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEOPR9siK7aaTYA&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🥩👨‍👧‍👦 Neste Dia dos Pais, celebre quem sempre esteve ao seu lado com um almoço inesquecível!\n\nO nosso Filé ao Molho Madeira é a escolha perfeita para reunir a família em volta da mesa: suculento, macio e cheio de sabor.\n\n🔥 Oferta especial: R$ 119,90/kg\n\nGaranta o seu e faça deste Dia dos Pais um momento repleto de carinho, boa comida e boas lembranças.\n\n📍 CLN 312 Bloco B Loja 27\n📞 (61) 98370-3338\n\n#DiaDosPais #AçougueTBone #FiléAoMolhoMadeira #Churrasco #CarnesEspeciais #Brasília #AlmoçoEmFamília #SaborQueUneAFamília",
+        "date": "há 5 dias"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMHE7FDazEZ6mGD3W4BG1D3YdNqPtaJKM3ZxpjT=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEPKf8eX59pTJCw&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🔥 **Coração de Frango Temperado**: sabor marcante, tempero na medida certa e pronto para deixar seu churrasco ainda mais especial! 😋🥩\n\nPasse aqui e garanta o seu. Qualidade e sabor você encontra aqui! 👊🔥\n\n#Churrasco #CoraçãoDeFrango #Temperado #Carnes #AçougueTBone SaborQueConquista",
+        "date": "31 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipN8ZtrZnHfZ89iO9X3iyNz-Myibvm9taEPPdUIn=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKENvmk83T7LuUCg&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🍔🔥 PROMOÇÃO IMPERDÍVEL NO AÇOUGUE T-BONE! 🔥🍔\n\nSeu hambúrguer artesanal favorito agora com um preço que dá água na boca! 🤤🥩\n\n✅ Hambúrguer bovino artesanal\n✅ Muito mais sabor e qualidade\n✅ Ideal pro seu lanche ou churrasco\n\n💥 De R$ 64,90 o kg\n💥 Por apenas R$ 49,90 o kg!!!\n\nMas corre porque promoção boa assim acaba rápido! 🚀\n\n📲 Faça seu pedido: (61) 98370-3338\n📍SCLN 312 - Bloco B Loja 27 - Asa Norte\n🚚 Entregamos em domicílio!\n\n#OfertaDoDia #HambúrguerArtesanal #AçougueTBone #Promoção #Burger #Delivery #AsaNorte #ChurrascoPerfeito",
+        "date": "26 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipM1ZOixkn7qhIHYuWwDNrZSYuU-0W44sD4iUC4O=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEMWh7oja3ueFGQ&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "**🍽️ Cardápio Especial T-Bone!**\n\nTransforme seu almoço ou jantar em uma experiência inesquecível! 🤩\n\nPor apenas **R$ 119,90**, você leva um menu completo para **2 pessoas**, preparado com muito sabor e qualidade:\n\n🥩 Filé ao Molho Madeira\n🥗 Salpicão de Frango\n🍚 Arroz Delícia\n\nPerfeito para um almoço em família, um jantar especial ou para quem aprecia uma boa refeição! ❤️\n\n📍 CLN 312 Bloco B Loja 27\n📞 (61) 98370-3338\n\n**T-Bone: sabor que une, momentos que ficam.** ✨\n\n#TBone #CardápioEspecial #CozinhaGourmet #FiléAoMolhoMadeira #AlmoçoEspecial #JantarPerfeito #Brasília #AsaNorte #ComidaCaseira #Gastronomia",
+        "date": "12 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOil5AKDm-5bmdEEF08-6L91fUS0ldAWFvHN6qH=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEMSw7o6Lrd_V5gE&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "Aqui está uma legenda chamativa para postar junto com a arte:\n\n🔥 **OFERTA IMPERDÍVEL NO AÇOUGUE T-BONE!** 🔥\n\nSeu churrasco ou lanche ficou ainda mais saboroso! 🍔🥩\n\n✅ **Hambúrguer Bovino Artesanal**\n💥 **De R$ 64,90 por apenas R$ 49,90 o kg!**\n\nProduzido com carne de qualidade, muito sabor e suculência para toda a família.\n\n📍 SCLN 312 – Bloco B Loja 27 – Asa Norte\n📲 Faça seu pedido: **(61) 98370-3338**\n\n⏳ Aproveite enquanto durar o estoque!\n\n#AçougueTBone #HambúrguerArtesanal #Oferta #Promoção #AsaNorte #Brasília #Churrasco #Hambúrguer #CarneDeQualidade #DeliveryDF",
+        "date": "12 de jul. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPtwXL1lFXB0TXz9pE8VbIKPoy_ToTTt24fVT1f=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKENTEg-qK8ZyaQg&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "hegou a oportunidade de encher o carrinho gastando menos! 🛒🥩\n\n🍔 Hambúrguer Bovino\n🥩 Almôndega Bovina\n\n💥 De R$ 64,90 por apenas R$ 29,90 o kg! 💥\n\n✅ Carne 100% bovina\n✅ Qualidade e muito sabor\n✅ Perfeito para o churrasco, almoço ou aquele hambúrguer artesanal de respeito!\n\n⚠️ Estoque limitado! Aproveite essa super oferta antes que acabe.\n\n📍 Passe na loja e garanta já o seu!",
+        "date": "30 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPqtm2mHBRfXys4oBHNW-mIb4PGEpy9AeU7dnys=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEKKosMbjqpW2igE&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "O sabor que vai fazer sucesso no seu churrasco ou almoço de fim de semana! 🤤🔥\n\n🥩 Filé ao Molho Madeira\n💰 Apenas R$ 119,90/kg\n\nMacio, suculento e irresistível, pronto para deixar sua mesa ainda mais especial!\n\n📍 CLN 312 Bloco B Loja 27\n📞 (61) 98370-3338\n\n⚽ Aproveite a promoção e garanta já o seu! Esperamos por você no Açougue T-Bone. 🥩",
+        "date": "30 de jun. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMJgtoa5GiqL8za4ZkgejOH8n2LM1Nl1Mfp9pwG=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEKD59JiJ4bvB2gE&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🥩🔥 Para um cozido cheio de sabor, escolha a carne certa!\nNo Açougue T-Bone você encontra cortes selecionados como Paleta, Músculo, Acém e Costela PA — perfeitos para deixar suas receitas ainda mais saborosas e suculentas. 😋🍲\n\n📍 CLN 312 Bloco B Loja 27\n📲 Peça já pelo WhatsApp: 98370-3338\n\n#ParaCozido #AçougueTBone #CarnesSelecionadas #CozidoPerfeito #QualidadeNoPrato #CarnesBrasília",
+        "date": "28 de mai. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNjzULJtr7X6vInSyX2clCATi2lneHQ-0MlB09Q=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEJPZnc_IoOSHdw&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🔥 O sabor do churrasco que todo mundo ama tá aqui no Açougue T-Bone! 😋🥩\nEspetinhos suculentos, bem temperados e prontos pra conquistar seu churrasco! 🔥🍢\n\n✅ Alcatra\n✅ Coração de frango\n✅ Peito de frango\n✅ Pernil suíno\n✅ Linguiça churrasco\n✅ Queijo coalho\n\n💥 Qualidade, tradição e muito sabor em cada espeto!\n📲 Faça já sua encomenda: (61) 98370-3338\n📍 CLN 312 Bloco B Loja 27\n\n⚠️ Corre que é sucesso e o estoque é limitado!",
+        "date": "22 de mai. de 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOd8SZ8ZFeg1QWaKB8pXyLlZVAhWsMFKl8ehFaM=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=A%C3%A7ougue+T-Bone&ludocid=3312806072582155062&lpsid=CIHM0ogKEMKmx_DXtOqfugE&source=sh/x/loc/post&lsig=AB86z5XHCMLuCourMSZFiisR9_BP",
+        "description": "🔥🚨 CHEGOU A HORA DE ECONOMIZAR! 🚨🔥\n\nNo Açougue T-Bone tem promoção de verdade, daquelas que acabam rapidinho! 😱🥩\n\n✅ Almôndega Gourmet\n✅ Hambúrguer Bovino\n✅ Rocambole Bovino\n✅ Carne Moída\n✅ Costelinha Temperada\n✅ Lombo Temperado e muito mais!\n\n💥 Preços imperdíveis\n💥 Qualidade e frescor garantidos\n💥 Oferta por tempo limitado\n\n⚠️ CORRE porque é só ATÉ ACABAR O ESTOQUE! ⚠️\n\n📲 Peça já no WhatsApp: (61) 98370-3338",
+        "date": "20 de mai. de 2026"
+      }
+    ],
+    "price": null,
+    "botoes": {
+      "site": true,
+      "ligar": true,
+      "menu": true,
+      "pedir_online": false,
+      "reservar": false,
+      "agendar": false
+    },
+    "rating_breakdown": null,
+    "imagens_n": 6,
+    "reviews_amostra_n": 8,
+    "taxa_resposta": 1.0,
+    "ultimo_review": "2026-03-18T19:50:36Z",
+    "reviews_recentes": [
+      {
+        "autor": "Good Food Pet",
+        "nota": 5.0,
+        "data": "2026-03-18T19:50:36Z",
+        "texto": "Sou cliente do Açougue T-Bone e posso dizer que é um fornecedor extremamente confiável. A qualidade dos produtos é sempre muito consistente, com cortes bem selecionados e padrão elevado — algo essencial para quem trabalha com alimentação e precisa de regularidade.\n\nAlém disso, o atendimento é difere",
+        "respondido": true
+      },
+      {
+        "autor": "wilker santos",
+        "nota": 5.0,
+        "data": "2026-07-22T17:24:50Z",
+        "texto": "Ótimo atendimento on-line e ótimas carnes. Pode chamar no Wpp que eles respondem rápido e te enviam o pedido o mais rápido possível também.",
+        "respondido": true
+      },
+      {
+        "autor": "Poliana Dias",
+        "nota": 5.0,
+        "data": "2026-03-23T12:49:36Z",
+        "texto": "O atendimento da equipe é sempre atencioso, simpático e prestativo. O açougue tem uma variedade incrível de carnes, especialmente vísceras que não encontro em outros lugares. E ainda oferecem a possibilidade de comprar moídas ou picadas, que facilita muito! Estou muito satisfeita com o serviço!",
+        "respondido": true
+      },
+      {
+        "autor": "Alice Utida Ferreira Mânica",
+        "nota": 5.0,
+        "data": "2026-01-09T12:28:02Z",
+        "texto": "O açougue é uma empresa familiar que nos atende com muita gentileza, atenção e profissionalismo. As carnes são de ótima qualidade, frescas e preparadas conforme nossos pedidos, com preços muito bons. Eles também oferecem uma variedade de produtos para complementar nossos pratos, sejam num preparo em",
+        "respondido": true
+      },
+      {
+        "autor": "Julia Rodrigues Andrade",
+        "nota": 5.0,
+        "data": "2026-02-23T15:48:19Z",
+        "texto": "Sempre muito atenciosos! Perfeitos para quem oferece alimentação natural pros pets!! Limpos e organizados!",
+        "respondido": true
+      },
+      {
+        "autor": "Waldeck Lindoso Jr",
+        "nota": 5.0,
+        "data": "2026-03-21T18:10:00Z",
+        "texto": "Atendimento maravilhoso, pessoas bem educadas e ainda tem projetos sociais com livros nas paradas de ônibus e comida e água para animais. Sou cliente fiel!",
+        "respondido": true
+      }
+    ],
+    "nota_cnpj": "Casamento refeito com busca pelo dominio do site (t-bone.com.br); a busca so pelo nome havia trazido VISE SERVICOS LTDA (saneamento, inapta), descartada por score 2."
+  }
+]
