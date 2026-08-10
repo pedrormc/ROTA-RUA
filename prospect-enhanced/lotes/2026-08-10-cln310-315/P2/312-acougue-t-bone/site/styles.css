@@ -239,7 +239,6 @@ h1, h2, h3, h4 { font-weight: 800; line-height: 1.06; letter-spacing: -.02em; fo
 .hero__tag {
   position: absolute; left: -6px; bottom: 22px;
   background: var(--surface); border: 1px solid var(--line);
-  border-left: 4px solid var(--red);
   padding: .8rem 1.05rem; border-radius: var(--r-sm); box-shadow: var(--sh-2);
   max-width: 15rem;
 }
@@ -464,8 +463,8 @@ h1, h2, h3, h4 { font-weight: 800; line-height: 1.06; letter-spacing: -.02em; fo
 }
 .hours span:last-child { font-variant-numeric: tabular-nums; color: var(--ink-2); }
 .hours li.is-today span:last-child { color: var(--ink); }
-.facts { display: grid; gap: 1.1rem; }
-.fact { display: grid; gap: .25rem; padding-left: 1rem; border-left: 2px solid var(--line-2); }
+.facts { display: grid; border-top: 1px solid var(--line); align-content: start; }
+.fact { display: grid; gap: .2rem; padding: .95rem 0; border-bottom: 1px solid var(--line); }
 .fact b { font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); font-weight: 700; }
 .fact span { font-size: .97rem; color: var(--ink-2); }
 
